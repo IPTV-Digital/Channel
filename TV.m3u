@@ -16,8 +16,7 @@
 http://210.210.155.35/qwr9ew/s/s04/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 
-#EXTINF:0 tvg-id="SCTV.id" group-title="TV LOKAL",SCTV
-tvg-logo="https://i.imgur.com/EMmOvnQ.png"
+#EXTINF:0 tvg-logo="https://i.imgur.com/EMmOvnQ.png" tvg-id="SCTV.id" group-title="TV LOKAL",SCTV
 #http://rr2.dens.tv/s/s03/index.m3u8
 http://210.210.155.35/qwr9ew/s/s03/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s03/index.m3u8
