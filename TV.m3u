@@ -10,14 +10,12 @@
 #
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png"
-tvg-id="Indosiar.id" group-title="TV LOKAL",INDOSIAR
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" tvg-id="Indosiar.id" group-title="TV LOKAL",INDOSIAR
 #http://rr2.dens.tv/s/s04/index.m3u8
 http://210.210.155.35/qwr9ew/s/s04/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/EMmOvnQ.png"
-tvg-id="SCTV.id" group-title="TV LOKAL",SCTV
+#EXTINF:0 tvg-logo="https://i.imgur.com/EMmOvnQ.png" tvg-id="SCTV.id" group-title="TV LOKAL",SCTV
 #http://rr2.dens.tv/s/s03/index.m3u8
 http://210.210.155.35/qwr9ew/s/s03/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s03/index.m3u8
