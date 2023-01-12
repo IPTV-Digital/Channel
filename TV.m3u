@@ -11,12 +11,14 @@
 #
 #EXTM3U
 
-#EXTINF:0 tvg-id="Indosiar.id" tvg-logo="https://s.id/1d0ti" group-title="TV LOKAL",INDOSIAR
+#EXTINF:0 tvg-id="Indosiar.id" group-title="TV LOKAL",INDOSIAR
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png"
 #http://rr2.dens.tv/s/s04/index.m3u8
 http://210.210.155.35/qwr9ew/s/s04/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 
-#EXTINF:0 tvg-id="SCTV.id" tvg-logo="https://s.id/1d0vb" group-title="TV LOKAL",SCTV
+#EXTINF:0 tvg-id="SCTV.id" group-title="TV LOKAL",SCTV
+tvg-logo="https://i.imgur.com/EMmOvnQ.png"
 #http://rr2.dens.tv/s/s03/index.m3u8
 http://210.210.155.35/qwr9ew/s/s03/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s03/index.m3u8
@@ -137,7 +139,6 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizke
 
 #
 ### Channel News
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="NEWS",
 #
 #EXTM3U
 
@@ -157,20 +158,19 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="CNNIndonesia.id" tvg-logo="https://i.imgur.com/9CmaXXL.png" group-title="NEWS",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-#EXTINF:0 tvg-id="" tvg-logo=""
-group-title="NEWS",Kompas TV
+#EXTINF:0 tvg-id="KompasTV.id" tvg-logo="https://i.imgur.com/bD6UHeZ.png" group-title="NEWS",Kompas TV
 #http://rr2.dens.tv/s/s104/index.m3u8
 http://210.210.155.35/qwr9ew/s/s104/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s104/index.m3u8
+#https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="NEWS",
 #
 ### Channel World
 #
 #EXTM3U
 
-#EXTINF:0  tvg-logo="https://i.imgur.com/zxe2RT2.png" group-title="TV LOKAL",TVRI World
+#EXTINF:0 tvg-logo="https://i.imgur.com/zxe2RT2.png" group-title="TV LOKAL",TVRI World
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 
 #
@@ -178,7 +178,7 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 #
 #EXTM3U
 
-#EXTINF:0  tvg-logo="https://i.imgur.com/3openq8.png" group-title="TV LOKAL",TVRI Sport
+#EXTINF:0 tvg-logo="https://i.imgur.com/3openq8.png" group-title="TV LOKAL",TVRI Sport
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
 #
@@ -213,7 +213,6 @@ https://av-live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 #
 ### Channel Daerah
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="DAERAH",
 #
 #EXTM3U
 
@@ -239,8 +238,46 @@ https://e1.siar.us/badartv/live/playlist.m3u8
 #EXTINF:0 tvg-id="BungoTV.id" tvg-logo="https://i.imgur.com/OrCrtDA.png" group-title="DAERAH",Bungo TV
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 
+#EXTINF:0 tvg-id="ElshintaTV.id" tvg-logo="https://i.imgur.com/x5uoy2H.png" group-title="DAERAH",Elshinta TV
+http://210.210.155.37/qwr9ew/s/s10/index.m3u8
 
+#EXTINF:0 tvg-id="FajarTV.id" tvg-logo="https://i.imgur.com/mkuXxRK.png" group-title="DAERAH",Fajar TV
+http://122.248.43.138:1935/ch27/myStream/playlist.m3u8
 
+#EXTINF:0 tvg-id="GarudaTV.id" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="DAERAH",Garuda TV
+https://ms.digdaya.tv/live/digdayatv/live.m3u8
+
+#EXTINF:0 tvg-id="HumaBetangTV.id" tvg-logo="https://i.imgur.com/xBTqOEu.png" group-title="DAERAH",Huma Betang TV
+https://v3.siar.us/humabetangtv/live/playlist.m3u8
+
+#EXTINF:0 tvg-id="InspiraTV.id" tvg-logo="https://i.imgur.com/BF5orkg.png" group-title="DAERAH",Inspira TV
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+
+#EXTINF:0 tvg-id="JambiTV.id" tvg-logo="https://i.imgur.com/BaNtB6K.png" group-title="DAERAH",Jambi TV
+http://122.248.43.138:1935/ch23/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-id="JawaPosTV.id" tvg-logo="https://i.imgur.com/Kt2kOGH.png" group-title="DAERAH",Jawa Pos TV
+https://v2.siar.us/jawapostv/live/chunks.m3u8
+
+#EXTINF:0 tvg-id="JogjaIstimewaTV.id" tvg-logo="https://i.imgur.com/VEqQfTu.png" group-title="DAERAH",Jogja Istimewa TV
+http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
+
+#EXTINF:0 tvg-id="JogjaTV.id" tvg-logo="https://i.imgur.com/m9ezMUz.png" group-title="DAERAH",Jogja TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+
+#EXTINF:0 tvg-id="JPMTV.id" tvg-logo="https://i.imgur.com/FM6WN4S.png" group-title="DAERAH",JPM TV
+http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-id="JTV.id" tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="DAERAH",JTV
+http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-id="KawanuaTV.id" tvg-logo="https://i.imgur.com/xFaoLIX.png" group-title="DAERAH",Kawanua TV
+http://122.248.43.138:1935/ch18/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-id="MaduTV.id" tvg-logo="https://i.imgur.com/cKpgbgW.png" group-title="DAERAH",Madu TV
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="DAERAH",
 #
 ### Channel TVRI Daerah
 #
