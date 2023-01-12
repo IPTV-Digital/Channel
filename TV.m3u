@@ -7,7 +7,6 @@
 
 #
 ### Channel Lokal
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="TV LOKAL",
 #
 #EXTM3U
 
@@ -124,6 +123,7 @@ https://anevia114.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa
 #EXTINF:0  tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/JAKARTA.png" group-title="TV LOKAL",TVRI Jakarta
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
 
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="TV LOKAL",
 #
 ### Channel Kids
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="KIDS",
