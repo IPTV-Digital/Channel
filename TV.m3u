@@ -422,7 +422,8 @@ https://streamingv2.shoutcast.com/motion-jakarta
 #EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7130.jpg" group-title="Radio Online",Female FM
 http://onlineradiobox.com/json/id/female/play
 #EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7092.jpg" group-title="Radio Online",Delta FM
-http://live.masima.cloud:9002/deltafm
+#http://live.masima.cloud:9002/deltafm
+https://stream.cloudmu.id/listen/delta/stream?icy=http
 #EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7091.jpg" group-title="Radio Online",Bahana FM
 http://stream.bahanafm.co.id:8100/;
 #EXTINF:0 tvg-logo="https://i.imgur.com/Xs4j9YI.png" group-title="Radio Online",EBS FM
