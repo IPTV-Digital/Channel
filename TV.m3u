@@ -132,17 +132,17 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="TV LOKAL",
 #
 ### Channel Kids
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="KIDS",
 #
 #EXTM3U
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="KIDS",Aniplus
-http://rr1.dens.tv/h/h02/index.m3u8
+#http://rr1.dens.tv/h/h02/index.m3u8
 http://210.210.155.35/dr9445/h/h02/index.m3u8
 
 #EXTINF:0 tvg-id="BiznetKids.id" tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="KIDS",Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
 
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="KIDS",
 #
 ### Channel News
 #
