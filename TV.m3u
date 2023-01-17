@@ -381,6 +381,8 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
 #
 #EXTM3U
 
+#EXTINF:0 tvg-id="" tvg-logo="https://www.bensradio.com/wp-content/uploads/2020/10/LOGO-BENS-RADIO-PNG-600x600.png" group-title="Radio Online",Bens Radio
+https://stream-38.zeno.fm/hn8f3ey0rxhvv?zs=rh4s0LFURqGLueRczZl4mg
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Indika_fm_2016.png" group-title="Radio Online",Indika FM
 https://s2.radio.co/sf58a82d7d/listen
 #EXTINF:0 tvg-logo="https://i.imgur.com/bGvJ6py.png" group-title="Radio Online",Hitz FM
