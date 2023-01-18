@@ -31,9 +31,10 @@ https://dl.dropboxusercontent.com/s/5c1zmw9pxqojtyw/Vid_sctv.m3u8
 http://210.210.155.35/qwr9ew/s/s41/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s41/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1280px-Moji_blue.svg.png" group-title="TV LOKAL",Moji
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1280px-Moji_blue.svg.png" group-title="TV LOKAL",Moji Vid
 #http://mpwtv.my.id/vidioye/206-moji.m3u8
-http://geocities.ws/ariev7xx/moji.m3u8
+#http://geocities.ws/ariev7xx/moji.m3u8
+https://www.dropbox.com/s/hfefn03y1yeht20/Vid_moji.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
