@@ -98,7 +98,7 @@ http://210.210.155.35/qwr9ew/s/s07/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s07/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s07/02.m3u8
 #http://iptvid.my.id/hmm/antv.m3u8
-https://av-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+#https://av-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -144,6 +144,9 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/JAKARTA.png" group-title="TV LOKAL",TVRI Jakarta
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
+
+#EXTINF:0 tvg-id="OChannel.id" tvg-logo="https://i.imgur.com/q6uqktq.png" group-title="TV LOKAL",O Channel
+http://210.210.155.37/qwr9ew/s/s41/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="TV LOKAL",
 #
@@ -336,7 +339,17 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 #EXTINF:0 tvg-id="MTATV.id" tvg-logo="https://i.imgur.com/3kGs7k0.png" group-title="DAERAH",MTA TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
 
+#EXTINF:0 tvg-id="NusantaraTV.id" tvg-logo="https://i.imgur.com/viun5hj.png" group-title="DAERAH",Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
+#EXTINF:0 tvg-id="PadangTV.id" tvg-logo="https://i.imgur.com/EL2BfxY.png" group-title="DAERAH",Padang TV
+http://122.248.43.138:1935/ch16/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-id="PalembangTV.id" tvg-logo="https://i.imgur.com/e2F1zyU.png" group-title="DAERAH",Palembang TV
+https://v3.siar.us/paltv/live/playlist.m3u8
+
+#EXTINF:0 tvg-id="PijarTV.id" tvg-logo="https://i.imgur.com/6rYTI41.png" group-title="DAERAH",Pijar TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/pijartv
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="DAERAH",
 #
