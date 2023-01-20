@@ -336,9 +336,6 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 #EXTINF:0 tvg-id="MTATV.id" tvg-logo="https://i.imgur.com/3kGs7k0.png" group-title="DAERAH",MTA TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
 
-#EXTINF:0 tvg-id="MuadzTV.id" tvg-logo="https://i.imgur.com/wT7sNUW.png" group-title="DAERAH",Muadz TV
-https://h1.intechmedia.net/intech/ch5.m3u8
-
 
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="DAERAH",
@@ -448,8 +445,13 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 #
 #EXTM3U
 
+#EXTINF:0 tvg-id="MuadzTV.id" tvg-logo="https://i.imgur.com/wT7sNUW.png" group-title="RELIGIOUS",Muadz TV
+https://h1.intechmedia.net/intech/ch5.m3u8
+
 #EXTINF:0 tvg-id="NabawiTV.id" tvg-logo="https://i.imgur.com/O8WONFB.png" group-title="RELIGIOUS",Nabawi TV
 https://alfa.kugo.id/nabawitv/nabawitv/playlist.m3u8
+
+
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="RELIGIOUS",
 #
