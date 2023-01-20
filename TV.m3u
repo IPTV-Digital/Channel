@@ -1,46 +1,56 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml,https://iptv-org.github.io/epg/guides/id/useetv.com.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.xml,https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml" refresh="3600"
+#EXTM3U
+
+#https://dl.dropboxusercontent.com
+
+#https://idcloud.tech/test
+#https://dukun.masuk.id/playlist
+
 
 #EXTM3U
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="",
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml,https://iptv-org.github.io/epg/guides/id/useetv.com.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.xml,https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml,https://macan.tv/xmltv.php?username=epg&password=epg" refresh="3600" max-conn="1" refresh="24"
+
 #
 ### Channel Lokal
 #
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" tvg-id="Indosiar.id" group-title="TV LOKAL",INDOSIAR
+#EXTINF:0 tvg-id="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV LOKAL",INDOSIAR
 #http://rr2.dens.tv/s/s04/index.m3u8
 http://210.210.155.35/qwr9ew/s/s04/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s04/index.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" tvg-id="Indosiar.id" group-title="TV LOKAL",INDOSIAR
+#https://k.ksa.my.id/ksa.m3u8?a=33cbc98636ea6b2b4a28&b=a457cd239f7e72b12c6d&c=fe251b8cbf412cf05603
 #http://mpwtv.my.id/vidioye/205-indosiar.m3u8
-https://dl.dropboxusercontent.com/s/43xov7sz14xurn4/Vid_indosiar_Geo.m3u8
-https://dl.dropboxusercontent.com/s/gw57oqh33lcw9ye/Vid_indosiar.m3u8
+#https://geocities.ws/ariev7xx/indosiar.m3u8
+#https://idcloud.tech/indosiar_vid.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/EMmOvnQ.png" tvg-id="SCTV.id" group-title="TV LOKAL",SCTV
+#EXTINF:0 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="TV LOKAL",SCTV
 #http://rr2.dens.tv/s/s03/index.m3u8
-#http://210.210.155.35/qwr9ew/s/s03/index.m3u8
+http://210.210.155.35/qwr9ew/s/s03/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s03/index.m3u8
-https://dl.dropboxusercontent.com/s/5c1zmw9pxqojtyw/Vid_sctv.m3u8
+#https://k.ksa.my.id/ksa.m3u8?a=c503fc6c5f0efeac6080&b=16c98dda3ce86e1907df&c=aa3a68bfd25acb92fcc7
+#http://nonton.wap.sh/id/009.m3u8
+#https://idcloud.tech/sctv_vid.m3u8
+#https://geocities.ws/ariev7xx/sctv.m3u8
+#https://dl.dropboxusercontent.com/s/5c1zmw9pxqojtyw/Vid_sctv.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1280px-Moji_blue.svg.png" group-title="TV LOKAL",Moji
 #http://rr2.dens.tv/s/s41/index.m3u8
 http://210.210.155.35/qwr9ew/s/s41/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s41/index.m3u8
-https://dl.dropboxusercontent.com/s/wkuhur49mg24md8/Den_moji.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1280px-Moji_blue.svg.png" group-title="TV LOKAL",Moji Vid
-#http://mpwtv.my.id/vidioye/206-moji.m3u8
 #http://geocities.ws/ariev7xx/moji.m3u8
-https://dl.dropboxusercontent.com/s/hfefn03y1yeht20/Vid_moji.m3u8
+#https://idcloud.tech/moji_vid.m3u8
+#https://geocities.ws/ariev7xx/moji.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:0 tvg-id="" tvg-logo="https://s.id/1d0yU" group-title="TV LOKAL",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#https://idcloud.tech/rcti_vid.m3u8
 https://av-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -53,9 +63,7 @@ https://av-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:0 tvg-id="gtv" tvg-logo="https://s.id/1d0AE" group-title="TV LOKAL",GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#https://d-gtv.rctiplus.id/GTV2021.m3u8
 https://av-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-#https://liveaneviadev.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -113,11 +121,13 @@ https://av-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:0 tvg-id="net" tvg-logo="https://s.id/1d0P7" group-title="TV LOKAL",NET.
+#EXTINF:0 tvg-id="NET.id" tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="TV LOKAL",NET.
 #http://rr2.dens.tv/s/s08/02.m3u8
 http://210.210.155.35/qwr9ew/s/s08/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s08/index.m3u8
+#http://45.126.83.51/qwr9ew/s/s08/index.m3u8
 #http://iptvid.my.id/hmm/net.m3u8
+#https://hls.youtb.workers.dev/channel/UC1-ATnDVEwKT6-0aEeJ2ibA.m3u8
 https://av-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:0 tvg-id="BiznetAdventure.id" tvg-logo="https://i.imgur.com/ZREy4zM.png" group-title="TV LOKAL",Biznet Adventure
@@ -128,11 +138,11 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0  tvg-logo="http://klik.tvri.go.id/images/TVRI_Logo.png" group-title="TV LOKAL",TVRI Nasional 
+#EXTINF:0 tvg-id="" tvg-logo="http://klik.tvri.go.id/images/TVRI_Logo.png" group-title="TV LOKAL",TVRI Nasional 
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
-https://anevia114.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+#https://anevia114.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
-#EXTINF:0  tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/JAKARTA.png" group-title="TV LOKAL",TVRI Jakarta
+#EXTINF:0 tvg-id="" tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/JAKARTA.png" group-title="TV LOKAL",TVRI Jakarta
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="TV LOKAL",
@@ -142,11 +152,16 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
 #EXTM3U
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="KIDS",Aniplus
-#http://rr1.dens.tv/h/h02/index.m3u8
+http://rr1.dens.tv/h/h02/index.m3u8
 http://210.210.155.35/dr9445/h/h02/index.m3u8
 
 #EXTINF:0 tvg-id="BiznetKids.id" tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="KIDS",Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
+
+#EXTINF:0 tvg-id="MyKidz.id" tvg-logo="https://i.imgur.com/qzZFU6d.png" group-title="KIDS",My Kidz
+http://210.210.155.37/uq2663/h/h191/index.m3u8
+
+
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="KIDS",
 #
@@ -182,17 +197,10 @@ http://210.210.155.35/qwr9ew/s/s104/index.m3u8
 #
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/zxe2RT2.png" group-title="TV LOKAL",TVRI World
+#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/zxe2RT2.png" group-title="TV LOKAL",TVRI World
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 
-#
-### Channel Sport
-#
-#EXTM3U
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/3openq8.png" group-title="TV LOKAL",TVRI Sport
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="WORLD",
 #
 ### Channel Movies
 #
@@ -223,6 +231,17 @@ https://av-live-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 #EXTINF:0 tvg-id="cinemax" tvg-logo="https://s.id/1d0Wk" group-title="MOVIES",CINEMAX
 https://av-live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
+#EXTINF:0 tvg-id="MyCinema.id" tvg-logo="https://i.imgur.com/pY7ZoWB.png" group-title="MOVIES",My Cinema
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+
+#EXTINF:0 tvg-id="MyCinemaAsia.id" tvg-logo="https://i.imgur.com/4XVZLW0.png" group-title="MOVIES",My Cinema Asia
+http://210.210.155.37/uq2663/h/h193/index.m3u8
+
+#EXTINF:0 tvg-id="MyFamily.id" tvg-logo="https://i.imgur.com/IaCmCt9.png" group-title="MOVIES",My Family
+http://210.210.155.37/uq2663/h/h194/index.m3u8
+
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="MOVIES",
 #
 ### Channel Daerah
 #
@@ -288,6 +307,39 @@ http://122.248.43.138:1935/ch18/myStream/playlist.m3u8
 
 #EXTINF:0 tvg-id="MaduTV.id" tvg-logo="https://i.imgur.com/cKpgbgW.png" group-title="DAERAH",Madu TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
+
+#EXTINF:0 tvg-id="MagnaChannel.id" tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="DAERAH",Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="Maleo.id" tvg-logo="https://i.imgur.com/DuAxIL2.png" group-title="DAERAH",Maleo
+https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
+
+#EXTINF:0 tvg-id="Max2U.id" tvg-logo="https://i.imgur.com/eU4aqWy.png" group-title="DAERAH",Max2U
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(a255dd49-dc2a-464b-8623-6ef4556dff11)/index.m3u8
+
+#EXTINF:0 tvg-id="MediaSunnahAceh.id" tvg-logo="https://i.imgur.com/CIByKTP.png" group-title="DAERAH",Media Sunnah Aceh
+https://hls.youtb.workers.dev/channel/UCem4zrffr93cp-o8cOPDhdQ.m3u8
+https://h1.intechmedia.net/intech/ch23.m3u8
+
+#EXTINF:0 tvg-id="MetroGlobeNetwork.id" tvg-logo="https://i.imgur.com/aiiinzg.png" group-title="DAERAH",Metro Globe Network
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="MGITV.id" tvg-logo="https://i.imgur.com/xrNtabe.png" group-title="DAERAH",MGI TV
+https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8
+
+#EXTINF:0 tvg-id="MGSTV.id" tvg-logo="https://i.imgur.com/MYU7dsZ.png" group-title="DAERAH",MGSTV
+https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
+
+#EXTINF:0 tvg-id="MQTV.id" tvg-logo="https://i.imgur.com/d8dQo6E.png" group-title="DAERAH",MQTV
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+
+#EXTINF:0 tvg-id="MTATV.id" tvg-logo="https://i.imgur.com/3kGs7k0.png" group-title="DAERAH",MTA TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
+
+#EXTINF:0 tvg-id="MuadzTV.id" tvg-logo="https://i.imgur.com/wT7sNUW.png" group-title="DAERAH",Muadz TV
+https://h1.intechmedia.net/intech/ch5.m3u8
+
+
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="DAERAH",
 #
@@ -383,14 +435,32 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMUTMEDAN)/index.m3u8
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
 
 #
+### Channel Sport
+#
+#EXTM3U
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/3openq8.png" group-title="TV LOKAL",TVRI Sport
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="SPORT",
+#
+### Channel Religious
+#
+#EXTM3U
+
+#EXTINF:0 tvg-id="NabawiTV.id" tvg-logo="https://i.imgur.com/O8WONFB.png" group-title="RELIGIOUS",Nabawi TV
+https://alfa.kugo.id/nabawitv/nabawitv/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="RELIGIOUS",
+#
 ### Channel Radio
 #
 #EXTM3U
 
-#EXTINF:0 tvg-id="" tvg-logo="https://www.bensradio.com/wp-content/uploads/2020/10/LOGO-BENS-RADIO-PNG-600x600.png" group-title="Radio Online",Bens Radio
+#EXTINF:0 tvg-logo="https://www.bensradio.com/wp-content/uploads/2020/10/LOGO-BENS-RADIO-PNG-600x600.png" group-title="Radio Online",Bens Radio
 #https://stream-38.zeno.fm/hn8f3ey0rxhvv?zs=rh4s0LFURqGLueRczZl4mg
 https://stream.zeno.fm/tw9a0f0g0c9uv
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Indika_fm_2016.png" group-title="Radio Online",Indika FM
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Indika_fm_2016.png" group-title="Radio Online",Indika FM
 https://s2.radio.co/sf58a82d7d/listen
 #EXTINF:0 tvg-logo="https://i.imgur.com/bGvJ6py.png" group-title="Radio Online",Hitz FM
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Hitz.m3u8
