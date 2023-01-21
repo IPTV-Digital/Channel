@@ -29,7 +29,8 @@ http://210.210.155.35/qwr9ew/s/s04/index.m3u8
 
 #EXTINF:0 tvg-id="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV LOKAL",INDOSIAR
 #EXTVLCOPT:http-referrer=https://www.score808.com/
-https://dl.dropboxusercontent.com/s/gw57oqh33lcw9ye/Vid_indosiar.m3u8|Referer=https://www.score808.com/
+#https://dl.dropboxusercontent.com/s/gw57oqh33lcw9ye/Vid_indosiar.m3u8|Referer=https://www.score808.com/
+http://tvnid.wapgem.com/indosiar.m3u8|Referer=https://www.score808.com/
 
 #EXTINF:0 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="TV LOKAL",SCTV
 #http://rr2.dens.tv/s/s03/index.m3u8
