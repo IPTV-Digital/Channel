@@ -14,6 +14,17 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml,https://iptv-org.github.io/epg/guides/id/useetv.com.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.xml,https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml,https://macan.tv/xmltv.php?username=epg&password=epg" refresh="3600" max-conn="1" refresh="24"
 
 #
+### Channel Live Event
+#
+#EXTM3U
+
+#EXTINF:0 tvg-id="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="LIVE EVENT",INDOSIAR
+http://tvnid.wapgem.com/indosiar.m3u8|Referer=https://www.score808.com/
+
+#EXTINF:0 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="LIVE EVENT",SCTV
+http://tvnid.wapgem.com/sctv.m3u8|Referer=https://www.score808.com/
+
+#
 ### Channel Lokal
 #
 #EXTM3U
@@ -26,11 +37,6 @@ http://210.210.155.35/qwr9ew/s/s04/index.m3u8
 #http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 #https://geocities.ws/ariev7xx/indosiar.m3u8
 #https://idcloud.tech/indosiar_vid.m3u8
-
-#EXTINF:0 tvg-id="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV LOKAL",INDOSIAR
-#EXTVLCOPT:http-referrer=https://www.score808.com/
-#https://dl.dropboxusercontent.com/s/gw57oqh33lcw9ye/Vid_indosiar.m3u8|Referer=https://www.score808.com/
-http://tvnid.wapgem.com/indosiar.m3u8|Referer=https://www.score808.com/
 
 #EXTINF:0 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="TV LOKAL",SCTV
 #http://rr2.dens.tv/s/s03/index.m3u8
