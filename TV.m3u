@@ -195,10 +195,10 @@ https://h1.intechmedia.net/intech/ch12.m3u8
 #EXTINF:0 tvg-id="TVEdukasi.id" tvg-logo="https://i.imgur.com/XX5wGHQ.png" group-title="TV LOKAL",TV Edukasi
 http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
 
-#EXTINF:0 tvg-id="TVTabalong.id" tvg-logo="https://i.imgur.com/2YhDH98.png" group-title="TV LOKAL",- TV Tabalong
+#EXTINF:0 tvg-id="TVTabalong.id" tvg-logo="https://i.imgur.com/2YhDH98.png" group-title="TV LOKAL",ZZ TV Tabalong
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
-#EXTINF:0 tvg-id="UChannel.id" tvg-logo="https://i.imgur.com/qxkb0cy.png" group-title="TV LOKAL",- U Channel -
+#EXTINF:0 tvg-id="UChannel.id" tvg-logo="https://i.imgur.com/qxkb0cy.png" group-title="TV LOKAL",ZZ U Channel
 http://210.210.155.37/x6bnqe/s/s73/index2.m3u8
 
 #EXTINF:0 tvg-id="UGTV.id" tvg-logo="https://i.imgur.com/iEKDH26.png" group-title="TV LOKAL",UGTV
