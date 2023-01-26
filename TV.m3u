@@ -169,7 +169,9 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="TV LOKAL",
 #
 
-#EXTINF:0 tvg-id="AstroBlitarTV.id" tvg-logo="https://i.imgur.com/rORKbGw.png" group-title="TV LOKAL",Astro Blitar TV
+#https://agropolitan.tv/
+#EXTINF:0 tvg-id="ATV.id" tvg-logo="https://i.imgur.com/uHcRd1t.png" group-title="TV LOKAL",ATV
+https://atv.siar.us/atv/live/playlist.m3u8
 
 #EXTINF:0 tvg-id="RajawaliTV.id" tvg-logo="https://i.imgur.com/dlsv1sl.png" group-title="TV LOKAL",Rajawali TV
 #http://210.210.155.37/dr9445/h/h10/index.m3u8
@@ -210,8 +212,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d
 #EXTINF:0 tvg-id="UseePrime.id" tvg-logo="https://i.imgur.com/DqizBAD.png" group-title="TV LOKAL",Usee Prime
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 
-#EXTINF:0 tvg-id="ZeeBioskop.id" tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="TV LOKAL",Zee Bioskop
-http://210.210.155.37/qwr9ew/s/s32/index.m3u8
+
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="TV LOKAL",
 
@@ -316,6 +317,9 @@ http://210.210.155.37/uq2663/h/h193/index.m3u8
 #EXTINF:0 tvg-id="MyFamily.id" tvg-logo="https://i.imgur.com/IaCmCt9.png" group-title="MOVIES",My Family
 http://210.210.155.37/uq2663/h/h194/index.m3u8
 
+#EXTINF:0 tvg-id="ZeeBioskop.id" tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="MOVIES",Zee Bioskop
+http://210.210.155.37/qwr9ew/s/s32/index.m3u8
+
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="MOVIES",
 
@@ -337,14 +341,12 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 #http://www.acehtv.tv/
 #EXTINF:0 tvg-id="AcehTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3d/Logo_acehtv.png" group-title="DAERAH",Aceh TV (No)
 
-
 #http://www.aditv.co.id/
 #EXTINF:0 tvg-id="ADiTV.id" tvg-logo="https://i.imgur.com/b4IDBG7.png" group-title="DAERAH",ADi TV
 https://v2.siar.us/aditv/livestream/chunks.m3u8
 
 #http://afbtvkupang.com/
 #EXTINF:0 tvg-id="AFBTV.id" tvg-logo="https://i.imgur.com/stxMPHv.png" group-title="DAERAH",AFB TV (No)
-
 
 #http://agropolitan.tv/
 #EXTINF:0 tvg-id="AgropolitanTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5e/Logo_Agropolitan_TV_2022.png" group-title="DAERAH",Agropolitan TV (No)
@@ -353,6 +355,8 @@ https://v2.siar.us/aditv/livestream/chunks.m3u8
 #EXTINF:0 tvg-id="AKTV.id" tvg-logo="https://i.imgur.com/DUY5WXf.png" group-title="DAERAH",AKTV (No)
 
 #EXTINF:0 tvg-id="AmbonTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/Logo_Ambon_TV.jpeg" group-title="DAERAH",Ambon TV (No)
+
+#EXTINF:0 tvg-id="AstroBlitarTV.id" tvg-logo="https://i.imgur.com/rORKbGw.png" group-title="DAERAH",Astro Blitar TV (No)
 
 #https://arek.tv/
 #EXTINF:0 tvg-id="ArekTV.id" tvg-logo="https://i.imgur.com/Bw8fLiD.png" group-title="DAERAH",Arek TV
@@ -636,6 +640,10 @@ https://tv.rodja.live/aliman/ngrp:HD_all/playlist.m3u8
 #EXTINF:0 tvg-id="AshiilTV.id" tvg-logo="https://i.imgur.com/bTktkcr.png" group-title="RELIGIOUS",Ashiil TV
 https://h1.intechmedia.net/intech/ch2.m3u8
 
+#https://www.aswajatv.com/
+#EXTINF:0 tvg-id="AswajaTV.id" tvg-logo="https://i.imgur.com/6eyl855.png" group-title="RELIGIOUS",Aswaja TV
+https://stream-03.sg1.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xkS56avBVP8yCQ_OMhDxaY9dcIU5KDfvmgI_IYWwkmlo)/dm/3/x748iuo/s/live-0.m3u8#cell=lsg1
+
 #EXTINF:0 tvg-id="MuadzTV.id" tvg-logo="https://i.imgur.com/wT7sNUW.png" group-title="RELIGIOUS",Muadz TV
 https://h1.intechmedia.net/intech/ch5.m3u8
 
@@ -653,7 +661,6 @@ https://tvmu.siar.us/tvmu/live/playlist.m3u8
 
 #EXTINF:0 tvg-id="UFA24.id" tvg-logo="https://i.imgur.com/4pVuIrK.png" group-title="RELIGIOUS",UFA 24
 https://h1.intechmedia.net/intech/ch27.m3u8
-
 
 #http://wesaltv.id/
 #EXTINF:0 tvg-id="WesalTV.id" tvg-logo="https://i.imgur.com/Uv8RWks.png" group-title="RELIGIOUS",Wesal TV
