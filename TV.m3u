@@ -171,7 +171,7 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.
 
 #https://agropolitan.tv/
 #EXTINF:0 tvg-id="ATV.id" tvg-logo="https://i.imgur.com/uHcRd1t.png" group-title="TV LOKAL",ATV
-https://atv.siar.us/atv/live/playlist.m3u8
+#https://atv.siar.us/atv/live/playlist.m3u8
 
 #EXTINF:0 tvg-id="RajawaliTV.id" tvg-logo="https://i.imgur.com/dlsv1sl.png" group-title="TV LOKAL",Rajawali TV
 #http://210.210.155.37/dr9445/h/h10/index.m3u8
@@ -281,7 +281,10 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 #
 #EXTM3U
 
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:0 tvg-id="cinemax" tvg-logo="https://s.id/1d0Wk" group-title="MOVIES",CINEMAX
+https://av-live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -303,10 +306,8 @@ https://av-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.m
 #EXTINF:0 tvg-id="hbohits" tvg-logo="https://s.id/1d0VK" group-title="MOVIES",HBO HITS
 https://av-live-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:0 tvg-id="cinemax" tvg-logo="https://s.id/1d0Wk" group-title="MOVIES",CINEMAX
-https://av-live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+#http://www.axn-asia.com/
+#EXTINF:0 tvg-id="AXNIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="MOVIES",AXN Indonesia
 
 #EXTINF:0 tvg-id="MyCinema.id" tvg-logo="https://i.imgur.com/pY7ZoWB.png" group-title="MOVIES",My Cinema
 http://210.210.155.37/uq2663/h/h192/index.m3u8
@@ -362,8 +363,28 @@ https://v2.siar.us/aditv/livestream/chunks.m3u8
 #EXTINF:0 tvg-id="ArekTV.id" tvg-logo="https://i.imgur.com/Bw8fLiD.png" group-title="DAERAH",Arek TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
 
+#EXTINF:0 tvg-id="BakudapaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/22/TV8_Balikpapan.png" group-title="DAERAH",Bakudapa TV (No)
+
+#https://btv.co.id/
+#EXTINF:0 tvg-id="BalikapanTV.id" tvg-logo="https://i.imgur.com/P3whqna.png" group-title="DAERAH",Balikapan TV (No)
+
+#https://balitv.tv/
 #EXTINF:0 tvg-id="BaliTV.id" tvg-logo="https://i.imgur.com/uH1Szme.png" group-title="DAERAH",Bali TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
+
+#https://www.baliutd.com/tv/
+#EXTINF:0 tvg-id="BaliUnitedTV.id" tvg-logo="https://i.imgur.com/4toPHMY.png" group-title="DAERAH",Bali United TV (No)
+
+#http://bandungtv.tv/
+#EXTINF:0 tvg-id="BandungTV.id" tvg-logo="https://i.imgur.com/4toPHMY.png" group-title="DAERAH",Bandung TV
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+
+#EXTINF:0 tvg-id="BanjarTV.id" tvg-logo="https://i.imgur.com/TA76a10.png" group-title="DAERAH",Banjar TV (No)
+
+#http://bantentv.com/
+#EXTINF:0 tvg-id="BantenTV.id" tvg-logo="https://i.imgur.com/tbtF40p.png" group-title="DAERAH",Banten TV
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/chunklist_w1559299828.m3u8
+
 
 #EXTINF:0 tvg-id="BatamTV.id" tvg-logo="https://i.imgur.com/lo7YXnW.png" group-title="DAERAH",Batam TV
 http://122.248.43.138:1935/ch5/myStream/playlist.m3u8
