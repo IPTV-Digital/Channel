@@ -28,8 +28,14 @@ http://tvnid.wapgem.com/indosiar.m3u8|Referer=https://www.score808.com/
 #EXTINF:0 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="LIVE EVENT",SCTV
 http://tvnid.wapgem.com/sctv.m3u8|Referer=https://www.score808.com/
 
+#https://www.beinsports.com/id/
+#EXTINF:0 tvg-id="beINSports1Indonesia.id" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="LIVE EVENT",beIN Sports 1 Indonesia
+
+#https://www.beinsports.com/id/
+#EXTINF:0 tvg-id="beINSports3Indonesia.id" tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="LIVE EVENT",beIN Sports 3 Indonesia
 
 
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="LIVE EVENT",
 
 #
 ### Channel Lokal
@@ -238,12 +244,15 @@ http://210.210.155.37/uq2663/h/h191/index.m3u8
 #
 #EXTM3U
 
+#https://www.beritasatu.com/
 #EXTINF:0 tvg-id="BeritaSatu.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/BeritaSatu_%28Indonesian_news_channel%29.png/512px-BeritaSatu_%28Indonesian_news_channel%29.png" group-title="NEWS",BeritaSatu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
+#https://www.beritasatu.com/
 #EXTINF:0 tvg-id="BeritaSatuEnglish.id" tvg-logo="https://i.imgur.com/SIgwO6M.png" group-title="NEWS",BeritaSatu English
 https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
 
+#https://www.beritasatu.com/livestream/world
 #EXTINF:0 tvg-id="BeritaSatuWorld.id" tvg-logo="https://i.imgur.com/gHBxpyc.png" group-title="NEWS",BeritaSatu World
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
@@ -384,12 +393,24 @@ http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 #EXTINF:0 tvg-id="BantenTV.id" tvg-logo="https://i.imgur.com/tbtF40p.png" group-title="DAERAH",Banten TV
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/chunklist_w1559299828.m3u8
 
-
+#http://batamtvnews.com/
 #EXTINF:0 tvg-id="BatamTV.id" tvg-logo="https://i.imgur.com/lo7YXnW.png" group-title="DAERAH",Batam TV
 http://122.248.43.138:1935/ch5/myStream/playlist.m3u8
 
+#http://batiktv.pekalongankota.go.id/
+#EXTINF:0 tvg-id="BatikTV.id" tvg-logo="https://i.imgur.com/LDUbXso.png" group-title="DAERAH",Batik TV (No)
+
+#http://batutelevisi.com/
+#EXTINF:0 tvg-id="BatuTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4f/Batu_TV.png" group-title="DAERAH",Batu TV
+http://117.103.69.219:8080/live/streaming/index.m3u8
+
+#https://www.bayutvpersada.com/
 #EXTINF:0 tvg-id="BayuTVNganjuk.id" tvg-logo="https://i.imgur.com/QeL5QHy.png" group-title="DAERAH",Bayu TV Nganjuk
 https://5bf7b725107e5.streamlock.net/bayutvpersada/bayutvpersada/playlist.m3u8
+
+#https://www.bbstv.id/
+#EXTINF:0 tvg-id="BBSTV.id" tvg-logo="https://i.imgur.com/cdfkh6N.png" group-title="DAERAH",BBS TV
+http://103.119.54.246:8080/hls/bbstv.m3u8
 
 #EXTINF:0 tvg-id="BETV.id" tvg-logo="https://i.imgur.com/3EX0zax.png" group-title="DAERAH",BE TV
 https://h1.intechmedia.net/intech/ch58.m3u8
@@ -672,7 +693,7 @@ https://alfa.kugo.id/nabawitv/nabawitv/playlist.m3u8
 
 #https://radiokitatv.com/
 #EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/Dz3BzBe.png" group-title="RELIGIOUS",Radio Kita TV
-https://h1.intechmedia.net/intech/ch16.m3u8
+#https://h1.intechmedia.net/intech/ch16.m3u8
 https://streaming.yufid.com/hls/radiokitatv.m3u8
 
 #https://www.rasyaad.tv/
