@@ -176,26 +176,22 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.
 #EXTINF:0 tvg-id="ATV.id" tvg-logo="https://i.imgur.com/uHcRd1t.png" group-title="TV LOKAL",ATV
 #https://atv.siar.us/atv/live/playlist.m3u8
 
+#https://www.rtv.co.id/
 #EXTINF:0 tvg-id="RajawaliTV.id" tvg-logo="https://i.imgur.com/dlsv1sl.png" group-title="TV LOKAL",Rajawali TV
-#http://210.210.155.37/dr9445/h/h10/index.m3u8
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+http://210.210.155.37/dr9445/h/h10/index.m3u8
+#https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 
-#EXTINF:0 tvg-id="RasyaadTV.id" tvg-logo="https://i.imgur.com/DmFoA5Z.png" group-title="TV LOKAL",Rasyaad TV
-#https://h1.intechmedia.net/intech/ch6.m3u8
-https://hls.youtb.workers.dev/channel/UCotIkyDFzztbSm21GNGsK9w.m3u8
+
 
 #EXTINF:0 tvg-id="PopMusik.id" tvg-logo="https://i.imgur.com/Dfnl0nf.png" group-title="TV LOKAL",Pop Musik
 https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
 
-#EXTINF:0 tvg-id="RodjaTV.id" tvg-logo="https://i.imgur.com/XwCeHlC.png" group-title="TV LOKAL",Rodja TV
-#https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8
-https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
+
 
 #EXTINF:0 tvg-id="RuangTrampil.id" tvg-logo="https://i.imgur.com/93EZSRw.png" group-title="TV LOKAL",Ruang Trampil
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
 
-#EXTINF:0 tvg-id="SalamTV.id" tvg-logo="https://i.imgur.com/00Ifzgo.png" group-title="TV LOKAL",Salam TV
-https://h1.intechmedia.net/intech/ch12.m3u8
+
 
 #EXTINF:0 tvg-id="TVEdukasi.id" tvg-logo="https://i.imgur.com/XX5wGHQ.png" group-title="TV LOKAL",TV Edukasi
 http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
@@ -674,6 +670,25 @@ https://h1.intechmedia.net/intech/ch5.m3u8
 #EXTINF:0 tvg-id="NabawiTV.id" tvg-logo="https://i.imgur.com/O8WONFB.png" group-title="RELIGIOUS",Nabawi TV
 https://alfa.kugo.id/nabawitv/nabawitv/playlist.m3u8
 
+#https://radiokitatv.com/
+#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/Dz3BzBe.png" group-title="RELIGIOUS",Radio Kita TV
+https://h1.intechmedia.net/intech/ch16.m3u8
+https://streaming.yufid.com/hls/radiokitatv.m3u8
+
+#https://www.rasyaad.tv/
+#EXTINF:0 tvg-id="RasyaadTV.id" tvg-logo="https://i.imgur.com/DmFoA5Z.png" group-title="RELIGIOUS",Rasyaad TV
+#https://h1.intechmedia.net/intech/ch6.m3u8
+https://hls.youtb.workers.dev/channel/UCotIkyDFzztbSm21GNGsK9w.m3u8
+
+#https://rodja.tv/
+#EXTINF:0 tvg-id="RodjaTV.id" tvg-logo="https://i.imgur.com/XwCeHlC.png" group-title="RELIGIOUS",Rodja TV
+#https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8
+https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
+
+#https://salamtelevisi.com/
+#EXTINF:0 tvg-id="SalamTV.id" tvg-logo="https://i.imgur.com/00Ifzgo.png" group-title="RELIGIOUS",Salam TV
+https://h1.intechmedia.net/intech/ch12.m3u8
+
 #EXTINF:0 tvg-id="SunnahJalanPastiTV.id" tvg-logo="https://i.imgur.com/8Ls5rsy.png" group-title="RELIGIOUS",Sunnah Jalan Pasti TV
 https://h1.intechmedia.net/intech/ch17.m3u8
 
@@ -778,8 +793,7 @@ http://103.246.184.62:1935/noice_kisfm/kisfm/playlist.m3u8
 http://103.246.184.62:1935/noice_mostfm/mostfm/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.dropbox.com/s/5g6wgbq9xwgsrw8/MUSTANG.png?dl=1" group-title="Radio Online",MUSTANG
 http://103.246.184.62:1935/noice_mustangfm/mustangfm/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/Dz3BzBe.png" group-title="Radio Online",Radio Kita TV
-https://h1.intechmedia.net/intech/ch16.m3u8
+
 
 #EXTM3U
 #
