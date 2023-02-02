@@ -86,6 +86,8 @@ http://103.167.167.5:8111/play/a01c/index.m3u8
 ### Channel Lokal
 #
 #EXTM3U
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml,https://iptv-org.github.io/epg/guides/id/useetv.com.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.xml,https://epg.ksa.my.id/ksa.xml,https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml,https://macan.tv/xmltv.php?username=epg&password=epg" 
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml,https://iptv-org.github.io/epg/guides/id/useetv.com.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.xml,https://epg.ksa.my.id/ksa.xml,https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml,https://macan.tv/xmltv.php?username=epg&password=epg" 
 
 #EXTINF:0 tvg-id="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV LOKAL",INDOSIAR
 #http://rr2.dens.tv/s/s04/index.m3u8
