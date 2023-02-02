@@ -28,6 +28,9 @@
 
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml,https://iptv-org.github.io/epg/guides/id/useetv.com.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.xml,https://epg.ksa.my.id/ksa.xml,https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml,https://macan.tv/xmltv.php?username=epg&password=epg" url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml,https://iptv-org.github.io/epg/guides/id/useetv.com.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.xml,https://epg.ksa.my.id/ksa.xml,https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml,https://macan.tv/xmltv.php?username=epg&password=epg" refresh="3600" max-conn="1" refresh="24" 
 
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml,https://iptv-org.github.io/epg/guides/id/useetv.com.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.xml,https://epg.ksa.my.id/ksa.xml,https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml,https://macan.tv/xmltv.php?username=epg&password=epg" 
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml,https://iptv-org.github.io/epg/guides/id/useetv.com.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.xml,https://epg.ksa.my.id/ksa.xml,https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml,https://macan.tv/xmltv.php?username=epg&password=epg" 
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0)
 
 #
