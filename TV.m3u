@@ -37,11 +37,11 @@
 #
 #EXTM3U
 
-#EXTINF:0 tvg-id="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="LIVE EVENT",INDOSIAR
+#EXTINF:0 tvg-id="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="LIVE EVENT",INDOSIAR Live 1
 http://tvnid.wapgem.com/indosiar.m3u8|Referer=https://www.score808.com/
 #https://hls3.04lv.com/live/L126257501.m3u8?txSecret=8bd21c5a3d45b97836c06d85f7cc5041&txTime=63CF9E10&_s=stream
 
-#EXTINF:0 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="LIVE EVENT",SCTV
+#EXTINF:0 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="LIVE EVENT",SCTV Live 1
 http://tvnid.wapgem.com/sctv.m3u8|Referer=https://www.score808.com/
 
 #EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/briliga1.jpg" group-title="LIVE EVENT",BRI Liga 1
@@ -56,23 +56,23 @@ https://hls3.04lv.com/live/L1287517.m3u8?txSecret=c9e2590593a6736dcefcc9e212a986
 #https://www.beinsports.com/id/
 #EXTINF:0 tvg-id="beINSports3Indonesia.id" tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="LIVE EVENT",beIN Sports 3 Indonesia
 
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="LIVE EVENT",Moji Live
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1280px-Moji_blue.svg.png" group-title="LIVE EVENT",Moji Live
 http://www.goldentv.tech:25461/Bokep333/Bokep333/25764
 
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="LIVE EVENT",Tess 1
-http://www.goldentv.tech:25461/Bokep333/Bokep333/25668
-
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="LIVE EVENT",Tess 2
+#EXTINF:0 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="LIVE EVENT",SCTV Live 2
 http://www.goldentv.tech:25461/Bokep333/Bokep333/25688
 
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="LIVE EVENT",Tess 3
+#EXTINF:0 tvg-id="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="LIVE EVENT",INDOSIAR Live 2
 http://www.goldentv.tech:25461/Bokep333/Bokep333/25686
 
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="LIVE EVENT",Tess 4
+#EXTINF:0 tvg-id="" tvg-logo="https://s.id/1d0yU" group-title="LIVE EVENT",RCTI Live 1
 http://www.goldentv.tech:25461/Bokep333/Bokep333/25665
 
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="LIVE EVENT",Tess 5
+#EXTINF:0 tvg-id="" tvg-logo="https://s.id/1d0yU" group-title="LIVE EVENT",RCTI Live 2
 http://103.167.167.5:8111/play/a01c/index.m3u8
+
+#EXTINF:0 tvg-id="inews" tvg-logo="https://s.id/1d0Be" group-title="LIVE EVENT",INEWS Live
+http://www.goldentv.tech:25461/Bokep333/Bokep333/25668
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="LIVE EVENT",
 
