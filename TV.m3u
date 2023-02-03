@@ -26,10 +26,9 @@
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml,https://iptv-org.github.io/epg/guides/id/useetv.com.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.xml,https://epg.ksa.my.id/ksa.xml,https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml,https://macan.tv/xmltv.php?username=epg&password=epg" url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml,https://iptv-org.github.io/epg/guides/id/useetv.com.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.xml,https://epg.ksa.my.id/ksa.xml,https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml,https://macan.tv/xmltv.php?username=epg&password=epg" refresh="3600" max-conn="1" refresh="24" 
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml,https://iptv-org.github.io/epg/guides/id/useetv.com.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.xml,https://epg.ksa.my.id/ksa.xml,https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml,https://macan.tv/xmltv.php?username=epg&password=epg" refresh="3600" max-conn="1" refresh="24" 
 
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml,https://iptv-org.github.io/epg/guides/id/useetv.com.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.xml,https://epg.ksa.my.id/ksa.xml,https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml,https://macan.tv/xmltv.php?username=epg&password=epg" 
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml,https://iptv-org.github.io/epg/guides/id/useetv.com.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.xml,https://epg.ksa.my.id/ksa.xml,https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml,https://macan.tv/xmltv.php?username=epg&password=epg" 
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml,https://iptv-org.github.io/epg/guides/id/useetv.com.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.xml,https://epg.ksa.my.id/ksa.xml,https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml,https://macan.tv/xmltv.php?username=epg&password=epg" refresh="3600" max-conn="1" refresh="24" 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0)
 
@@ -59,23 +58,18 @@ https://hls3.04lv.com/live/L1287517.m3u8?txSecret=c9e2590593a6736dcefcc9e212a986
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="LIVE EVENT",Moji Live
 http://www.goldentv.tech:25461/Bokep333/Bokep333/25764
-http://139.162.10.204:25461/Bokep333/Bokep333/25764?token=ThRcUUdbQQ4bVwUFVFBSUlNUVldUAgUOAFFWDANWUQYAAgIJBQdRVgtDGEQQEkVRAFo5C1YVDgpUAwUNG0QRRVBEa1lQEVkWDVEEU0FKFUAIWgNACAYCD1QHBwAHXlIaF0ZdVBYJQQYPWQNET0RSTBVSFAxTW2tcBEJaWlJEXlhAWlgcFlwNa10EWQcNAhUOQwdEThBeR0hDDl1MWwpIFFdfQEJVRwYWA0MHU1pfFRhDVAkXXENGQUMOEXBzREgUUE5AVVpACltXQw5EFxUVGENeFT1AUkdME1FSVFIURgwXBhYcFl4CTGYCWwgNA1RACFgIERANFglDGBFUWAgNQlpEa0BdV0EOG1YDUltESg==
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="LIVE EVENT",Tess 1
 http://www.goldentv.tech:25461/Bokep333/Bokep333/25668
-http://139.162.10.204:25461/Bokep333/Bokep333/25668?token=ThRcUUdbQQ4bUAdRVFcFUgcOUlELVQYPVVUCCA8DUQAGBQRUBlYCDFxDGEQQEkVRAFo5C1YVDgpUAgUBG0QRRVBEa1lQEVkWDVEEU0FKFUAIWgNACAYCD1QHBwsEVVAaF0ZdVBYJQQYAWA1XQUoVURlDAxBcVlhnBVFFUFQDRgxbQ1hcGBEMWmYFUQsCCFMWWxVWQB4VXUsRFglXQgoIGhdUXURGUhdRG1sWVFBfBRZNFQUNR1lAShgWCRt+IkYaF1NMRFFdEF1WDxZcQRJEFk0VDxFtRVFLFUZWWFoDFhQPFAQSGBEOVUE+VwkNCFJXFV4JDEEVDhpQFh8bWgkKX0FZRm9EWgcWA0MGXlRQAhYc
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="LIVE EVENT",Tess 2
 http://www.goldentv.tech:25461/Bokep333/Bokep333/25688
-http://139.162.10.204:25461/Bokep333/Bokep333/25688?token=ThRcUUdbQQ4bAgdQUlZUA1FRAFsDAgNeBVJQDwFUUQEEBQNUUFdTBVpDGEQQEkVRAFo5C1YVDgpUAgsBG0QRRVBEa1lQEVkWDVEEU0FKFUAIWgNACAYCD1QHBwsEX1QaF0ZdVBYJQQUBVgVfQUoVURlDAxBcVlhnBVFFUFQDRgxbQ1hcGBEMWmYFUQsCCFMWWxVWQB4VXUsRFglXQgoIGhdUXURGUhdRG1sWV1NRABZNFQUNR1lAShgWCRt+IkYaF1NMRFFdEF1WDxZcQRJEFk0VDxFtRVFLFUZWWFoDFhQPFAQSGBEOVUE+VwkNCFJXFV4JDEEVDhpQFh8bWgkKX0FZRm9EWgcWA0MFXlNXBBYc
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="LIVE EVENT",Tess 3
 http://www.goldentv.tech:25461/Bokep333/Bokep333/25686
-http://139.162.10.204:25461/Bokep333/Bokep333/25686?token=ThRcUUdbQQ4bBwIAAgMPDAdSVlAHUwcJBwQHDVMHUlNQA1YDAFUHBl9DGEQQEkVRAFo5C1YVDgpUAgsPG0QRRVBEa1lQEVkWDVEEU0FKFUAIWgNACAYCD1QHBwsDUVcaF0ZdVBYJQQYAVARET0RSTBVSFAxTW2tcBEJaWlJEXlhAWlgcFlwNa10EWQcNAhUOQwdEThBeR0hDDl1MWwpIFFdfQEJVRwYWA0MHUlReFRhDVAkXXENGQUMOEXBzREgUUE5AVVpACltXQw5EFxUVGENeFT1AUkdME1FSVFIURgwXBhYcFl4CTGYCWwgNA1RACFgIERANFglDGBFUWAgNQlpEa0BdV0EOG1MNU1tESg==
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="LIVE EVENT",Tess 4
 http://www.goldentv.tech:25461/Bokep333/Bokep333/25665
-http://139.162.10.204:25461/Bokep333/Bokep333/25665?token=ThRcUUdbQQ4bWA1UUl4BUQMDVVQBA1ALAgUGCVJWAgAFUwUCVwNXVQxDGEQQEkVRAFo5C1YVDgpUAgUMG0QRRVBEa1lQEVkWDVEEU0FKFUAIWgNACAYCD1QHBwsCUlEaF0ZdVBYJQQUNVwJeQUoVURlDAxBcVlhnBVFFUFQDRgxbQ1hcGBEMWmYFUQsCCFMWWxVWQB4VXUsRFglXQgoIGhdUXURGUhdRG1sWVFtRBBZNFQUNR1lAShgWCRt+IkYaF1NMRFFdEF1WDxZcQRJEFk0VDxFtRVFLFUZWWFoDFhQPFAQSGBEOVUE+VwkNCFJXFV4JDEEVDhpQFh8bWgkKX0FZRm9EWgcWA0MBVVRQFUk=
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="LIVE EVENT",Tess 5
 http://103.167.167.5:8111/play/a01c/index.m3u8
@@ -86,8 +80,6 @@ http://103.167.167.5:8111/play/a01c/index.m3u8
 ### Channel Lokal
 #
 #EXTM3U
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml,https://iptv-org.github.io/epg/guides/id/useetv.com.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.xml,https://epg.ksa.my.id/ksa.xml,https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml,https://macan.tv/xmltv.php?username=epg&password=epg" 
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml,https://iptv-org.github.io/epg/guides/id/useetv.com.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.xml,https://epg.ksa.my.id/ksa.xml,https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml,https://macan.tv/xmltv.php?username=epg&password=epg" 
 
 #EXTINF:0 tvg-id="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV LOKAL",INDOSIAR
 #http://rr2.dens.tv/s/s04/index.m3u8
