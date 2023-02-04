@@ -45,6 +45,7 @@ http://tvnid.wapgem.com/indosiar.m3u8|Referer=https://www.score808.com/
 http://tvnid.wapgem.com/sctv.m3u8|Referer=https://www.score808.com/
 https://mooncang.my.id/api/vidio/ch.mpd?id=9182
 https://mooncang.my.id/api/vidio/drm.php?id=9182
+https://production-drm-vidio-com-ctv-5.akamaized.net/out/v1/6b83fda0adee41598d5e1a7097ddb8b5/index.mpd
 
 #EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/briliga1.jpg" group-title="LIVE EVENT",BRI Liga 1
 #https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip1-720.m3u8
