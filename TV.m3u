@@ -41,6 +41,8 @@
 http://tvnid.wapgem.com/indosiar.m3u8|Referer=https://www.score808.com/
 #https://hls3.04lv.com/live/L126257501.m3u8?txSecret=8bd21c5a3d45b97836c06d85f7cc5041&txTime=63CF9E10&_s=stream
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:0 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="LIVE EVENT",SCTV Live 1
 http://tvnid.wapgem.com/sctv.m3u8|Referer=https://www.score808.com/
 https://mooncang.my.id/api/vidio/ch.mpd?id=9182
