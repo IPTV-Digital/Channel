@@ -90,12 +90,15 @@ https://beetv.my.id/x/usee-disco-masihsama.m3u8
 
 #EXTINF:0 tvg-id="INews.id" tvg-logo="" group-title="LIVE EVENT",Seri A
 https://webudi.onlinewebtv.lol/lb/premium56/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#https://newtest.onlinewebtv.lol/ddy6/premium56/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:0 tvg-id="INews.id" tvg-logo="" group-title="LIVE EVENT",Primeir
-https://newtest.onlinewebtv.lol/ddy6/premium414/playlist.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webudi.onlinewebtv.lol/lb/premium414/playlist.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#https://newtest.onlinewebtv.lol/ddy6/premium414/playlist.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIEN
 
 #EXTINF:0 tvg-id="INews.id" tvg-logo="" group-title="LIVE EVENT",Laliga
-https://webudi.onlinewebtv.lol/lb/premium56/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webudi.onlinewebtv.lol/lb/premium415/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#https://newtest.onlinewebtv.lol/ddy6/premium415/playlist.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="LIVE EVENT",
 
