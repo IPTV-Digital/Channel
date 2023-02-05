@@ -95,7 +95,7 @@ https://webudi.onlinewebtv.lol/lb/premium56/index.m3u8?|referer=https://widevine
 https://newtest.onlinewebtv.lol/ddy6/premium414/playlist.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:0 tvg-id="INews.id" tvg-logo="" group-title="LIVE EVENT",Laliga
-https://webudi.onlinewebtv.lol/lb/premium56/index.m3u8
+https://webudi.onlinewebtv.lol/lb/premium56/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="LIVE EVENT",
 
