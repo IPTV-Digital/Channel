@@ -85,10 +85,13 @@ http://103.167.167.5:8111/play/a01c/index.m3u8
 #EXTINF:0 tvg-id="INews.id" tvg-logo="https://s.id/1d0Be" group-title="LIVE EVENT",INEWS Live
 http://www.goldentv.tech:25461/Bokep333/Bokep333/25668
 
-#EXTINF:0 tvg-id="INews.id" tvg-logo="https://s.id/1d0Be" group-title="LIVE EVENT",Dicovery
+#EXTINF:0 tvg-id="INews.id" tvg-logo="" group-title="LIVE EVENT",Dicovery
 https://beetv.my.id/x/usee-disco-masihsama.m3u8
 
-#EXTINF:0 tvg-id="INews.id" tvg-logo="https://s.id/1d0Be" group-title="LIVE EVENT",Primeir
+#EXTINF:0 tvg-id="INews.id" tvg-logo="" group-title="LIVE EVENT",Seri A
+https://webudi.onlinewebtv.lol/lb/premium56/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:0 tvg-id="INews.id" tvg-logo="" group-title="LIVE EVENT",Primeir
 https://newtest.onlinewebtv.lol/ddy6/premium414/playlist.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="LIVE EVENT",
