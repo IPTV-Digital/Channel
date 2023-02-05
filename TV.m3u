@@ -56,6 +56,7 @@ http://golive.yn.lt/live/liga1/01.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/briliga1.jpg" group-title="LIVE EVENT",BRI Liga 2
 #https://hls3.04lv.com/live/L1287517.m3u8?txSecret=c9e2590593a6736dcefcc9e212a986ca&txTime=63DA2F38&_s=stream
 http://golive.yn.lt/live/liga1/05.m3u8
+https://hls3.04lv.com/live/L1291260.m3u8?txSecret=e04af74de41d6fef2323fd876ecc4a89&txTime=63DF65C3&_s=stream
 
 #https://www.beinsports.com/id/
 #EXTINF:0 tvg-id="beINSports1Indonesia.id" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="LIVE EVENT",beIN Sports 1 Indonesia
