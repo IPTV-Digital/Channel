@@ -302,8 +302,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d
 #EXTM3U
 
 #EXTINF:0 tvg-id="" tvg-logo="http://www.dens.tv/images/channel-logo/38.jpg" group-title="KIDS",Aniplus
-http://rr1.dens.tv/h/h02/index.m3u8
-#http://210.210.155.35/dr9445/h/h02/index.m3u8
+#http://rr1.dens.tv/h/h02/index.m3u8
+http://210.210.155.35/dr9445/h/h02/index.m3u8
 #http://210.210.155.37/dr9445/h/h02/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
