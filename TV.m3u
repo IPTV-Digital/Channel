@@ -19,12 +19,12 @@
 #http://golive.yn.lt/live/liga1/
 
 #VOD
-https://www.seulangatv.com/mysql/vod/get_vod.php
+#https://www.seulangatv.com/mysql/vod/get_vod.php
 #http://51.81.208.167/
-http://144.217.180.205/
-http://185.223.160.3/
-http://23.147.64.113/movies/
-https://fmmovie.ferymaleharmx.workers.dev/
+#http://144.217.180.205/
+#http://185.223.160.3/
+#http://23.147.64.113/movies/
+#https://fmmovie.ferymaleharmx.workers.dev/
 
 #EXTM3U
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="",
