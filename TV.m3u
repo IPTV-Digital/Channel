@@ -47,6 +47,12 @@
 #
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="Cnn Indonesia" tvg-logo="https://i.ytimg.com/vi/um11u1qPxSQ/hq720_live.jpg?sqp=CPymx58G-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyGbpD03gXZoeeu9fArDceN6sCWQ" group-title="Live Event",MPL ID S11
+https://eazyencrypted.my.id/encrypt/stream.m3u8?token=UtgEaRPwqlw6vm_i_rTYTnBDNkl4dCtQeEdqWTc4aW9sOStlcE1JZU80SlFzL2pvbnJ6OTgxSUZ2cTlXY1l3cHhET2ZLUkpQY0ZnUm1uYmhhUUNvVHE0b3R6SE5LN0xvN2E2b05nPT0&exp=1676879411&hmac=d952c7ff15423e76b5913b93b759867a9917185a7d36176b4a26b6f5fb904855
+
+#EXTINF:-1 tvg-id="" tvg-name="Cnn Indonesia" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2023/02/19/660282359.jpg" group-title="Live Event",Indonesia vs New Zeland
+https://eazyencrypted.my.id/encrypt/stream.m3u8?token=KeSmND4hcr7t3Ocfz_Cs9FdNS2h0QnAyN3RZRWgyY0gwUUh6bUNTUm5Ha3V1anVwTHd6ZlJjQnVkMlNoZzdoYkJkSytSUStFcXp6M0JiYUlsZkFYdloyRGhYOXRkdXJhTnhrQitFTk9KTkVsdjJXM1F5VFM0amR0SVZpSzJMM3kxUnNvREJUYWJObFdXRG42K3JoUWtNdzg1SDY2QlRxcUxid1l0dThpOVUrRUxJLzNRSnd4aElBaC8zeG9jekpKdjh1MkV6Z04yMEVQTlhHNVU4SzJ3THdFNnVDR0VZZXhWYVA3YTVNWDZ1RmoxRkovL2VIcm01dkFwU3pIMUhaMVdMdFk4SzlickRJeXR6bFVVN1JZZmlOSG96WDhLTXBtQ1Njb1E3SkVySVFSd0ZXd21EVXNuQWgxMjQ5UFd5Qm9LRW5VYjFVRStxSXBsUTAzdnFSbVpEaEpQZlEvWjU4c0c4c3VRSXR3MDBBaHNUbGFneU5XRjR5V2lqbFNKQ1RhRmdtQm9kWUpBSzFXZGkrRGNJYTJMU0dZUHpIZ25HM3B6WDFCQUE9PQ&exp=1676827018&hmac=da35b05e28ff29c7900b1959137fc0ab49504302e7f2192e0ca9cf8d0c905360
+
 #EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/customthumb/2013/07/03/82/bein_sport_logo.jpg?w=700&q=90" group-title="BEIN SPORTS",BEIN SPORTS 1 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
