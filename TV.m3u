@@ -47,6 +47,18 @@
 #
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="Champions TV 5" tvg-logo="https://thumbor.prod.vidiocdn.com/rDybdMMOC-NZ1bzkWvpSRYBxeG8=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg" group-title="[MC] SPORTS - Vidio",Champions TV 5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=9182
+#https://mooncang.my.id/api/vidio/ch.mpd?id=9182&code=champions-tv-5
+https://production-drm-vidio-com-ctv-5.akamaized.net/out/v1/6b83fda0adee41598d5e1a7097ddb8b5/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Champions TV 6" tvg-logo="https://thumbor.prod.vidiocdn.com/C4KPuTc3ag2XzBR_ZqMECdK0Xpg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg" group-title="[MC] SPORTS - Vidio",Champions TV 6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=9183
+#https://mooncang.my.id/api/vidio/ch.mpd?id=9183&code=champions-tv-6
+https://prod-drm-vidio-com-ctv-6.akamaized.net/out/v1/8ecc1b702b4a4871b51304a9cb82d561/index.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="Cnn Indonesia" tvg-logo="https://i.ytimg.com/vi/um11u1qPxSQ/hq720_live.jpg?sqp=CPymx58G-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyGbpD03gXZoeeu9fArDceN6sCWQ" group-title="Live Event",MPL ID S11
 https://eazyencrypted.my.id/encrypt/stream.m3u8?token=UtgEaRPwqlw6vm_i_rTYTnBDNkl4dCtQeEdqWTc4aW9sOStlcE1JZU80SlFzL2pvbnJ6OTgxSUZ2cTlXY1l3cHhET2ZLUkpQY0ZnUm1uYmhhUUNvVHE0b3R6SE5LN0xvN2E2b05nPT0&exp=1676879411&hmac=d952c7ff15423e76b5913b93b759867a9917185a7d36176b4a26b6f5fb904855
 
