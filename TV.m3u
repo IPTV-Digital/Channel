@@ -53,10 +53,15 @@ https://eazyencrypted.my.id/encrypt/stream.m3u8?token=UtgEaRPwqlw6vm_i_rTYTnBDNk
 #EXTINF:-1 tvg-id="" tvg-name="Cnn Indonesia" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2023/02/19/660282359.jpg" group-title="Live Event",Indonesia vs New Zeland
 https://eazyencrypted.my.id/encrypt/stream.m3u8?token=KeSmND4hcr7t3Ocfz_Cs9FdNS2h0QnAyN3RZRWgyY0gwUUh6bUNTUm5Ha3V1anVwTHd6ZlJjQnVkMlNoZzdoYkJkSytSUStFcXp6M0JiYUlsZkFYdloyRGhYOXRkdXJhTnhrQitFTk9KTkVsdjJXM1F5VFM0amR0SVZpSzJMM3kxUnNvREJUYWJObFdXRG42K3JoUWtNdzg1SDY2QlRxcUxid1l0dThpOVUrRUxJLzNRSnd4aElBaC8zeG9jekpKdjh1MkV6Z04yMEVQTlhHNVU4SzJ3THdFNnVDR0VZZXhWYVA3YTVNWDZ1RmoxRkovL2VIcm01dkFwU3pIMUhaMVdMdFk4SzlickRJeXR6bFVVN1JZZmlOSG96WDhLTXBtQ1Njb1E3SkVySVFSd0ZXd21EVXNuQWgxMjQ5UFd5Qm9LRW5VYjFVRStxSXBsUTAzdnFSbVpEaEpQZlEvWjU4c0c4c3VRSXR3MDBBaHNUbGFneU5XRjR5V2lqbFNKQ1RhRmdtQm9kWUpBSzFXZGkrRGNJYTJMU0dZUHpIZ25HM3B6WDFCQUE9PQ&exp=1676827018&hmac=da35b05e28ff29c7900b1959137fc0ab49504302e7f2192e0ca9cf8d0c905360
 
-#EXTINF:0 tvg-id="live1.id" tvg-logo="https://i.postimg.cc/rFdKQQtV/20220821-043541-picsay.png" group-title="LIVE EVENT",laga Timnas
+#EXTINF:0 tvg-id="live1.id" tvg-logo="https://i.postimg.cc/rFdKQQtV/20220821-043541-picsay.png" group-title="LIVE EVENT",laga Timnas 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=12173
 https://prod-drm-timnas-event-vidio-com-v2.akamaized.net/out/v1/37083cbe466e4add8189fe65b9c73aa4/index.mpd
+
+#EXTINF:-1 tvg-id="live1.id" tvg-logo="https://i.postimg.cc/rFdKQQtV/20220821-043541-picsay.png" group-title="LIVE EVENT",laga Timnas 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+https://production-drm-vidio-com-event-20.akamaized.net/out/v1/c9b649230e124e86b9fab05712b249e2/index.mpd
 
 #https://www.beinsports.com/id/
 #EXTINF:0 tvg-id="beINSports1Indonesia.id" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="LIVE EVENT",beIN Sports 1 Indonesia
