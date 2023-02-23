@@ -47,6 +47,10 @@
 #
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/7b8WntPY/rcti.png" group-title="TES", SCTV
+#EXTVLCOPT:http-referrer=https://www.vidio.com/live/204
+https://app-etslive-2.vidio.com/live/204/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Cnn Indonesia" tvg-logo="https://i.ytimg.com/vi/um11u1qPxSQ/hq720_live.jpg?sqp=CPymx58G-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyGbpD03gXZoeeu9fArDceN6sCWQ" group-title="Live Event",MPL ID S11
 https://eazyencrypted.my.id/encrypt/stream.m3u8?token=UtgEaRPwqlw6vm_i_rTYTnBDNkl4dCtQeEdqWTc4aW9sOStlcE1JZU80SlFzL2pvbnJ6OTgxSUZ2cTlXY1l3cHhET2ZLUkpQY0ZnUm1uYmhhUUNvVHE0b3R6SE5LN0xvN2E2b05nPT0&exp=1676879411&hmac=d952c7ff15423e76b5913b93b759867a9917185a7d36176b4a26b6f5fb904855
 
