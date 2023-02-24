@@ -839,6 +839,16 @@ https://5bf7b725107e5.streamlock.net/tegartv/tegartv/playlist.m3u8
 #EXTINF:0 tvg-id="TV9Nusantara.id" tvg-logo="https://i.imgur.com/xPjWyiL.png" group-title="DAERAH",TV 9 Nusantara
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
+#https://www.vidio.com/live/7946-tv-tempo
+#EXTINF:0 tvg-id="TVTempo.id" tvg-logo="https://i.imgur.com/mSsOaqy.png" group-title="DAERAH",TV Tempo
+https://live-production.secureswiftcontent.com/exp=1677250465~acl=/hls-p/ingest_7946_*/*~hmac=8f17681e5c8beff7882a0a4672a6df9cd3b7352ef02678728f7525e8ea11a296/hls-p/ingest_7946_360p/index.m3u8
+https://app-etslive-2.vidio.com/live/7946/master.m3u8?auth=aFErdkFlK1BDbXFMc3JNQ2p3QjFxbE1hTmwxQWViMUpLOHhjVmdYWVRnYlU3eUppNmhFR25HTHZUR1hXZnQxdlFnTFBWMS96VnRWTGxwTS9XSUVCOTIrNGFJcVBVYUJ0bzVwV21ENXNtRHJ4RlFvWDh3ejJDM3BTdTQ0SUEvYWFlTmdiaXFmQ01lTk5KQ0orTmRZdjYyVHkyWWJjTTBITWlDSGNiU1ZxakJUaVlzNktuT1Fscno0Q2RxRTF6aFIxZ1piV2pueVFIMFBpSTdZOFM1RFBlNnBONmR2SUh3TElBTFBPb0I0bkxkbHh2eHFxR0ZaaWxVOEtwT3hpaWVNU01sYkRYUytsOFY2M1djcWkxdW5MaDVBU3djdUs5eDVnajhYNUFKbjVFeE1MSFhuTFcrc2Q0VWlwR29EaTh6WTVlZ0Q4NlpKUTdRSWJYTzdldmd4cUt1WEV3MGhXbW5IeWRpbEo1WHNsNXlEYWxTL2VnN3ErdHJxWDlxc2ptZG5mY3MzSEdDSk0veHRkbnlMSHBXQjB6WWtZNzdNRVpzT2xPUUlVY21VelQwS1M0alVpU0lZUVVNWGRaM2tEdUg5L1BuWm9HWFhBSFpXcDdJdktFd0MrL1FSdHNwdExiZm93WlNpbFVrOGFHS3RFcGF6bnVoUnVYaFJhS1RJWVFETC9KNlgxUWJ0VnJZUUVsVFNnQjBncmV4dm1LVkJja01wMGhwd0swdDBoQk1zaFhKRnd6YnNnT3VTdzA5R09MTzRDLzBjVTFocGJjaTRJZ1hZd1I4OHB4QW02Uk5EVG4rd0YzWUY0d2V0U2hRVzFLek9WVkFoeUMzNWZFa2c3VERnaEsyVGhzUFdGcTEwT0ZGUlp0SDlQQ2JYT1pOYWMyRHBGOHYwRlNLYXJ6SnQwNGg1Y2lFbUJyRUY2NUxHVHF0MmtOVWJkR21jeTVSd2txVi9VZ2NWbVNrKzJOaEg1alNuNmxFU2hVd3pzRUdrdE8rSnBYdG9wSmhCbDR3ZjA4MXFBQnZ1ZGVieitnM2taczg0YmlKc2xCaktEQ3piS01EQ2VHNDRyWFJIWWZyemUvUVpvSzFlUnBZUVJGZjUvQ3Rmb2NHSjJTenI2dlRqRllKdHJmQzViUlFQd2hNU0VSK2V3QkcyTURsNFVnTGs9&trace_id=b842b82c899e6c8622fcfd27aff78215%2F16541890538312816876
+
+
+#https://tv.ub.ac.id/
+#EXTINF:0 tvg-id="UBTVBrawijaya.id" tvg-logo="https://i.imgur.com/BQIi7ko.png" group-title="DAERAH",UBTV Brawijaya
+
+
 #EXTINF:0 tvg-id="UGTV.id" tvg-logo="https://i.imgur.com/iEKDH26.png" group-title="TV LOKAL",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
