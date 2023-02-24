@@ -47,10 +47,6 @@
 #
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/7b8WntPY/rcti.png" group-title="TES", SCTV
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://app-etslive-2.vidio.com/live/204/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Cnn Indonesia" tvg-logo="https://i.ytimg.com/vi/um11u1qPxSQ/hq720_live.jpg?sqp=CPymx58G-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyGbpD03gXZoeeu9fArDceN6sCWQ" group-title="Live Event",MPL ID S11
 https://eazyencrypted.my.id/encrypt/stream.m3u8?token=UtgEaRPwqlw6vm_i_rTYTnBDNkl4dCtQeEdqWTc4aW9sOStlcE1JZU80SlFzL2pvbnJ6OTgxSUZ2cTlXY1l3cHhET2ZLUkpQY0ZnUm1uYmhhUUNvVHE0b3R6SE5LN0xvN2E2b05nPT0&exp=1676879411&hmac=d952c7ff15423e76b5913b93b759867a9917185a7d36176b4a26b6f5fb904855
 
@@ -82,6 +78,16 @@ https://production-drm-vidio-com-ctv-5.akamaized.net/out/v1/6b83fda0adee41598d5e
 #KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=9183
 #https://mooncang.my.id/api/vidio/ch.mpd?id=9183&code=champions-tv-6
 https://prod-drm-vidio-com-ctv-6.akamaized.net/out/v1/8ecc1b702b4a4871b51304a9cb82d561/index.mpd
+
+#EXTINF:-1 tvg-id="briliga1.id" tvg-logo="https://i.postimg.cc/J4t1R01P/20221206-044936.png" group-title="Live Event",[15.00] PERSIK Kediri vs RANS Nusantara - BRI Liga 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=9786
+https://mooncang.my.id/api/vidio/ch.mpd?id=9786
+
+#EXTINF:-1 tvg-id="briliga1.id" tvg-logo="https://i.postimg.cc/J4t1R01P/20221206-044936.png" group-title="Live Event",[15.00] PERSIB Bandung vs Arema FC - BRI Liga 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=9308
+https://mooncang.my.id/api/vidio/ch.mpd?id=9308
 
 #EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/briliga1.jpg" group-title="LIVE EVENT",BRI Liga 1
 #https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip1-720.m3u8
@@ -526,11 +532,13 @@ http://210.210.155.37/qwr9ew/s/s32/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=6299
 https://mooncang.my.id/api/vidio/ch.mpd?id=6299&code=bein-1
+https://production-premium-vidio-bein1.akamaized.net/out/v1/56854ffa2e2541e7bdb3e428ac486319/index.mpd
 
 #EXTINF:-1 tvg-id="beINSports3Indonesia.id" tvg-name="Bein 3" tvg-logo="https://thumbor.prod.vidiocdn.com/325h1CgqikfL2T35OYA0SOBY3Co=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-e1add8.jpg" group-title="SPORTS",Bein 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=6317
 https://mooncang.my.id/api/vidio/ch.mpd?id=6317&code=bein-3
+https://production-premium-vidio-bein3.akamaized.net/out/v1/3f1c8625c65f448f97b055eed9d6fa31/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Champions TV 1" tvg-logo="https://thumbor.prod.vidiocdn.com/xpyizj_Bi2XHb6IRydUXsvq_7N0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="SPORTS",Champions TV 1
 https://mooncang.my.id/api/vidio/ch.m3u8?id=6685&code=champions-tv-1
