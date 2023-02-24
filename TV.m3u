@@ -43,41 +43,16 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0)
 
 #
-### Channel Live Event
+# Channel Live Event
 #
-#EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="Cnn Indonesia" tvg-logo="https://i.ytimg.com/vi/um11u1qPxSQ/hq720_live.jpg?sqp=CPymx58G-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyGbpD03gXZoeeu9fArDceN6sCWQ" group-title="Live Event",MPL ID S11
-https://eazyencrypted.my.id/encrypt/stream.m3u8?token=UtgEaRPwqlw6vm_i_rTYTnBDNkl4dCtQeEdqWTc4aW9sOStlcE1JZU80SlFzL2pvbnJ6OTgxSUZ2cTlXY1l3cHhET2ZLUkpQY0ZnUm1uYmhhUUNvVHE0b3R6SE5LN0xvN2E2b05nPT0&exp=1676879411&hmac=d952c7ff15423e76b5913b93b759867a9917185a7d36176b4a26b6f5fb904855
 
-#EXTINF:-1 tvg-id="" tvg-name="Cnn Indonesia" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2023/02/19/660282359.jpg" group-title="Live Event",Indonesia vs New Zeland
-https://eazyencrypted.my.id/encrypt/stream.m3u8?token=KeSmND4hcr7t3Ocfz_Cs9FdNS2h0QnAyN3RZRWgyY0gwUUh6bUNTUm5Ha3V1anVwTHd6ZlJjQnVkMlNoZzdoYkJkSytSUStFcXp6M0JiYUlsZkFYdloyRGhYOXRkdXJhTnhrQitFTk9KTkVsdjJXM1F5VFM0amR0SVZpSzJMM3kxUnNvREJUYWJObFdXRG42K3JoUWtNdzg1SDY2QlRxcUxid1l0dThpOVUrRUxJLzNRSnd4aElBaC8zeG9jekpKdjh1MkV6Z04yMEVQTlhHNVU4SzJ3THdFNnVDR0VZZXhWYVA3YTVNWDZ1RmoxRkovL2VIcm01dkFwU3pIMUhaMVdMdFk4SzlickRJeXR6bFVVN1JZZmlOSG96WDhLTXBtQ1Njb1E3SkVySVFSd0ZXd21EVXNuQWgxMjQ5UFd5Qm9LRW5VYjFVRStxSXBsUTAzdnFSbVpEaEpQZlEvWjU4c0c4c3VRSXR3MDBBaHNUbGFneU5XRjR5V2lqbFNKQ1RhRmdtQm9kWUpBSzFXZGkrRGNJYTJMU0dZUHpIZ25HM3B6WDFCQUE9PQ&exp=1676827018&hmac=da35b05e28ff29c7900b1959137fc0ab49504302e7f2192e0ca9cf8d0c905360
 
 #EXTINF:0 tvg-id="live1.id" tvg-logo="https://i.postimg.cc/rFdKQQtV/20220821-043541-picsay.png" group-title="LIVE EVENT",laga Timnas
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=12173
 https://prod-drm-timnas-event-vidio-com-v2.akamaized.net/out/v1/37083cbe466e4add8189fe65b9c73aa4/index.mpd
 #https://production-drm-vidio-com-event-20.akamaized.net/out/v1/c9b649230e124e86b9fab05712b249e2/index.mpd
-
-#https://www.beinsports.com/id/
-#EXTINF:0 tvg-id="beINSports1Indonesia.id" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="LIVE EVENT",beIN Sports 1 Indonesia
-http://103.167.167.5:8111/play/a02m/index.m3u8
-
-#https://www.beinsports.com/id/
-#EXTINF:0 tvg-id="beINSports3Indonesia.id" tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="LIVE EVENT",beIN Sports 3 Indonesia
-http://103.167.167.5:8111/play/a02n/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/rDybdMMOC-NZ1bzkWvpSRYBxeG8=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg" group-title="LIVE EVENT",Champions TV 5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=9182
-#https://mooncang.my.id/api/vidio/ch.mpd?id=9182&code=champions-tv-5
-https://production-drm-vidio-com-ctv-5.akamaized.net/out/v1/6b83fda0adee41598d5e1a7097ddb8b5/index.mpd
-
-#EXTINF:0 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/C4KPuTc3ag2XzBR_ZqMECdK0Xpg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg" group-title="LIVE EVENT",Champions TV 6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=9183
-#https://mooncang.my.id/api/vidio/ch.mpd?id=9183&code=champions-tv-6
-https://prod-drm-vidio-com-ctv-6.akamaized.net/out/v1/8ecc1b702b4a4871b51304a9cb82d561/index.mpd
 
 #EXTINF:-1 tvg-id="briliga1.id" tvg-logo="https://i.postimg.cc/J4t1R01P/20221206-044936.png" group-title="Live Event",[15.00] PERSIK Kediri vs RANS Nusantara - BRI Liga 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -143,14 +118,17 @@ http://www.goldentv.tech:25461/Bokep333/Bokep333/25665
 #EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://s.id/1d0yU" group-title="LIVE EVENT",RCTI Live 2
 http://103.167.167.5:8111/play/a01c/index.m3u8
 
+#EXTINF:0 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/2UJ99H_2b7ph-hhAm13DZfHHv68=/296x166/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7636/vidio-community-cup-valorant-season-1-78403b.jpg" group-title="LIVE EVENT",Vidio Community Cup (Esport)
+https://etslive-2-vidio-com.akamaized.net/exp=1677247642~acl=/hls-p/ingest_7636_*/*~hmac=654df87a2a6a57fb4f193e44d6492ae17eac9357a478a65557e935730d28bb38/hls-p/ingest_7636_720p/index.m3u8
 
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="LIVE EVENT",
 
 #
-### Channel Lokal
+# Channel Lokal
 #
-#EXTM3U
+
+
 
 #EXTINF:0 tvg-id="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV LOKAL",INDOSIAR
 #http://rr2.dens.tv/s/s04/index.m3u8
@@ -312,14 +290,12 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4b
 #EXTINF:0 tvg-id="TVEdukasi.id" tvg-logo="https://i.imgur.com/XX5wGHQ.png" group-title="TV LOKAL",TV Edukasi
 http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
 
-#EXTINF:0 tvg-id="TVTabalong.id" tvg-logo="https://i.imgur.com/2YhDH98.png" group-title="TV LOKAL",ZZ TV Tabalong
-https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+
 
 #EXTINF:0 tvg-id="UChannel.id" tvg-logo="https://i.imgur.com/qxkb0cy.png" group-title="TV LOKAL",ZZ U Channel
 http://210.210.155.37/x6bnqe/s/s73/index2.m3u8
 
-#EXTINF:0 tvg-id="UGTV.id" tvg-logo="https://i.imgur.com/iEKDH26.png" group-title="TV LOKAL",UGTV
-https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+
 
 #EXTINF:0 tvg-id="UseePhoto.id" tvg-logo="https://i.imgur.com/cKbCEni.png" group-title="TV LOKAL",Usee Photo
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
@@ -528,17 +504,34 @@ http://210.210.155.37/qwr9ew/s/s32/index.m3u8
 #
 
 
+
+#https://www.beinsports.com/id/
+#EXTINF:0 tvg-id="beINSports1Indonesia.id" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="LIVE EVENT",beIN Sports 1 Indonesia
+#http://103.167.167.5:8111/play/a02m/index.m3u8
+
+#https://www.beinsports.com/id/
+#EXTINF:0 tvg-id="beINSports3Indonesia.id" tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="LIVE EVENT",beIN Sports 3 Indonesia
+#http://103.167.167.5:8111/play/a02n/index.m3u8
+
 #EXTINF:-1 tvg-id="beINSports1Indonesia.id" tvg-name="Bein 1" tvg-logo="https://thumbor.prod.vidiocdn.com/xYkwkblcCfCBaC25h-XpsOKuUHI=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg" group-title="SPORTS",Bein 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=6299
 https://mooncang.my.id/api/vidio/ch.mpd?id=6299&code=bein-1
-https://production-premium-vidio-bein1.akamaized.net/out/v1/56854ffa2e2541e7bdb3e428ac486319/index.mpd
 
 #EXTINF:-1 tvg-id="beINSports3Indonesia.id" tvg-name="Bein 3" tvg-logo="https://thumbor.prod.vidiocdn.com/325h1CgqikfL2T35OYA0SOBY3Co=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-e1add8.jpg" group-title="SPORTS",Bein 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=6317
 https://mooncang.my.id/api/vidio/ch.mpd?id=6317&code=bein-3
-https://production-premium-vidio-bein3.akamaized.net/out/v1/3f1c8625c65f448f97b055eed9d6fa31/index.mpd
+
+#EXTINF:-1 tvg-id="beINSports1Indonesia.id" tvg-name="Bein 1" tvg-logo="https://thumbor.prod.vidiocdn.com/xYkwkblcCfCBaC25h-XpsOKuUHI=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg" group-title="SPORTS",Bein 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c4987a78120e3166889a9115d88aa9a:3246e4509fe89449f820d347c081544d
+#https://production-premium-vidio-bein1.akamaized.net/out/v1/56854ffa2e2541e7bdb3e428ac486319/index.mpd
+
+#EXTINF:-1 tvg-id="beINSports3Indonesia.id" tvg-name="Bein 3" tvg-logo="https://thumbor.prod.vidiocdn.com/325h1CgqikfL2T35OYA0SOBY3Co=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-e1add8.jpg" group-title="SPORTS",Bein 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c32f23c00507f80f5e8180351a2ead9b:553386e28e399cdff74266d0d3b778b1
+#https://production-premium-vidio-bein3.akamaized.net/out/v1/3f1c8625c65f448f97b055eed9d6fa31/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Champions TV 1" tvg-logo="https://thumbor.prod.vidiocdn.com/xpyizj_Bi2XHb6IRydUXsvq_7N0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="SPORTS",Champions TV 1
 https://mooncang.my.id/api/vidio/ch.m3u8?id=6685&code=champions-tv-1
@@ -560,6 +553,16 @@ https://mooncang.my.id/api/vidio/ch.mpd?id=9182&code=champions-tv-5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=9183
 https://mooncang.my.id/api/vidio/ch.mpd?id=9183&code=champions-tv-6
+
+#EXTINF:0 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/rDybdMMOC-NZ1bzkWvpSRYBxeG8=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg" group-title="LIVE EVENT",Champions TV 5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=9182
+#https://production-drm-vidio-com-ctv-5.akamaized.net/out/v1/6b83fda0adee41598d5e1a7097ddb8b5/index.mpd
+
+#EXTINF:0 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/C4KPuTc3ag2XzBR_ZqMECdK0Xpg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg" group-title="LIVE EVENT",Champions TV 6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=9183
+#https://prod-drm-vidio-com-ctv-6.akamaized.net/out/v1/8ecc1b702b4a4871b51304a9cb82d561/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Champions TV World Cup 1" tvg-logo="https://thumbor.prod.vidiocdn.com/amlE-RrEeDymvL8-P659fC8lebw=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9430/world-cup-1-959596.jpg" group-title="SPORTS",Champions TV World Cup 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -822,6 +825,10 @@ http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
 #EXTINF:0 tvg-id="SriwijayaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/75/SriwijayaTV_2014.png" group-title="DAERAH",Sriwijaya TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/sriwijayatvonline
 
+#https://tvtabalong.com/live/
+#EXTINF:0 tvg-id="TVTabalong.id" tvg-logo="https://i.imgur.com/2YhDH98.png" group-title="TV LOKAL",TV Tabalong
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+
 #EXTINF:0 tvg-id="TATV.id" tvg-logo="https://i.imgur.com/1f0EC7t.png" group-title="DAERAH",TATV
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 
@@ -831,6 +838,9 @@ https://5bf7b725107e5.streamlock.net/tegartv/tegartv/playlist.m3u8
 
 #EXTINF:0 tvg-id="TV9Nusantara.id" tvg-logo="https://i.imgur.com/xPjWyiL.png" group-title="DAERAH",TV 9 Nusantara
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+
+#EXTINF:0 tvg-id="UGTV.id" tvg-logo="https://i.imgur.com/iEKDH26.png" group-title="TV LOKAL",UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="DAERAH",
 
@@ -1003,6 +1013,7 @@ https://h1.intechmedia.net/intech/ch3.m3u8
 #EXTINF:0 tvg-id="TVMu.id" tvg-logo="https://i.imgur.com/rR2iPBk.png" group-title="RELIGIOUS",TV Mu
 https://tvmu.siar.us/tvmu/live/playlist.m3u8
 
+#https://firanda.com/
 #EXTINF:0 tvg-id="UFA24.id" tvg-logo="https://i.imgur.com/4pVuIrK.png" group-title="RELIGIOUS",UFA 24
 https://h1.intechmedia.net/intech/ch27.m3u8
 
