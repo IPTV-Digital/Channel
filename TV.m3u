@@ -294,8 +294,6 @@ http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-id="UChannel.id" tvg-logo="https://i.imgur.com/qxkb0cy.png" group-title="TV LOKAL",ZZ U Channel
-http://210.210.155.37/x6bnqe/s/s73/index2.m3u8
 
 
 
@@ -1074,6 +1072,9 @@ https://h1.intechmedia.net/intech/ch3.m3u8
 
 #EXTINF:0 tvg-id="TVMu.id" tvg-logo="https://i.imgur.com/rR2iPBk.png" group-title="RELIGIOUS",TV Mu
 https://tvmu.siar.us/tvmu/live/playlist.m3u8
+
+#EXTINF:0 tvg-id="UChannel.id" tvg-logo="https://i.imgur.com/qxkb0cy.png" group-title="RELIGIOUS",U Channel
+http://210.210.155.37/x6bnqe/s/s73/index2.m3u8
 
 #https://firanda.com/
 #EXTINF:0 tvg-id="UFA24.id" tvg-logo="https://i.imgur.com/4pVuIrK.png" group-title="RELIGIOUS",UFA 24
