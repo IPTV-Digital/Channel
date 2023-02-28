@@ -47,6 +47,15 @@
 #
 
 
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAH42dFvwzKke8dIBPxeeN5E6XGoR0Xpd3ZA&usqp=CAU" group-title="LIVE EVENT",AFF CUP 2022 server1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5158194cc4044e699d0df01772f2212:072e611a383a2d1e3d4d8ea19e016a71
+https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
+
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAH42dFvwzKke8dIBPxeeN5E6XGoR0Xpd3ZA&usqp=CAU" group-title="LIVE EVENT",AFF CUP 2022 server2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=deb6c84db4dc4578bdaa61e965b3424c:b2e6fff24da67654af548fe61aa6bd5a
+https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
 
 #EXTINF:0 tvg-id="live1.id" tvg-logo="https://i.postimg.cc/rFdKQQtV/20220821-043541-picsay.png" group-title="LIVE EVENT",laga Timnas
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
