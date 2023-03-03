@@ -286,6 +286,8 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.
 
 #EXTINF:0 tvg-id="ChannelDangdutIndonesia.id" tvg-logo="https://i.imgur.com/I603MPO.png" group-title="TV LOKAL",Channel Dangdut Indonesia
 
+#EXTINF:0 tvg-id="DangdutTivi.id" tvg-logo="https://i.imgur.com/tPd3ZNV.png" group-title="TV LOKAL",Dangdut Tivi
+
 #https://www.rtv.co.id/
 #EXTINF:0 tvg-id="RajawaliTV.id" tvg-logo="https://i.imgur.com/dlsv1sl.png" group-title="TV LOKAL",Rajawali TV
 http://210.210.155.37/dr9445/h/h10/index.m3u8
@@ -791,6 +793,26 @@ https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 #EXTINF:0 tvg-id="	
 CitraTV.id" tvg-logo="https://i.imgur.com/kvgHcrf.png" group-title="DAERAH",Citra TV (NO)
 
+#EXTINF:0 tvg-id="DayakTV.id" tvg-logo="https://i.imgur.com/wSjxmQl.png" group-title="DAERAH",Dayak TV (NO)
+
+#https://dhammaweb.tv/
+#EXTINF:0 tvg-id="DhammaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png" group-title="DAERAH",Dhamma TV
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
+
+#http://www.dhohotv.com/
+#EXTINF:0 tvg-id="DhohoTV.id" tvg-logo="https://i.imgur.com/4Khyyfh.png" group-title="DAERAH",Dhoho TV
+#https://dhohotv.siar.us/dhohotv/live/chunks.m3u8?nimblesessionid=439370
+https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
+
+#https://maxstream.tv/tv-channels/0_lld79xch
+#EXTINF:0 tvg-id="DigiOne.id" tvg-logo="https://i.imgur.com/TISRYvq.png" group-title="DAERAH",DigiOne
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
+
+#https://dmtvmalang.com/
+#EXTINF:0 tvg-id="DMTVMalang.id" tvg-logo="https://i.imgur.com/3iC41QX.png" group-title="DAERAH",DM TV Malang
+https://h1.intechmedia.net/intech/ch51.m3u8
+https://asu.gdplayer.to/playlist/b1M0NTJJZyszVWpZQi9DV1NnSXFXbklhV3dBUHgwQlprV3ZtTis2dUFCemx3d0o5MHlUTU14bGxjeGFwRzFqTlBPaThKRmdpZ3RoMzE1cEYwazlTbHc9PQ,,/master.m3u8?token=QzlrbzNYWE5NUVl2RXFvQlZVbGV2L3pRS2dFWTRjTmVqVThlVjM1YmczcS9wNmZKTXU4UTJ0c2xuZTZiQ1I2cU1IV1NDVzdlQ2ZSa0xsWk1kNWJBYXc9PQ,,
+
 #EXTINF:0 tvg-id="ElshintaTV.id" tvg-logo="https://i.imgur.com/x5uoy2H.png" group-title="DAERAH",Elshinta TV
 http://210.210.155.37/qwr9ew/s/s10/index.m3u8
 
@@ -941,7 +963,6 @@ https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
 #https://tv.ub.ac.id/
 #EXTINF:0 tvg-id="UBTVBrawijaya.id" tvg-logo="https://i.imgur.com/BQIi7ko.png" group-title="DAERAH",UBTV Brawijaya
-
 
 #EXTINF:0 tvg-id="UGTV.id" tvg-logo="https://i.imgur.com/iEKDH26.png" group-title="DAERAH",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
@@ -1095,6 +1116,9 @@ https://h1.intechmedia.net/intech/ch22.m3u8
 #http://www.ieg.id/tv-channel/citra-muslim/
 #EXTINF:0 tvg-id="CitraMuslim.id" tvg-logo="https://i.imgur.com/L0kjuZs.png" group-title="RELIGIOUS",	
 Citra Muslim (No)
+
+#https://dalwaberita.com/
+#EXTINF:0 tvg-id="DalwaTV.id" tvg-logo="https://i.imgur.com/gOfvQux.png" group-title="RELIGIOUS",Dalwa TV
 
 #EXTINF:0 tvg-id="MuadzTV.id" tvg-logo="https://i.imgur.com/wT7sNUW.png" group-title="RELIGIOUS",Muadz TV
 https://h1.intechmedia.net/intech/ch5.m3u8
