@@ -36,11 +36,11 @@
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.xml,https://iptv-org.github.io/epg/guides/id/indihometv.com.xml,https://iptv-org.github.io/epg/guides/id/useetv.com.xml,https://epg.ksa.my.id/ksa.xml,https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml,https://macan.tv/xmltv.php?username=epg&password=epg" refresh="3600" max-conn="1" refresh="24" 
 
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.xml,https://iptv-org.github.io/epg/guides/id/indihometv.com.xml,https://iptv-org.github.io/epg/guides/id/useetv.com.xml,https://epg.ksa.my.id/ksa.xml,https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml,https://macan.tv/xmltv.php?username=epg&password=epg" refresh="3600" max-conn="1" refresh="24" 
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.xml,https://iptv-org.github.io/epg/guides/id/indihometv.com.xml,https://iptv-org.github.io/epg/guides/id/useetv.com.xml,https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml,https://macan.tv/xmltv.php?username=epg&password=epg" refresh="3600" max-conn="1" refresh="24" 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0)
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.xml,https://iptv-org.github.io/epg/guides/id/indihometv.com.xml,https://iptv-org.github.io/epg/guides/id/useetv.com.xml,https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml,https://macan.tv/xmltv.php?username=epg&password=epg" refresh="3600" max-conn="1" refresh="24" 
+
 
 #
 # Channel Live Event
@@ -198,17 +198,19 @@ https://mooncang.my.id/api/rplus/ch.m3u8?&id=gtv
 https://mooncang.my.id/api/rplus/ch.m3u8?id=inews
 #https://av-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
+#https://www.transtv.co.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:0 tvg-id="transtv" tvg-logo="https://s.id/1d0Et" group-title="TV LOKAL",TRANSTV
+#EXTINF:0 tvg-id="TransTV.id" tvg-logo="https://s.id/1d0Et" group-title="TV LOKAL",Trans TV
 #EXTVLCOPT:http-referrer=https://www.transtv.co.id/
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #http://iptvid.my.id/hmm/transtv.m3u8
 https://av-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
+#https://www.trans7.co.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:0 tvg-id="trans7" tvg-logo="https://s.id/1d0F6" group-title="TV LOKAL",TRANS7
+#EXTINF:0 tvg-id="Trans7.id" tvg-logo="https://s.id/1d0F6" group-title="TV LOKAL",Trans7
 #EXTVLCOPT:http-referrer=https://www.transtv.co.id/
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #http://iptvid.my.id/hmm/trans7.m3u8
@@ -236,6 +238,7 @@ http://210.210.155.35/qwr9ew/s/s07/index.m3u8
 #http://iptvid.my.id/hmm/antv.m3u8
 https://av-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
+#https://www.tvonenews.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:0 tvg-id="tvOne.id" tvg-logo="https://s.id/1d0FV" group-title="TV LOKAL",TVONE
@@ -296,6 +299,7 @@ http://210.210.155.37/dr9445/h/h10/index.m3u8
 #EXTINF:0 tvg-id="RuangTrampil.id" tvg-logo="https://i.imgur.com/93EZSRw.png" group-title="TV LOKAL",Ruang Trampil
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
 
+#https://tve.kemdikbud.go.id/
 #EXTINF:0 tvg-id="TVEdukasi.id" tvg-logo="https://i.imgur.com/XX5wGHQ.png" group-title="TV LOKAL",TV Edukasi
 http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
 
@@ -927,6 +931,19 @@ http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
 #EXTINF:0 tvg-id="SriwijayaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/75/SriwijayaTV_2014.png" group-title="DAERAH",Sriwijaya TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/sriwijayatvonline
 
+#https://www.sultratv.com/
+#EXTINF:0 tvg-id="SultraTV.id" tvg-logo="https://i.imgur.com/cmpbNJz.png" group-title="DAERAH",Sultra TV
+
+#http://surabayatv.tv/
+#EXTINF:0 tvg-id="SurabayaTV.id" tvg-logo="https://i.imgur.com/jlss2ll.png" group-title="DAERAH",Surabaya TV
+https://v3.siar.us/surabayatv/live/playlist.m3u8
+#https://v3.siar.us/surabayatv/live/chunks.m3u8?nimblesessionid=802207
+#https://v3.siar.us/surabayatv/live/chunks.m3u8?nimblesessionid=802211
+
+#https://tvtpi.id/
+#EXTINF:0 tvg-id="TanjungpinangTV.id" tvg-logo="https://i.imgur.com/lzCHTV3.png" group-title="DAERAH",Tanjungpinang TV (NO)
+
+#http://tatv.co.id/
 #EXTINF:0 tvg-id="TATV.id" tvg-logo="https://i.imgur.com/1f0EC7t.png" group-title="DAERAH",TATV
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 
@@ -941,8 +958,9 @@ http://wms.klikhost.com/tegarjogja/tegarjogja/playlist.m3u8
 #http://wms.klikhost.com:1935/tegartv/tegartv/chunklist_w1118060659.m3u8
 https://5bf7b725107e5.streamlock.net/tegartv/tegartv/playlist.m3u8
 
-#EXTINF:0 tvg-id="TemanggungTV.id" tvg-logo="https://i.imgur.com/p1ea2ol.png" group-title="DAERAH",Temanggung TV
+#EXTINF:0 tvg-id="TemanggungTV.id" tvg-logo="https://i.imgur.com/p1ea2ol.png" group-title="DAERAH",Temanggung TV (NO)
 
+#http://www.tv9.co.id/
 #EXTINF:0 tvg-id="TV9Nusantara.id" tvg-logo="https://i.imgur.com/xPjWyiL.png" group-title="DAERAH",TV 9 Nusantara
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
@@ -1148,13 +1166,21 @@ https://h1.intechmedia.net/intech/ch12.m3u8
 #EXTINF:0 tvg-id="SunnahJalanPastiTV.id" tvg-logo="https://i.imgur.com/8Ls5rsy.png" group-title="RELIGIOUS",Sunnah Jalan Pasti TV
 https://h1.intechmedia.net/intech/ch17.m3u8
 
+#https://www.surautv.id/
 #EXTINF:0 tvg-id="SurauTV.id" tvg-logo="https://i.imgur.com/CKoxcWL.png" group-title="RELIGIOUS",Surau TV
 https://h1.intechmedia.net/intech/ch3.m3u8
+https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
 
-#EXTINF:0 tvg-id="TuanGuruTV.id" tvg-logo="https://i.imgur.com/mutbCy6.png" group-title="RELIGIOUS",Tuan Guru TV
+#https://tawaf.tv/
+#EXTINF:0 tvg-id="TawafTV.id" tvg-logo="https://i.imgur.com/pjYTa3P.png" group-title="RELIGIOUS",Tawaf TV (NO)
 
+#EXTINF:0 tvg-id="TuanGuruTV.id" tvg-logo="https://i.imgur.com/mutbCy6.png" group-title="RELIGIOUS",Tuan Guru TV (NO)
+
+#https://tvmu.tv/
 #EXTINF:0 tvg-id="TVMu.id" tvg-logo="https://i.imgur.com/rR2iPBk.png" group-title="RELIGIOUS",TV Mu
 https://tvmu.siar.us/tvmu/live/playlist.m3u8
+#https://o1.siar.us/tvmu/live/chunks.m3u8
+#https://o1.siar.us/tvmu/live/chunks.m3u8?nimblesessionid=273098
 
 #https://mui.or.id/
 #EXTINF:0 tvg-id="TVMUI.id" tvg-logo="https://i.imgur.com/vWtViyC.png" group-title="RELIGIOUS",TV MUI
