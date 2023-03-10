@@ -48,6 +48,9 @@
 
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://liquipedia.net/commons/images/7/75/MPL_Indonesia_Season_8_allmode.png" group-title="LIVE EVENT",MPL ID
+https://devds.site/api/youlive.m3u8?v=sGWcI7JFW3M
+
 #EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAH42dFvwzKke8dIBPxeeN5E6XGoR0Xpd3ZA&usqp=CAU" group-title="LIVE EVENT",AFF CUP 2022 server1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f5158194cc4044e699d0df01772f2212:072e611a383a2d1e3d4d8ea19e016a71
