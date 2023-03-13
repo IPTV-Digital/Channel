@@ -796,7 +796,8 @@ https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 
 #https://www.cahayabanten.tv/
 #EXTINF:0 tvg-id="CahayaTVBanten.id" tvg-logo="https://i.imgur.com/Ph9yYpb.png" group-title="DAERAH",Cahaya TV Banten
-https://alfa.kugo.id/ctv/rtmp.stream/chunklist_w49231578.m3u8
+#https://alfa.kugo.id/ctv/rtmp.stream/chunklist_w49231578.m3u8
+https://alfa.kugo.id/ctv/rtmp.stream/chunklist.m3u8
 
 #https://celebesmedia.id/
 #EXTINF:0 tvg-id="CelebesTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Celebes_TV.png" group-title="DAERAH",Celebes TV (NO)
