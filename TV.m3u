@@ -539,6 +539,26 @@ http://210.210.155.37/uq2663/h/h194/index.m3u8
 #EXTINF:0 tvg-id="ZeeBioskop.id" tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="MOVIES",Zee Bioskop
 http://210.210.155.37/qwr9ew/s/s32/index.m3u8
 
+#EXTVLCOPT:http-user-agent=HBOGO/r61.v7.4.017.07 (Milik RENO_IPTV)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yBkj4bt/download-1-modified.png" tvg-name="HBO" group-title="MOVIES",HBO (HBOGO)
+https://cdn.renotv.my.id/get.m3u8?ch=MTU4ZmZlYzRjZWU4ZDliN0ZOaE4veXpPOU5XbEpRbHNFeWdseWpOcy8vdDBOd00rOG4rMGV4dlBIajc1SkpDNHBOSG5oYjEzekw3V1NtTzcyaUZ5elF4QUF3RnpyQkoyeG92aHlhUHBVcEtoZEhETXlFS3NicmlzYnpybDdqdzN0aUJ5enlLRkU3alpPUEtC
+
+#EXTVLCOPT:http-user-agent=HBOGO/r61.v7.4.017.07 (Milik RENO_IPTV)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hs4cYBj/hqdefault-modified-1.png" tvg-name="HBOHits" group-title="MOVIES",HBO Hits (HBOGO)
+https://cdn.renotv.my.id/get.m3u8?ch=ZWY0ZTc0Yjg2Njk4YWY1NGpLdk1FWDJIN2t1VmpySk55OGdsbmVRcEQzZHVFdHRvSXNzakpUR0FKLzZmWDVvcDRYWGM1WXBMS21PSjJ0aEN5bVZNSnduSVdHSHBROWtTQkpjV3pDQWFRRlZkSFRMbU1KSjlxb3NEc3E0bXI3czkxY3NwM09LZC85Q2VaSHJN
+
+#EXTVLCOPT:http-user-agent=HBOGO/r61.v7.4.017.07 (Milik RENO_IPTV)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gt1RM6s/hbo-signature-modified.png" tvg-name="HBOSignature" group-title="MOVIES",HBO Signature (HBOGO)
+https://cdn.renotv.my.id/get.m3u8?ch=MDA3NTEwZDBjMzhkZDNlZnhMblFpSUhaMWZ6TnJnQnROcFlzTDFSSGVEQUdLeFZYRW9hRDZtaFRXVk8wMzVqOUY1azJTb1JudXFLaWtaN2JaRVlFRUhqa1hudktIcVUyRVFiWEVVTXJHWGJQdkxqQ1M2emNvdU9uRklNZHhWU1kvNkdxSjg1OUZLWGZ2dThm
+
+#EXTVLCOPT:http-user-agent=HBOGO/r61.v7.4.017.07 (Milik RENO_IPTV)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hKf955K/hbo-family-modified.png" tvg-name="HBOFamily" group-title="MOVIES",HBO Family (HBOGO)
+https://cdn.renotv.my.id/get.m3u8?ch=ZmJlZDlmNTdmYzdiMGYzNGZ4ZjhUWHcvcFRQRW4vSzB4QWt1dFJoaDRlTlVFR0FKMkNVZ2twaWhCTU1OdlM2SWM4K0RiOU4yVTVQbllRMldUZ00rMU5LWnR4dWl4Ri8rOHMrWnNRdzUvN3VNZUE3OW11RW1kRWhVVm1hMnF4M1ZHS0MwL3dhZWpldGZDc1lt
+
+#EXTVLCOPT:http-user-agent=HBOGO/r61.v7.4.017.07 (Milik RENO_IPTV)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L0LsC1t/cinemax-modified.png" tvg-name="Cinemax" group-title="MOVIES",Cinemax (HBOGO)
+https://cdn.renotv.my.id/get.m3u8?ch=NjZiNDA2MjhkOTU3YzkyN3pmWTB5ZU4vdWtDYmRGMlVnVDFLa0NXaDloYUwvQ3VucS9xeGNtWFBoYkZDMEtscC8vU1RQUjNiaVk4WHN4UmZ6OWo0dDliYTMyUWdnSE5hRVc5b2lWTCtUK0xrOWJTREkwWXZPa0lKWTZiODh3SjFxTEtrdzQ4TktOM1NmYlRa
+
 
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="MOVIES",
