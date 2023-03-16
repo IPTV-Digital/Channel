@@ -804,7 +804,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-49
 #EXTINF:0 tvg-id="BaliUnitedTV.id" tvg-logo="https://i.imgur.com/4toPHMY.png" group-title="DAERAH",Bali United TV (No)
 
 #http://bandungtv.tv/
-#EXTINF:0 tvg-id="BandungTV.id" tvg-logo="https://i.imgur.com/4toPHMY.png" group-title="DAERAH",Bandung TV
+#EXTINF:0 tvg-id="BandungTV.id" tvg-logo="https://i.imgur.com/fpFs6Ay.png" group-title="DAERAH",Bandung TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
 #EXTINF:0 tvg-id="BanjarTV.id" tvg-logo="https://i.imgur.com/TA76a10.png" group-title="DAERAH",Banjar TV (No)
