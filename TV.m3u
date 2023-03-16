@@ -564,6 +564,12 @@ https://cdn.renotv.my.id/get.m3u8?ch=ZmJlZDlmNTdmYzdiMGYzNGZ4ZjhUWHcvcFRQRW4vSzB
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L0LsC1t/cinemax-modified.png" tvg-name="Cinemax" group-title="MOVIES",Cinemax (HBOGO)
 https://cdn.renotv.my.id/get.m3u8?ch=NjZiNDA2MjhkOTU3YzkyN3pmWTB5ZU4vdWtDYmRGMlVnVDFLa0NXaDloYUwvQ3VucS9xeGNtWFBoYkZDMEtscC8vU1RQUjNiaVk4WHN4UmZ6OWo0dDliYTMyUWdnSE5hRVc5b2lWTCtUK0xrOWJTREkwWXZPa0lKWTZiODh3SjFxTEtrdzQ4TktOM1NmYlRa
 
+#https://www.eyeplus.co.id/
+#EXTINF:0 tvg-id="SinemaIndonesia.id" tvg-logo="https://i.imgur.com/3B145Ej.png" group-title="MOVIES",Sinema Indonesia
+
+#https://www.eyeplus.co.id/
+#EXTINF:0 tvg-id="SinemaIndonesiaX.id" tvg-logo="https://i.imgur.com/jt8M3GL.png" group-title="MOVIES",Sinema Indonesia X
+
 
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="MOVIES",
@@ -1020,6 +1026,12 @@ https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 #http://semarangtv.tv/
 #EXTINF:0 tvg-id="SemarangTV.id" tvg-logo="https://i.imgur.com/KFC2WSB.png" group-title="DAERAH",Semarang TV
 http://116.254.112.74/hls/cakralive.m3u8
+
+#
+#EXTINF:0 tvg-id="SiakTV.id" tvg-logo="https://i.imgur.com/1v0XkRM.png" group-title="DAERAH",Siak TV
+
+#https://www.siger.tv/
+#EXTINF:0 tvg-id="SigerTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3e/Siger_tv.jpg/512px-Siger_tv.jpg" group-title="DAERAH",Siger TV
 
 #
 #EXTINF:0 tvg-id="Simpang5TV.id" tvg-logo="https://i.imgur.com/jZowqIT.png" group-title="DAERAH",Simpang5 TV
