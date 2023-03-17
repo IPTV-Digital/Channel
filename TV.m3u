@@ -115,6 +115,7 @@ https://production-drm-vidio-com-event-8.akamaized.net/out/v1/5bfe18929905440498
 #http://www.goldentv.tech:25461/Bokep333/Bokep333/25686
 http://103.167.167.5:8111/play/a00r/index.m3u8
 
+#https://www.sctv.co.id/
 #EXTINF:0 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="LIVE EVENT",SCTV Live 1
 #http://www.goldentv.tech:25461/Bokep333/Bokep333/25688
 #http://tvnid.wapgem.com/sctv.m3u8|Referer=https://www.score808.com/
@@ -146,6 +147,7 @@ http://210.210.155.35/qwr9ew/s/s04/index.m3u8
 #https://geocities.ws/ariev7xx/indosiar.m3u8
 #https://idcloud.tech/indosiar_vid.m3u8
 
+#https://www.sctv.co.id/
 #EXTINF:0 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="TV LOKAL",SCTV
 #http://rr2.dens.tv/s/s03/index.m3u8
 http://210.210.155.35/qwr9ew/s/s03/index.m3u8
@@ -294,6 +296,7 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.
 http://210.210.155.37/dr9445/h/h10/index.m3u8
 #https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 
+#https://www.indihometv.com/
 #EXTINF:0 tvg-id="RuangTrampil.id" tvg-logo="https://i.imgur.com/93EZSRw.png" group-title="TV LOKAL",Ruang Trampil
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
 
@@ -306,6 +309,9 @@ http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
 
 #EXTINF:0 tvg-id="PopMusik.id" tvg-logo="https://i.imgur.com/Dfnl0nf.png" group-title="TV LOKAL",Pop Musik
 https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
+
+#https://www.transvision.co.id/
+#EXTINF:0 tvg-id="SeruChannel.id" tvg-logo="https://i.imgur.com/3EXNT5x.png" group-title="TV LOKAL",Seru! Channel
 
 #https://www.transvision.co.id/
 #EXTINF:0 tvg-id="TMusic.id" tvg-logo="https://i.imgur.com/iO6Iub0.png" group-title="TV LOKAL",T Music
@@ -453,6 +459,7 @@ http://210.210.155.35/qwr9ew/s/s104/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s104/index.m3u8
 #https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 
+#https://www.seatoday.com/
 #EXTINF:0 tvg-id="SEAToday.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/SEA_Today_Indonesia_Logo.png/512px-SEA_Today_Indonesia_Logo.png" group-title="NEWS",SEA Today
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
 
@@ -797,7 +804,6 @@ https://atv.siar.us/atv/live/playlist.m3u8
 
 #
 #EXTINF:0 tvg-id="ATV.id" tvg-logo="https://i.imgur.com/uHcRd1t.png" group-title="DAERAH",ATV (No)
-https://cdn.renotv.my.id/get.m3u8?ch=MThmYTEzYmE1OTViODg1NkpwLzFWVWxxTVpVZXRBQ1BGSG12VmJEZHZWOXkxSUxsR3BHeDBNUkhSeEQ5TUN0R3k3S0h1K1l0dEFXN08ycWZFeFF1UU14K1lZUStUQWVyUnFrcURIUjF1TExyTW1lK0d6T2RmbGdZTjhzT1hkVlpoNi9rTE9RWGdSczlzTkgw
 
 #
 #EXTINF:0 tvg-id="AmbonTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/Logo_Ambon_TV.jpeg" group-title="DAERAH",Ambon TV (No)
@@ -1016,13 +1022,28 @@ http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
 #https://ruai.tv/
 #EXTINF:0 tvg-id="RiauTV.id" tvg-logo="https://i.imgur.com/KxPWFeY.png" group-title="DAERAH",Ruai TV (NO)
 
+#https://saburaitv.com/
+#EXTINF:0 tvg-id="SaburaiTV.id" tvg-logo="https://i.imgur.com/HR2cgVO.png" group-title="DAERAH",Saburai TV (NO)
+
 #https://www.sakti.tv/
 #EXTINF:0 tvg-id="SaktiTV.id" tvg-logo="https://i.imgur.com/IDNjMfQ.png" group-title="DAERAH",Sakti TV
 https://v2.siar.us/saktitv/livestream/playlist.m3u8
 
+#
+#EXTINF:0 tvg-id="SalingSapaTV.id" tvg-logo="https://i.imgur.com/V5O5Yny.png" group-title="DAERAH",Saling Sapa TV
+
+#https://samudera.tv/
+#EXTINF:0 tvg-id="SamuderaTV.id" tvg-logo="https://i.imgur.com/hiefYVH.png" group-title="DAERAH",Samudera TV
+https://stream.asianastream.com/samudera/samuderatv.smil/playlist.m3u8
+#https://stream.asianastream.com/samudera/samuderatv.smil/chunklist_w1889740741_b785000.m3u8
+#https://stream.asianastream.com/samudera/samuderatv.smil/chunklist_w1889740741_b2800000.m3u8
+
 #https://sangajitv.co.id/
 #EXTINF:0 tvg-id="SangajiTV.id" tvg-logo="https://i.imgur.com/4rTNT8F.png" group-title="DAERAH",Sangaji TV
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
+
+#https://selaparangtv.com/
+#EXTINF:0 tvg-id="SelaparangTV.id" tvg-logo="https://selaparangtv.com/wp-content/uploads/2022/02/Group-5-black-1-300x75.png" group-title="DAERAH",Selaparang TV (NO)
 
 #http://semarangtv.tv/
 #EXTINF:0 tvg-id="SemarangTV.id" tvg-logo="https://i.imgur.com/KFC2WSB.png" group-title="DAERAH",Semarang TV
@@ -1570,7 +1591,7 @@ http://103.246.184.62:1935/noice_mostfm/mostfm/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.dropbox.com/s/5g6wgbq9xwgsrw8/MUSTANG.png?dl=1" group-title="Radio Online",MUSTANG
 http://103.246.184.62:1935/noice_mustangfm/mustangfm/playlist.m3u8
 
-https://raw.githubusercontent.com/IPTV-Digital/Channel/main/RadioOnline.txt
+
 
 #EXTM3U
 #
