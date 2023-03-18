@@ -948,6 +948,9 @@ http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 #EXTINF:0 tvg-id="JogjaTV.id" tvg-logo="https://i.imgur.com/m9ezMUz.png" group-title="DAERAH",Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png" group-title="DAERAH",Jowo
+http://103.167.167.5:8111/play/a00f/index.m3u8
+
 #EXTINF:0 tvg-id="JPMTV.id" tvg-logo="https://i.imgur.com/FM6WN4S.png" group-title="DAERAH",JPM TV
 http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
 
