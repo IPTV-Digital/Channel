@@ -761,7 +761,7 @@ https://av-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchanne
 
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-logo="https://i.postimg.cc/KjvNxt5B/20230131-105427.png" group-title="SPORTS",WWE Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2603
+#KODIPROP:inputstream.adaptive.license_key=https://cdn.thomasandi.my.id/clearkeyxmakanja/astro/2603
 https://capy.mammothtv.workers.dev/dash-wv/linear/2603/default_primary.mpd
 
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-logo="https://i.postimg.cc/KjvNxt5B/20230131-105427.png" group-title="SPORTS",WWE Network 2
