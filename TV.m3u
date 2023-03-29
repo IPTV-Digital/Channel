@@ -433,13 +433,13 @@ https://nxanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRLyt6JL/20220926-200705.png" group-title="KIDS" tvg-id="NickelodeonAsia.sg" tvg-name="Nickelodeon", Nickelodeon
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRLyt6JL/20220926-200705.png" group-title="KIDS" tvg-id="NickelodeonAsia.sg" tvg-name="Nickelodeon",Nickelodeon
 https://nxanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 #https://www.mncchannels.com/micro/Kids-TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqnXMLST/20221026-010214.png" group-title="KIDS" tvg-id="KidsTV.id" tvg-name="KIDS TV", KIDS TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqnXMLST/20221026-010214.png" group-title="KIDS" tvg-id="KidsTV.id" tvg-name="KIDS TV",KIDS TV
 https://nxanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
 #EXTINF:-1 tvg-id="HappyKids.us" group-title="KIDS" tvg-logo="https://i.postimg.cc/wv5qRm6H/20230212-134159.png",Happy Kids
@@ -474,6 +474,9 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #https://www.indihometv.com/livetv/indikids
 #EXTINF:0 tvg-id="IndiKids.id" tvg-logo="https://i.imgur.com/gnhn867.png" group-title="KIDS",IndiKids
 https://beetv.my.id/x/usee-indikids-masihsama.m3u8
+
+#http://www.ieg.id/tv-channel/mentari-tv/
+#EXTINF:0 tvg-id="MentariTV.id" tvg-logo="https://i.imgur.com/QkTgy1M.png" group-title="KIDS",Mentari TV
 
 #https://maxstream.tv/home
 #EXTINF:0 tvg-id="DuniaGamesTV.id" tvg-logo="https://i.imgur.com/SSDguTa.png" group-title="GAMES",Dunia Games TV
@@ -518,10 +521,17 @@ http://210.210.155.35/qwr9ew/s/s104/index.m3u8
 #EXTINF:0 tvg-id="SEAToday.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/SEA_Today_Indonesia_Logo.png/512px-SEA_Today_Indonesia_Logo.png" group-title="NEWS",SEA Today
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
 
+#https://www.metroglobe.id/live
+#EXTINF:0 tvg-id="MetroGlobeNetwork.id" tvg-logo="https://i.imgur.com/aiiinzg.png" group-title="DAERAH",Metro Globe Network
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+#https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w1327515895_b1128000_sleng.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:0 tvg-id="MNCNews.Id" tvg-logo="https://i.imgur.com/j0Be3Ey.png" group-title="NEWS",MNC News
 https://av-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+
+
 
 #https://www.idxchannel.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1095,24 +1105,39 @@ http://122.248.43.138:1935/ch18/myStream/playlist.m3u8
 #https://lomboktvnews.com/
 #EXTINF:0 tvg-id="LombokTV.id" tvg-logo="https://i.imgur.com/PKKYcVO.png" group-title="DAERAH",Lombok TV
 
+#https://madani.tv/
+#EXTINF:0 tvg-id="MadaniTV.id" tvg-logo="https://i.imgur.com/8aonQ0v.png" group-title="DAERAH",Madani TV
+#https://stream.asianastream.com/madani/madanitv.smil/chunklist.m3u8
+https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
+
+https://madu.tv/live-streaming/
 #EXTINF:0 tvg-id="MaduTV.id" tvg-logo="https://i.imgur.com/cKpgbgW.png" group-title="DAERAH",Madu TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
+#https://v6.siar.us/madutv/hd720/chunks.m3u8?nimblesessionid=30831550
 
+#https://www.vidio.com/live/7230-magna-tv
 #EXTINF:0 tvg-id="MagnaChannel.id" tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="DAERAH",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1529378054_b2692000_sleng.m3u8
 
+#
 #EXTINF:0 tvg-id="Maleo.id" tvg-logo="https://i.imgur.com/DuAxIL2.png" group-title="DAERAH",Maleo
 https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
 
+#https://mataindonesia.tv/
+#EXTINF:0 tvg-id="MataMilenialIndonesiaTV.id" tvg-logo="https://i.imgur.com/aAZHCY1.png" group-title="DAERAH",Mata Milenial Indonesia TV (NO)
+
+#https://maxstream.tv/home
 #EXTINF:0 tvg-id="Max2U.id" tvg-logo="https://i.imgur.com/eU4aqWy.png" group-title="DAERAH",Max2U
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(a255dd49-dc2a-464b-8623-6ef4556dff11)/index.m3u8
 
-#EXTINF:0 tvg-id="MediaSunnahAceh.id" tvg-logo="https://i.imgur.com/CIByKTP.png" group-title="DAERAH",Media Sunnah Aceh
-#https://hls.youtb.workers.dev/channel/UCem4zrffr93cp-o8cOPDhdQ.m3u8
-https://h1.intechmedia.net/intech/ch23.m3u8
+#https://maxstream.tv/home
+#EXTINF:0 tvg-id="MCC.id" tvg-logo="https://i.imgur.com/aACrLKU.png" group-title="DAERAH",MCC
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9430f215-8ccb-4322-affd-6dbc97e259bd)/index.m3u8
 
-#EXTINF:0 tvg-id="MetroGlobeNetwork.id" tvg-logo="https://i.imgur.com/aiiinzg.png" group-title="DAERAH",Metro Globe Network
-https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+#
+#EXTINF:0 tvg-id="MChannel.id" tvg-logo="https://i.imgur.com/pZ8acgI.png" group-title="DAERAH",M Channel
+
 
 #EXTINF:0 tvg-id="MGITV.id" tvg-logo="https://i.imgur.com/xrNtabe.png" group-title="DAERAH",MGI TV
 https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8
@@ -1460,6 +1485,13 @@ https://streaming.radiosalamjambi.com/izzahtv.m3u8
 #https://www.transvision.co.id/
 #EXTINF:0 tvg-id="Khazanah.id" tvg-logo="https://i.imgur.com/FYMUkth.png" group-title="RELIGIOUS",Khazanah
 
+#https://mediasunnahaceh.tv/
+#EXTINF:0 tvg-id="MediaSunnahAceh.id" tvg-logo="https://i.imgur.com/CIByKTP.png" group-title="RELIGIOUS",Media Sunnah Aceh
+#https://hls.youtb.workers.dev/channel/UCem4zrffr93cp-o8cOPDhdQ.m3u8
+https://ythls.onrender.com/channel/UCem4zrffr93cp-o8cOPDhdQ.m3u8
+#https://h1.intechmedia.net/intech/ch23.m3u8
+#https://devds.site/api/youlive.m3u8?v=ttLTufW_b4E
+
 #EXTINF:0 tvg-id="MuadzTV.id" tvg-logo="https://i.imgur.com/wT7sNUW.png" group-title="RELIGIOUS",Muadz TV
 https://h1.intechmedia.net/intech/ch5.m3u8
 
@@ -1609,45 +1641,45 @@ https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="LifeStyle" tvg-logo="https://static.mncnow.id/images/channel/31c7d540/8e75.png", LifeStyle Fashion
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://static.mncnow.id/images/channel/31c7d540/8e75.png",LifeStyle Fashion
 https://newanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
 #https://www.mncchannels.com/micro/infotainment
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="LifeStyle" tvg-logo="https://static.mncnow.id/images/channel/bd9a9f43/25de.png", MNC Infotainment
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://static.mncnow.id/images/channel/bd9a9f43/25de.png",MNC Infotainment
 https://newanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="LifeStyle" tvg-logo="https://static.mncnow.id/images/channel/d879be36/5c67.png", AFN
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://static.mncnow.id/images/channel/d879be36/5c67.png",AFN
 https://newanv-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="LifeStyle" tvg-logo="https://static.mncnow.id/images/channel/6c8b7aa4/4577.png", MNC SHOP Signature
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://static.mncnow.id/images/channel/6c8b7aa4/4577.png",MNC SHOP Signature
 https://newanv-live-cdn.mncnow.id/live/eds/MNCShop/sa_dash_vmx/MNCShop.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="LifeStyle" tvg-logo="https://static.mncnow.id/images/channel/d35cc21f/0e91.png", MNC SHOP SUPER SHALE
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://static.mncnow.id/images/channel/d35cc21f/0e91.png",MNC SHOP SUPER SHALE
 https://newanv-live-cdn.mncnow.id/live/eds/MNCShopSmart/sa_dash_vmx/MNCShopSmart.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="LifeStyle" tvg-logo="https://static.mncnow.id/images/channel/c9781aa2/1b21.png", HGTV
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://static.mncnow.id/images/channel/c9781aa2/1b21.png", HGTV
 https://newanv-live-cdn.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="LifeStyle" tvg-logo="https://static.mncnow.id/images/channel/856f7c31/7b7d.png", TLCTV
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://static.mncnow.id/images/channel/856f7c31/7b7d.png",TLCTV
 https://newanv-live-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
 #
-#EXTINF:0 tvg-id="CitraCulinaryTravel.id" tvg-logo="https://i.imgur.com/EuZmCOh.png" group-title="LifeStyle",Citra Culinary & Travel (NO)
+#EXTINF:0 tvg-id="CitraCulinaryTravel.id" tvg-logo="https://i.imgur.com/EuZmCOh.png" group-title="LIFESTYLE",Citra Culinary & Travel (NO)
 
 #http://www.ieg.id/tv-channel/citra-entertainment/
-#EXTINF:0 tvg-id="CitraEntertainment.id" tvg-logo="https://i.imgur.com/Q1N6ka8.png" group-title="LifeStyle",	
+#EXTINF:0 tvg-id="CitraEntertainment.id" tvg-logo="https://i.imgur.com/Q1N6ka8.png" group-title="LIFESTYLE",	
 Citra Entertainment (NO)
 
 #
@@ -1664,7 +1696,10 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
 https://devds.site/api/youlive.m3u8?v=zUahI3Pgbxk
 
 #
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:0 tvg-id="Life.id" tvg-logo="https://i.imgur.com/2O8Nnkm.png" group-title="LIFESTYLE",Life
+https://nyanv-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 
 #https://www.mncchannels.com/micro/mnclifestyle-fashion
 #EXTINF:0 tvg-id="LifestyleFashion.id" tvg-logo="https://i.imgur.com/iLNZrHi.png" group-title="LIFESTYLE",Lifestyle & Fashion
