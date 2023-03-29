@@ -522,7 +522,7 @@ http://210.210.155.35/qwr9ew/s/s104/index.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
 
 #https://www.metroglobe.id/live
-#EXTINF:0 tvg-id="MetroGlobeNetwork.id" tvg-logo="https://i.imgur.com/aiiinzg.png" group-title="DAERAH",Metro Globe Network
+#EXTINF:0 tvg-id="MetroGlobeNetwork.id" tvg-logo="https://i.imgur.com/aiiinzg.png" group-title="NEWS",Metro Globe Network
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 #https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w1327515895_b1128000_sleng.m3u8
 
@@ -999,10 +999,6 @@ https://alfa.kugo.id/ctv/rtmp.stream/chunklist.m3u8
 #
 #EXTINF:0 tvg-id="DayakTV.id" tvg-logo="https://i.imgur.com/wSjxmQl.png" group-title="DAERAH",Dayak TV (NO)
 
-#https://dhammaweb.tv/
-#EXTINF:0 tvg-id="DhammaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png" group-title="DAERAH",Dhamma TV
-https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
-
 #http://www.dhohotv.com/
 #EXTINF:0 tvg-id="DhohoTV.id" tvg-logo="https://i.imgur.com/4Khyyfh.png" group-title="DAERAH",Dhoho TV
 #https://dhohotv.siar.us/dhohotv/live/chunks.m3u8?nimblesessionid=439370
@@ -1105,10 +1101,7 @@ http://122.248.43.138:1935/ch18/myStream/playlist.m3u8
 #https://lomboktvnews.com/
 #EXTINF:0 tvg-id="LombokTV.id" tvg-logo="https://i.imgur.com/PKKYcVO.png" group-title="DAERAH",Lombok TV
 
-#https://madani.tv/
-#EXTINF:0 tvg-id="MadaniTV.id" tvg-logo="https://i.imgur.com/8aonQ0v.png" group-title="DAERAH",Madani TV
-#https://stream.asianastream.com/madani/madanitv.smil/chunklist.m3u8
-https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
+
 
 https://madu.tv/live-streaming/
 #EXTINF:0 tvg-id="MaduTV.id" tvg-logo="https://i.imgur.com/cKpgbgW.png" group-title="DAERAH",Madu TV
@@ -1444,6 +1437,10 @@ Citra Muslim (No)
 #https://dalwaberita.com/
 #EXTINF:0 tvg-id="DalwaTV.id" tvg-logo="https://i.imgur.com/gOfvQux.png" group-title="RELIGIOUS",Dalwa TV
 
+#https://dhammaweb.tv/
+#EXTINF:0 tvg-id="DhammaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png" group-title="RELIGIOUS",Dhamma TV
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
+
 #https://elkisi.com/
 #EXTINF:0 tvg-id="ElkisiTV.id" tvg-logo="https://i.imgur.com/olrmgiX.png" group-title="RELIGIOUS",Elkisi TV
 
@@ -1484,6 +1481,11 @@ https://streaming.radiosalamjambi.com/izzahtv.m3u8
 
 #https://www.transvision.co.id/
 #EXTINF:0 tvg-id="Khazanah.id" tvg-logo="https://i.imgur.com/FYMUkth.png" group-title="RELIGIOUS",Khazanah
+
+#https://madani.tv/
+#EXTINF:0 tvg-id="MadaniTV.id" tvg-logo="https://i.imgur.com/8aonQ0v.png" group-title="RELIGIOUS",Madani TV
+#https://stream.asianastream.com/madani/madanitv.smil/chunklist.m3u8
+https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 
 #https://mediasunnahaceh.tv/
 #EXTINF:0 tvg-id="MediaSunnahAceh.id" tvg-logo="https://i.imgur.com/CIByKTP.png" group-title="RELIGIOUS",Media Sunnah Aceh
