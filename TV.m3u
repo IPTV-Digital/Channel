@@ -425,7 +425,8 @@ https://nxanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QC4whMv4/20220926-200436.png" group-title="KIDS",DreamWorks
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cdn.thomasandi.my.id/use4/drm.php?id=dreamworks
-https://cdn.thomasandi.my.id/use4/mulai.mpd?id=dreamworks
+#https://cdn.thomasandi.my.id/use4/mulai.mpd?id=dreamworks
+http://starshare.live:8080/live/akter995/965783/137523.ts
 
 #https://www.transvision.co.id/
 #EXTINF:-1 tvg-id="DuniaAnak.id" tvg-logo="https://i.imgur.com/pI76ufZ.png" group-title="KIDS",Dunia Anak
@@ -656,6 +657,11 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf10
 #EXTINF:0 tvg-id="CitraDramaPlus.id" tvg-logo="https://i.imgur.com/zIpX0v8.png" group-title="MOVIES",	
 Citra Drama Plus (NO)
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-WQEXvzhCJXE/YJZOigrvW8I/AAAAAAAAErw/SgnE9LOF8ZkmfnClCEk9-1cEENw7wpMPQCLcBGAsYHQ/s720/cinemaworld-poster.png" group-title="MOVIES" tvg-id="CinemaWorld.sg" tvg-name="CinemaWorld HD", Cinema World
+https://nxanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
 #https://www.cmclassic.tv/index.php?location/ID
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -672,6 +678,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMo
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.my.id/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:0 tvg-id="FTV.id" tvg-logo="https://i.imgur.com/6p6eAqH.png" group-title="MOVIES",FTV
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(5cd2bf10-1ac0-4fa7-9543-3520f01b3378)/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-0GkPR_ah9_U/YJZOkcZrkvI/AAAAAAAAEsA/PLJwM2fAuUUKgbv4kxOYegB87xxC5kXZwCLcBGAsYHQ/s720/hits-poster.png" group-title="MOVIES" tvg-id="Hits.sg" tvg-name="HITS", HITS
+https://nxanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -708,6 +719,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="MOVIES" tvg-id="tvnmoviesasia.hk" tvg-logo="https://posters.cdn.klikfilm.net/ph/tvn_logo.png",tvN Movies
 https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Xcdz9sem070/YJZOf1yt9fI/AAAAAAAAErI/UBxmmXXqinAWEJwcYxOM4fHOUxsXsRR7wCLcBGAsYHQ/s720/WARNER-Poster.png" group-title="MOVIES" tvg-id="WarnerTVSoutheastAsia.us" tvg-name="WarnerTV", WarnerTV
+https://nxanv-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
 #EXTINF:0 tvg-id="ZeeBioskop.id" tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="MOVIES",Zee Bioskop
 http://210.210.155.37/qwr9ew/s/s32/index.m3u8
