@@ -639,18 +639,35 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f092c2ba-4baa
 Citra Drama Plus (NO)
 
 #https://www.cmclassic.tv/index.php?location/ID
-#EXTINF:0 tvg-id="CCMIndonesia.id" tvg-logo="https://i.imgur.com/X7OZ3w5.png" group-title="MOVIES",CCM Indonesia (NO)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:0 tvg-id="CCMIndonesia.id" tvg-logo="https://i.imgur.com/X7OZ3w5.png" group-title="MOVIES",Celestial Classic Movies (CCM)
+https://nyanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 #https://www.celestialmovies.com/schedule.php?location/ID
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:0 tvg-id="CelestialMoviesIndonesia.id" tvg-logo="https://i.imgur.com/KYP1xXZ.png" group-title="MOVIES",Celestial Movies Indonesia (NO)
+https://nyanv-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
 #EXTINF:0 tvg-id="FTV.id" tvg-logo="https://i.imgur.com/6p6eAqH.png" group-title="MOVIES",FTV
 
-#https://www.k-vision.tv/
-#EXTINF:0 tvg-id="Galaxy.id" tvg-logo="https://i.imgur.com/205RLbh.png" group-title="MOVIES",Galaxy
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 group-title="MOVIES" tvg-id="hitsmovies.sg" tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png",HITS Movies
+https://nyanv-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #https://www.k-vision.tv/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:0 tvg-id="Galaxy.id" tvg-logo="https://i.imgur.com/205RLbh.png" group-title="MOVIES",Galaxy
+https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+
+#https://www.k-vision.tv/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:0 tvg-id="GalaxyPremium.id" tvg-logo="https://i.imgur.com/oGKtYYG.png" group-title="MOVIES",Galaxy Premium
+https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
 #EXTINF:0 tvg-id="MyCinema.id" tvg-logo="https://i.imgur.com/pY7ZoWB.png" group-title="MOVIES",My Cinema
 http://210.210.155.37/uq2663/h/h192/index.m3u8
@@ -677,7 +694,10 @@ http://210.210.155.37/qwr9ew/s/s32/index.m3u8
 #EXTINF:0 tvg-id="HaariMovie.id" tvg-logo="https://i.imgur.com/ywAjzqJ.png" group-title="MOVIES",Haari Movie
 
 #https://www.k-vision.tv/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:0 tvg-id="IMC.id" tvg-logo="https://i.imgur.com/CbfrjO7.png" group-title="MOVIES",Indonesia Movie Channel(IMC)
+https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 #https://www.eyeplus.co.id/
 #EXTINF:0 tvg-id="KDrama.id" tvg-logo="https://i.imgur.com/F144MZ6.png" group-title="MOVIES",K-Drama (NO)
