@@ -684,6 +684,16 @@ http://210.210.155.37/uq2663/h/h193/index.m3u8
 #EXTINF:0 tvg-id="MyFamily.id" tvg-logo="https://i.imgur.com/IaCmCt9.png" group-title="MOVIES",My Family
 http://210.210.155.37/uq2663/h/h194/index.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 group-title="MOVIES" tvg-id="thrill.hk" tvg-logo="https://i.imgur.com/Y282owj.png",Thrill
+https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 group-title="MOVIES" tvg-id="tvnmoviesasia.hk" tvg-logo="https://posters.cdn.klikfilm.net/ph/tvn_logo.png",tvN Movies
+https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
 #EXTINF:0 tvg-id="ZeeBioskop.id" tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="MOVIES",Zee Bioskop
 http://210.210.155.37/qwr9ew/s/s32/index.m3u8
 
