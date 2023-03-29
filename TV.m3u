@@ -261,9 +261,10 @@ http://210.210.155.35/qwr9ew/s/s105/index.m3u8
 #https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
 https://av-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
+#https://www.metrotvnews.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:0 tvg-id="metrotv" tvg-logo="https://s.id/1d0Gp" group-title="TV LOKAL",METROTV
+#EXTINF:0 tvg-id="MetroTV.id" tvg-logo="https://s.id/1d0Gp" group-title="TV LOKAL",Metro TV
 #http://rr2.dens.tv/h/h12/index.m3u8
 http://210.210.155.35/qwr9ew/h/h12/index.m3u8
 #http://210.210.155.37/qwr9ew/h/h12/index.m3u8
@@ -992,6 +993,7 @@ https://alfa.kugo.id/ctv/rtmp.stream/chunklist.m3u8
 
 #
 #EXTINF:0 tvg-id="ChannelJowo.id" tvg-logo="https://i.imgur.com/fksxiaS.png" group-title="DAERAH",Channel Jowo (NO)
+http://103.167.167.5:8111/play/a00f/index.m3u8
 
 #
 #EXTINF:0 tvg-id="CitraTV.id" tvg-logo="https://i.imgur.com/kvgHcrf.png" group-title="DAERAH",Citra TV (NO)
@@ -1072,9 +1074,6 @@ https://h1.intechmedia.net/intech/ch65.m3u8
 #EXTINF:0 tvg-id="JogjaTV.id" tvg-logo="https://i.imgur.com/m9ezMUz.png" group-title="DAERAH",Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png" group-title="DAERAH",Jowo
-http://103.167.167.5:8111/play/a00f/index.m3u8
-
 #https://jpmtelevisi.com/
 #EXTINF:0 tvg-id="JPMTV.id" tvg-logo="https://i.imgur.com/FM6WN4S.png" group-title="DAERAH",JPM TV
 http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
@@ -1131,10 +1130,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9430f215-8ccb-43
 #
 #EXTINF:0 tvg-id="MChannel.id" tvg-logo="https://i.imgur.com/pZ8acgI.png" group-title="DAERAH",M Channel
 
-
-#EXTINF:0 tvg-id="MGITV.id" tvg-logo="https://i.imgur.com/xrNtabe.png" group-title="DAERAH",MGI TV
-https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8
-
+#https://mgstv.co.id/
 #EXTINF:0 tvg-id="MGSTV.id" tvg-logo="https://i.imgur.com/MYU7dsZ.png" group-title="DAERAH",MGSTV
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
 
@@ -1490,9 +1486,13 @@ https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 #https://mediasunnahaceh.tv/
 #EXTINF:0 tvg-id="MediaSunnahAceh.id" tvg-logo="https://i.imgur.com/CIByKTP.png" group-title="RELIGIOUS",Media Sunnah Aceh
 #https://hls.youtb.workers.dev/channel/UCem4zrffr93cp-o8cOPDhdQ.m3u8
-https://ythls.onrender.com/channel/UCem4zrffr93cp-o8cOPDhdQ.m3u8
+#https://ythls.onrender.com/channel/UCem4zrffr93cp-o8cOPDhdQ.m3u8
 #https://h1.intechmedia.net/intech/ch23.m3u8
-#https://devds.site/api/youlive.m3u8?v=ttLTufW_b4E
+https://devds.site/api/youlive.m3u8?v=ttLTufW_b4E
+
+#https://mgitv.com/
+#EXTINF:0 tvg-id="MGITV.id" tvg-logo="https://i.imgur.com/xrNtabe.png" group-title="RELIGIOUS",MGI TV
+https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8
 
 #EXTINF:0 tvg-id="MuadzTV.id" tvg-logo="https://i.imgur.com/wT7sNUW.png" group-title="RELIGIOUS",Muadz TV
 https://h1.intechmedia.net/intech/ch5.m3u8
