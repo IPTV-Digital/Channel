@@ -626,7 +626,10 @@ https://nxanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f092c2ba-4baa-4ebb-bd60-1cfb1af07da5)/manifest.mpd
 
 #https://www.transvision.co.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.rmvberantakan.com/
 #EXTINF:0 tvg-id="BioskopIndonesia.id" tvg-logo="https://i.imgur.com/8gdyddg.png" group-title="MOVIES",Bioskop Indonesia (NO)
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
 #http://www.ieg.id/tv-channel/citra-bioskop/
 #EXTINF:0 tvg-id="CitraBioskop.id" tvg-logo="https://i.imgur.com/KK1ipNk.png" group-title="MOVIES",Citra Bioskop (NO)
@@ -696,7 +699,7 @@ http://210.210.155.37/qwr9ew/s/s32/index.m3u8
 #https://www.k-vision.tv/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-id="IMC.id" tvg-logo="https://i.imgur.com/CbfrjO7.png" group-title="MOVIES",Indonesia Movie Channel(IMC)
+#EXTINF:0 tvg-id="IMC.id" tvg-logo="https://i.imgur.com/CbfrjO7.png" group-title="MOVIES",Indonesia Movie Channel (IMC)
 https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 #https://www.eyeplus.co.id/
