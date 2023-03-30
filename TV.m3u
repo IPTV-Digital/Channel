@@ -362,13 +362,13 @@ https://nxanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mp
 #EXTINF:0 tvg-id="Entertainment.id" tvg-logo="https://i.imgur.com/VtBLWiv.png" group-title="TV LOKAL",Entertainment (NO)
 
 #https://mncvision.id/channel/detail/150/fmn/
-#EXTINF:0 tvg-id="FMN.id" tvg-logo="https://i.imgur.com/OzcX0II.png" group-title="TV LOKAL",FMN
+#EXTINF:0 tvg-id="FMN.id" tvg-logo="https://i.imgur.com/OzcX0II.png" group-title="TV LOKAL",FMN (NO)
 
 #
-#EXTINF:0 tvg-id="MusicInformationChannel.id" tvg-logo="https://i.imgur.com/OUPGCWG.png" group-title="TV LOKAL",Music Information Channel
+#EXTINF:0 tvg-id="MusicInformationChannel.id" tvg-logo="https://i.imgur.com/OUPGCWG.png" group-title="TV LOKAL",Music Information Channel (NO)
 
-#
-#EXTINF:0 tvg-id="MusicTV.id" tvg-logo="https://i.imgur.com/nUVl7tS.png" group-title="TV LOKAL",Music TV
+#https://www.mncchannels.com/micro/Music-TV
+#EXTINF:0 tvg-id="MusicTV.id" tvg-logo="https://i.imgur.com/nUVl7tS.png" group-title="TV LOKAL",Music TV (NO)
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="TV LOKAL",
 
@@ -749,8 +749,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/
 #https://www.eyeplus.co.id/
 #EXTINF:0 tvg-id="KDrama.id" tvg-logo="https://i.imgur.com/F144MZ6.png" group-title="MOVIES",K-Drama (NO)
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="kplus.sg" tvg-logo="https://i.imgur.com/ZZGUuhE.png",K+
-http://rr.dens.tv/h/h08/index.m3u8
+#http://www.kplus-asia.com/
+#EXTINF:-1 group-title="MOVIES" tvg-id="KPlus.sg" tvg-logo="https://i.imgur.com/ZZGUuhE.png",K-Plus
+#http://rr.dens.tv/h/h08/index.m3u8
+http://210.210.155.37/uq2663/h/h08/index.m3u8
 
 
 
@@ -1600,6 +1602,10 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f
 #EXTINF:0 tvg-id="MuadzTV.id" tvg-logo="https://i.imgur.com/wT7sNUW.png" group-title="RELIGIOUS",Muadz TV
 https://h1.intechmedia.net/intech/ch5.m3u8
 
+#https://www.mncchannels.com/micro/Muslim-TV
+#EXTINF:0 tvg-id="MuslimTV.id" tvg-logo="https://i.imgur.com/hTFdMqu.png" group-title="RELIGIOUS",Muslim TV
+
+
 #
 #EXTINF:0 tvg-id="NabawiTV.id" tvg-logo="https://i.imgur.com/O8WONFB.png" group-title="RELIGIOUS",Nabawi TV
 https://alfa.kugo.id/nabawitv/nabawitv/playlist.m3u8
@@ -1761,19 +1767,21 @@ https://newanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfota
 #EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://static.mncnow.id/images/channel/d879be36/5c67.png",AFN
 https://newanv-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 
+#https://mncvision.id/channel/detail/88/mshop-signature/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://static.mncnow.id/images/channel/6c8b7aa4/4577.png",MNC SHOP Signature
+#EXTINF:0 tvg-id="MShopSignature.id" tvg-logo="https://static.mncnow.id/images/channel/6c8b7aa4/4577.png" group-title="LIFESTYLE",M Shop Signature
 https://newanv-live-cdn.mncnow.id/live/eds/MNCShop/sa_dash_vmx/MNCShop.mpd
 
+#https://mncvision.id/channel/detail/79/mshop-super-sale/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://static.mncnow.id/images/channel/d35cc21f/0e91.png",MNC SHOP SUPER SHALE
+#EXTINF:0 tvg-id="MShopSuperSale.id" tvg-logo="https://static.mncnow.id/images/channel/d35cc21f/0e91.png" group-title="LIFESTYLE",M Shop Super Sale!
 https://newanv-live-cdn.mncnow.id/live/eds/MNCShopSmart/sa_dash_vmx/MNCShopSmart.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://static.mncnow.id/images/channel/c9781aa2/1b21.png", HGTV
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://static.mncnow.id/images/channel/c9781aa2/1b21.png",HGTV
 https://newanv-live-cdn.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1810,11 +1818,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 #https://www.mncchannels.com/micro/mnclifestyle-fashion
 #EXTINF:0 tvg-id="LifestyleFashion.id" tvg-logo="https://i.imgur.com/iLNZrHi.png" group-title="LIFESTYLE",Lifestyle & Fashion
 
-#https://mncvision.id/channel/detail/88/mshop-signature/
-#EXTINF:0 tvg-id="MShopSignature.id" tvg-logo="https://i.imgur.com/MR378dR.png" group-title="LIFESTYLE",M Shop Signature
 
-#https://mncvision.id/channel/detail/79/mshop-super-sale/
-#EXTINF:0 tvg-id="MShopSuperSale.id" tvg-logo="https://i.imgur.com/OFPyyL6.png" group-title="LIFESTYLE",M Shop Super Sale!
 
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="LIFESTYLE",
