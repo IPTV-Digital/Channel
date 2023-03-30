@@ -1317,6 +1317,9 @@ http://122.248.43.138:1935/ch17/myStream/playlist.m3u8
 #
 #EXTINF:0 tvg-id="RatihTV.id" tvg-logo="https://i.imgur.com/aMuSc9f.png" group-title="DAERAH",Ratih TV
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-EPMbpzlwY0o/YJVhhEvr-2I/AAAAAAAAEd0/MQCqA7q3WtkD24sa-7rZT6vPTy3Klx6lwCLcBGAsYHQ/s720/rbtv-p.png" group-title="DAERAH",RBTV
+https://h1.intechmedia.net/intech/ch59.m3u8
+
 #https://www.radarcirebon.tv/
 #EXTINF:0 tvg-id="RCTV.id" tvg-logo="https://i.imgur.com/CyIlt0y.png" group-title="DAERAH",RCTV
 #https://v10.siar.us/rctv/live/playlist.m3u8
