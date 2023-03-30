@@ -759,11 +759,26 @@ http://210.210.155.37/qwr9ew/s/s32/index.m3u8
 
 #EXTINF:0 tvg-id="HaariMovie.id" tvg-logo="https://i.imgur.com/ywAjzqJ.png" group-title="MOVIES",Haari Movie
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6J5jnsZZo-8/YJZOlXk24iI/AAAAAAAAEsI/byWXVz7YsyknTyURgE-B-eEliU8EyZ4nwCLcBGAsYHQ/s720/kix-poster.png" group-title="MOVIES" tvg-id="Kix.hk" tvg-name="KIX",KIX
+https://nxanv-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+
 #https://www.k-vision.tv/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:0 tvg-id="IMC.id" tvg-logo="https://i.imgur.com/CbfrjO7.png" group-title="MOVIES",Indonesia Movie Channel (IMC)
 https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3zWaVyqmN74/YJZOmQFLNqI/AAAAAAAAEsU/KbYjBqCWH8E7lBrZnLti8Udsas9H8Za_ACLcBGAsYHQ/s720/one-poster.png" group-title="MOVIES" tvg-id="OneTVAsia.sg" tvg-name="ONE HD",One
+https://nxanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-jA70Yh8ivbQ/YJZOfN0ccKI/AAAAAAAAErA/pILqNOw3ytMKSk71xtJn5M-hykP26om6gCLcBGAsYHQ/s720/TVN-Poster.png" group-title="MOVIES" tvg-id="TVNAsia.hk" tvg-name="tvN HD", TVN HD
+https://nxanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 #https://www.eyeplus.co.id/
 #EXTINF:0 tvg-id="KDrama.id" tvg-logo="https://i.imgur.com/F144MZ6.png" group-title="MOVIES",K-Drama (NO)
