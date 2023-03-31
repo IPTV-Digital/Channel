@@ -771,6 +771,9 @@ http://210.210.155.37/uq2663/h/h192/index.m3u8
 #EXTINF:0 tvg-id="MyCinemaAsia.id" tvg-logo="https://i.imgur.com/4XVZLW0.png" group-title="MOVIES",My Cinema Asia
 http://210.210.155.37/uq2663/h/h193/index.m3u8
 
+#EXTINF:-1 tvg-id="MyCinemaEurope.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMJ52gYATAyz1xSRrzP70Qcqbbfwr-2MJWEStxkFAyanOxAmH0qzKg6c9faql6xHkxUl7fulBD8eh5mAXNXhFedxLo1acmTcoYM-PTz1aJGugpGHQAUC2x1CH8qfE1uvmOa-FxruQc4VxPApnuyWZYeJ3V0euzEqFdZNk_lXURGO_1G4ZliLmOeLjZ/s720/mycinemaeurope.png" group-title="Movies",My Cinema Europe 
+http://210.210.155.35/uq2663/h/h18/index.m3u8
+
 #EXTINF:0 tvg-id="MyFamily.id" tvg-logo="https://i.imgur.com/IaCmCt9.png" group-title="MOVIES",My Family
 http://210.210.155.37/uq2663/h/h194/index.m3u8
 
