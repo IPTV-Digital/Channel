@@ -675,6 +675,8 @@ https://av-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.m
 #EXTINF:0 tvg-id="HBOHitsAsia.sg" tvg-logo="https://s.id/1d0VK" group-title="MOVIES",HBO HITS
 https://av-live-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
+
+
 #EXTINF:-1 group-title="MOVIES" tvg-id="atv.id" tvg-logo="https://i.postimg.cc/mZXxb1kt/1680559294778.png",ATV
 https://cdn09jtedge.indihometv.com/dvr/139/atv/manifest.mpd
 
@@ -689,6 +691,11 @@ https://nxanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.my.id/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:-1 tvg-id="ParamountNetwork.id" tvg-logo="https://i.ibb.co/zrxvFLV/images-6-modified.png" group-title="MOVIES",Paramount Network
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f092c2ba-4baa-4ebb-bd60-1cfb1af07da5)/manifest.mpd
+
+#EXTINF:-1 group-title="MOVIES" tvg-id"rockentertainment.sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/ROCK_entertainment_UHD.png/revision/latest?cb=20210911032942",Rock Entertainment
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=14a5992ac11cb08303ec82c34e775025:e97307a38fe832c62d3f486077745c80
+http://210.210.155.35/dr9445/h/h16/index.m3u8
 
 #https://www.transvision.co.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1739,6 +1746,10 @@ https://h1.intechmedia.net/intech/ch5.m3u8
 #EXTINF:0 tvg-id="NabawiTV.id" tvg-logo="https://i.imgur.com/O8WONFB.png" group-title="RELIGIOUS",Nabawi TV
 https://alfa.kugo.id/nabawitv/nabawitv/playlist.m3u8
 
+#http://www.niaga.tv/
+#EXTINF:0 tvg-id="NiagaTV.id" tvg-logo="https://i.imgur.com/XNgj2q1.png" group-title="RELIGIOUS",Niaga TV
+https://h1.intechmedia.net/intech/ch10.m3u8
+
 #http://nuchannel.tv/
 #EXTINF:0 tvg-id="NuChannel.id" tvg-logo="https://i.imgur.com/KTgygxi.png" group-title="RELIGIOUS",Nu Channel (NO)
 
@@ -1899,6 +1910,16 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341b51b
 
 
 
+#EXTINF:-1 group-title="LIFESTYLE" tvg-id="entertainment.id" tvg-logo="https://www.mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/files/logo/1579059585_logo_ent.png",ENT
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
+
+#EXTINF:-1 group-title="LIFESTYLE" tvg-id="lifetimeasia.us" tvg-logo="https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/4/2021/03/11131921/Lifetime_Logo_Rosex500.png",Lifetime
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://static.mncnow.id/images/channel/31c7d540/8e75.png",LifeStyle Fashion
@@ -1959,10 +1980,6 @@ https://devds.site/api/youlive.m3u8?v=zUahI3Pgbxk
 
 #https://www.mncchannels.com/micro/mnclifestyle-fashion
 #EXTINF:0 tvg-id="LifestyleFashion.id" tvg-logo="https://i.imgur.com/iLNZrHi.png" group-title="LIFESTYLE",Lifestyle & Fashion
-
-#http://www.niaga.tv/
-#EXTINF:0 tvg-id="NiagaTV.id" tvg-logo="https://i.imgur.com/XNgj2q1.png" group-title="LIFESTYLE",Niaga TV
-https://h1.intechmedia.net/intech/ch10.m3u8
 
 #https://www.transvision.co.id/
 #EXTINF:0 tvg-id="nsert.id" tvg-logo="https://i.imgur.com/iRPVLqr.png" group-title="LIFESTYLE",!nsert
