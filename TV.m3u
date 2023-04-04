@@ -675,7 +675,8 @@ https://av-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.m
 #EXTINF:0 tvg-id="HBOHitsAsia.sg" tvg-logo="https://s.id/1d0VK" group-title="MOVIES",HBO HITS
 https://av-live-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
-
+#EXTINF:-1 group-title="MOVIES" tvg-id="atv.id" tvg-logo="https://i.postimg.cc/mZXxb1kt/1680559294778.png",ATV
+https://cdn09jtedge.indihometv.com/dvr/139/atv/manifest.mpd
 
 #http://www.axn-asia.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
