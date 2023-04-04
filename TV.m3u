@@ -16,6 +16,7 @@
 #https://dl.dropboxusercontent.com/s/7ybs68p8yw4k50s/sri-tv.txt
 #https://dl.dropboxusercontent.com/s/dstz2d1fj652oiy/SRI-TV-2.txt
 
+#Liga BRI
 #https://github.com/krismrp123/liveliga1
 #http://golive.yn.lt/live/liga1/
 
@@ -89,23 +90,18 @@ https://prod-drm-timnas-event-vidio-com-v2.akamaized.net/out/v1/37083cbe466e4add
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://bystream.my.id/apaantuh/briliga1
-#EXTINF:-1 tvg-id="" tvg-name="Cnn Indonesia" tvg-logo="https://i.postimg.cc/ncbw9qHF/bri-liga-1.jpg" group-title="LIVE EVENT",Bri Liga 1 S1
-#https://production-drm-vidio-com-event-7.akamaized.net/out/v1/fb3777ee16104dcd8722bb42560cef6f/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://bystream.my.id/apaantuh/liga1bri
-#EXTINF:-1 tvg-id="" tvg-name="Cnn Indonesia" tvg-logo="https://i.postimg.cc/ncbw9qHF/bri-liga-1.jpg" group-title="LIVE EVENT",Bri Liga 1 S2
-#https://production-drm-vidio-com-event-8.akamaized.net/out/v1/5bfe18929905440498f6eb7504c4028f/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8f9a85ba8cd5d135b9ef7e6bd4721fef:fce827a829e836cc4f93e735a47d8205
-#EXTINF:-1 tvg-id="" tvg-name="Cnn Indonesia" tvg-logo="https://i.postimg.cc/ncbw9qHF/bri-liga-1.jpg" group-title="LIVE EVENT",Bri Liga 1 S1
+#EXTINF:-1 tvg-id="" tvg-name="Cnn Indonesia" tvg-logo="https://i.postimg.cc/ncbw9qHF/bri-liga-1.jpg" group-title="LIVE EVENT",Bri Liga 1 A
 https://production-drm-vidio-com-event-7.akamaized.net/out/v1/fb3777ee16104dcd8722bb42560cef6f/index.mpd
 
-#https://www.cnnindonesia.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bystream.my.id/apaantuh/liga1bri
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=142b8b882fc06a2e3ec0d0e454a5fa21:c2fae79e079339de27f6a2ace46e303b
-#EXTINF:-1 tvg-id="" tvg-name="Cnn Indonesia" tvg-logo="https://i.postimg.cc/ncbw9qHF/bri-liga-1.jpg" group-title="LIVE EVENT",Bri Liga 1 S2
+#EXTINF:-1 tvg-id="" tvg-name="Cnn Indonesia" tvg-logo="https://i.postimg.cc/ncbw9qHF/bri-liga-1.jpg" group-title="LIVE EVENT",Bri Liga 1 B
 https://production-drm-vidio-com-event-8.akamaized.net/out/v1/5bfe18929905440498f6eb7504c4028f/index.mpd
 
 
@@ -190,15 +186,15 @@ https://mooncang.my.id/api/rplus/ch.m3u8?id=rcti
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://s.id/1d0xp" group-title="TV LOKAL",MNC TV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://mooncang.my.id/api/rplus/ch.m3u8?id=mnctv
-#https://av-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+#https://mooncang.my.id/api/rplus/ch.m3u8?id=mnctv
+https://av-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:0 tvg-id="GTV.id" tvg-logo="https://s.id/1d0AE" group-title="TV LOKAL",GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://mooncang.my.id/api/rplus/ch.m3u8?&id=gtv
-#https://av-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+#https://mooncang.my.id/api/rplus/ch.m3u8?&id=gtv
+https://av-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -249,9 +245,7 @@ http://210.210.155.35/qwr9ew/s/s08/index.m3u8
 #EXTINF:0 tvg-id="ANTV.id" tvg-logo="https://s.id/1d0BL" group-title="TV LOKAL",ANTV
 #http://rr2.dens.tv/s/s07/index.m3u8
 http://210.210.155.35/qwr9ew/s/s07/index.m3u8
-#http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 #http://210.210.155.37/qwr9ew/s/s07/index.m3u8
-#http://210.210.155.37/qwr9ew/s/s07/02.m3u8
 #http://iptvid.my.id/hmm/antv.m3u8
 #https://av-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
@@ -261,9 +255,7 @@ http://210.210.155.35/qwr9ew/s/s07/index.m3u8
 #EXTINF:0 tvg-id="tvOne.id" tvg-logo="https://s.id/1d0FV" group-title="TV LOKAL",TVONE
 #http://rr2.dens.tv/s/s105/index.m3u8
 http://210.210.155.35/qwr9ew/s/s105/index.m3u8
-#http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 #http://210.210.155.37/qwr9ew/s/s105/index.m3u8
-#http://210.210.155.37/qwr9ew/s/s105/01.m3u8
 #http://iptvid.my.id/hmm/tvone.m3u8
 #https://av-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
@@ -271,6 +263,7 @@ http://210.210.155.35/qwr9ew/s/s105/index.m3u8
 
 #https://www.rtv.co.id/
 #EXTINF:0 tvg-id="RajawaliTV.id" tvg-logo="https://i.imgur.com/dlsv1sl.png" group-title="TV LOKAL",Rajawali TV
+#http://210.210.155.35/dr9445/h/h10/index.m3u8
 http://210.210.155.37/dr9445/h/h10/index.m3u8
 #https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 
@@ -329,14 +322,6 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.
 #EXTINF:0 tvg-id="ChannelDangdutIndonesia.id" tvg-logo="https://i.imgur.com/I603MPO.png" group-title="TV LOKAL",Channel Dangdut Indonesia (NO)
 
 #EXTINF:0 tvg-id="DangdutTivi.id" tvg-logo="https://i.imgur.com/tPd3ZNV.png" group-title="TV LOKAL",Dangdut Tivi (NO)
-
-#https://www.indihometv.com/
-#EXTINF:0 tvg-id="RuangTrampil.id" tvg-logo="https://i.imgur.com/93EZSRw.png" group-title="TV LOKAL",Ruang Trampil
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
-
-#https://tve.kemdikbud.go.id/
-#EXTINF:0 tvg-id="TVEdukasi.id" tvg-logo="https://i.imgur.com/XX5wGHQ.png" group-title="TV LOKAL",TV Edukasi
-http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
 
 #http://www.ieg.id/tv-channel/citra-dangdut/
 #EXTINF:0 tvg-id="PopMusik.id" tvg-logo="https://i.imgur.com/77KYgbz.png" group-title="TV LOKAL",Citra Dangdut
@@ -529,6 +514,15 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #https://www.spacetoon.id/
 #EXTINF:0 tvg-id="SpacetoonIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="KIDS",Spacetoon
+
+
+#https://www.indihometv.com/
+#EXTINF:0 tvg-id="RuangTrampil.id" tvg-logo="https://i.imgur.com/93EZSRw.png" group-title="KIDS",Ruang Trampil
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
+
+#https://tve.kemdikbud.go.id/
+#EXTINF:0 tvg-id="TVEdukasi.id" tvg-logo="https://i.imgur.com/XX5wGHQ.png" group-title="KIDS",TV Edukasi
+http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
 
 #EXTINF:0 tvg-id="HaariKids.id" tvg-logo="https://i.imgur.com/LDFYyge.png" group-title="KIDS",Haari Kids (NO)
 
@@ -781,6 +775,11 @@ http://210.210.155.37/uq2663/h/h194/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="MOVIES" tvg-id="onetvasia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/Logo_One_TV_Asia_%282020%29.png",ONE
 https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+
+#EXTINF:-1 group-title="MOVIES" tvg-id"rockextreme.sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest?cb=20221212024829",Rock Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=a6d8da647fc02d64463e38e222f268b0:f4d533e9d51a2aa66af7aaf27f54f92a
+http://edge.linknetott.swiftserve.com/channelgroup2/cg255production/ch330/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -1704,6 +1703,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 #https://stream.asianastream.com/madani/madanitv.smil/chunklist.m3u8
 https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="RELIGIOUS" tvg-id="madinahtv.sa" tvg-logo="https://2.bp.blogspot.com/-7xJ__ouF6os/VlZlmiGX23I/AAAAAAAAbr8/nqwBcUA00qA/s1600/saudi-sunnah-logo.png",Madinah TV
+https://edge.taghtia.com/sa/6.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hCrrkVR/Makkah-TV.png&quot" group-title="RELIGIOUS",Makkah TV
+http://210.210.155.35/qwr9ew/s/s28/index.m3u8
+
 #https://mediasunnahaceh.tv/
 #EXTINF:0 tvg-id="MediaSunnahAceh.id" tvg-logo="https://i.imgur.com/CIByKTP.png" group-title="RELIGIOUS",Media Sunnah Aceh
 #https://hls.youtb.workers.dev/channel/UCem4zrffr93cp-o8cOPDhdQ.m3u8
@@ -1747,7 +1752,10 @@ https://streaming.yufid.com/hls/radiokitatv.m3u8
 https://hls.youtb.workers.dev/channel/UCotIkyDFzztbSm21GNGsK9w.m3u8
 
 #https://reformed21.tv/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="Reformed21.id" tvg-logo="" group-title="RELIGIOUS",Reformed 21
+https://nyanv-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 
 #https://rodja.tv/
 #EXTINF:0 tvg-id="RodjaTV.id" tvg-logo="https://i.imgur.com/XwCeHlC.png" group-title="RELIGIOUS",Rodja TV
@@ -1771,6 +1779,9 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
 #EXTINF:0 tvg-id="TawafTV.id" tvg-logo="https://i.imgur.com/pjYTa3P.png" group-title="RELIGIOUS",Tawaf TV (NO)
 
 #EXTINF:0 tvg-id="TuanGuruTV.id" tvg-logo="https://i.imgur.com/mutbCy6.png" group-title="RELIGIOUS",Tuan Guru TV (NO)
+
+#EXTINF:-1 group-title="RELIGIOUS" tvg-id="tvalhijrah.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Logo_of_the_TV_Alhijrah.svg/640px-Logo_of_the_TV_Alhijrah.svg.png",TV Al-Hijrah
+https://live.mana2.my/TVAH/index.m3u8?organizationId=196288014&suiteItemId=196291301
 
 #http://www.tv9.co.id/
 #EXTINF:0 tvg-id="TV9Nusantara.id" tvg-logo="https://i.imgur.com/xPjWyiL.png" group-title="RELIGIOUS",TV 9 Nusantara
@@ -1870,8 +1881,13 @@ https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
 #EXTINF:0 tvg-id="SkyVisionLearningChannel.id" tvg-logo="https://i.imgur.com/LEih5UL.png" group-title="KNOWLEDGE",Sky Vision Learning Channel (NO)
 
 #https://www.transvision.co.id/channel/lingua.html
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:0 tvg-id="LinguaChannel.id" tvg-logo="https://i.imgur.com/vaGsvbG.png" group-title="KNOWLEDGE",Lingua Channel
-
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341b51bd0904/manifest.mpd
 
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="KNOWLEDGE",
