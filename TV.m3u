@@ -316,12 +316,16 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
 
 
 #https://maxstream.tv/home
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.my.id/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:0 tvg-id="Channel4U.id" tvg-logo="https://seeklogo.com/images/C/channel-4u-maxstream-logo-E4A5CAF8C2-seeklogo.com.png" group-title="TV LOKAL",Channel 4U (NO)
+#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/manifest.mpd
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #http://www.ieg.id/tv-channel/citra-dangdut/
 #EXTINF:0 tvg-id="CitraDangdut.id" tvg-logo="https://i.imgur.com/77KYgbz.png" group-title="TV LOKAL",Citra Dangdut (NO)
-https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
+#https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
+http://103.102.15.12:1111/stream/channelid/2052624909?ticket=B8CE7A4386718673CFBC04238D28056F544DD703&profile=pass
 
 #
 #EXTINF:0 tvg-id="PopMusik.id" tvg-logo="https://i.imgur.com/Dfnl0nf.png" group-title="TV LOKAL",Pop Musik
@@ -350,8 +354,11 @@ https://nxanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mp
 https://beetv.my.id/x/usee-dunialain-masihsama.m3u8
 
 #https://www.mncchannels.com/micro/Music-TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="MusicTV.id" tvg-logo="https://i.imgur.com/nUVl7tS.png" group-title="TV LOKAL",Music TV (NO)
-https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
+#https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
+https://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
 #https://www.rri.co.id/
 #EXTINF:0 tvg-id="RRINet.id" tvg-logo="https://i.imgur.com/4mWKUf4.png" group-title="TV LOKAL",RRI Net (NO)
