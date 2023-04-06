@@ -1067,8 +1067,8 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #https://btv.co.id/
-#EXTINF:0 tvg-id="BalikapanTV.id" tvg-logo="https://i.imgur.com/P3whqna.png" group-title="DAERAH",Balikapan TV (No)
-https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
+#EXTINF:0 tvg-id="BalikapanTV.id" tvg-logo="https://i.imgur.com/P3whqna.png" group-title="DAERAH",Balikapan TV
+http://122.248.43.138:1935/ch10/myStream/playlist.m3u8
 
 #https://balitv.tv/
 #EXTINF:0 tvg-id="BaliTV.id" tvg-logo="https://i.imgur.com/uH1Szme.png" group-title="DAERAH",Bali TV
@@ -1367,7 +1367,8 @@ http://122.248.43.138:1935/ch17/myStream/playlist.m3u8
 
 #https://radartasikmalaya.tv/
 #EXTINF:0 tvg-id="RadarTasikmalayaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png" group-title="DAERAH",Radar Tasikmalaya TV
-http://122.248.43.138:1935/ch17/myStream/playlist.m3u8
+https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
+#https://v2.siar.us/radartasikmalaya/live/chunks.m3u8?nimblesessionid=506721
 
 #https://rbtv.rakyatbengkulu.com/
 #EXTINF:0 tvg-id="RakyatBengkuluTV.id" tvg-logo="https://i.imgur.com/5L2q081.png" group-title="DAERAH",Rakyat Bengkulu TV (RBTV)
