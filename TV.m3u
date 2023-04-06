@@ -1873,7 +1873,8 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
 
 #https://lejel.co.id/watch-live
 #EXTINF:0 tvg-id="LejelHomeShopping.id" tvg-logo="https://i.imgur.com/Yxq05Dg.png" group-title="LIFESTYLE",Lejel Home Shopping
-https://devds.site/api/youlive.m3u8?v=zUahI3Pgbxk
+#https://devds.site/api/youlive.m3u8?v=zUahI3Pgbxk
+http://mooncang.my.id/api/youtube/ytl.php?url=zUahI3Pgbxk
 
 #https://www.mncchannels.com/micro/mnclifestyle-fashion
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
