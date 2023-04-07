@@ -1465,8 +1465,9 @@ https://v3.siar.us/surabayatv/live/playlist.m3u8
 #https://v3.siar.us/surabayatv/live/chunks.m3u8?nimblesessionid=802211
 
 #https://tvtpi.id/
-#EXTINF:0 tvg-id="TanjungpinangTV.id" tvg-logo="https://i.imgur.com/lzCHTV3.png" group-title="DAERAH",Tanjungpinang TV
-https://103.30.246.47:1935/tvtpi/live/playlist.m3u8
+#EXTINF:0 tvg-id="TanjungpinangTV.id" tvg-logo="https://i.imgur.com/lzCHTV3.png" group-title="DAERAH",Tanjung pinang TV
+#https://103.30.246.47:1935/tvtpi/live/playlist.m3u8
+http://103.30.246.47:1935/tvtpi/smil:live.smil/playlist.m3u8
 
 #http://tatv.co.id/
 #EXTINF:0 tvg-id="TATV.id" tvg-logo="https://i.imgur.com/1f0EC7t.png" group-title="DAERAH",TATV
