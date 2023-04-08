@@ -105,6 +105,17 @@ https://production-drm-vidio-com-event-7.akamaized.net/out/v1/fb3777ee16104dcd87
 #EXTINF:-1 tvg-id="" tvg-name="Cnn Indonesia" tvg-logo="https://i.postimg.cc/ncbw9qHF/bri-liga-1.jpg" group-title="LIVE EVENT",Bri Liga 1 B
 https://production-drm-vidio-com-event-8.akamaized.net/out/v1/5bfe18929905440498f6eb7504c4028f/index.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxRs9gbzlB2AsEJ8i8VxgX0zO4ZGuNdhxRyQ&usqp=CAU" group-title="LIVE EVENT",Ligue
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=53282f0d6323358ba474fe16c37d4843:2b20f14f78f8efbc6df2d1cba2c72b5d
+https://production-drm-vidio-com-event-12.akamaized.net/out/v1/d43b8328b95d498aae5df88fd77f6646/index.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxRs9gbzlB2AsEJ8i8VxgX0zO4ZGuNdhxRyQ&usqp=CAU" group-title="LIVE EVENT",Laliga
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=1ba9375d00cdc633df8241b7549bb28b:49d3bd77fde69b6a8bdb6b6826fc1ab6
+https://production-drm-vidio-com-event-14.akamaized.net/out/v1/88c33cc42b3b4313a13be94c3992978f/index.mpd
 
 
 #EXTINF:0 tvg-id="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="LIVE EVENT",INDOSIAR Live 1
@@ -791,8 +802,7 @@ https://beetv.my.id/x/vidio-citrabioskop-masihsama.m3u8
 https://beetv.my.id/x/vidio-citradrama-masihsama.m3u8
 
 #http://www.ieg.id/tv-channel/citra-drama-plus/
-#EXTINF:0 tvg-id="CitraDramaPlus.id" tvg-logo="https://i.imgur.com/zIpX0v8.png" group-title="MOVIES",	
-Citra Drama Plus (NO)
+#EXTINF:0 tvg-id="CitraDramaPlus.id" tvg-logo="https://i.imgur.com/zIpX0v8.png" group-title="MOVIES",Citra Drama Plus (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #EXTINF:0 tvg-id="HaariDrama.id" tvg-logo="https://i.imgur.com/qMZvj2f.png" group-title="MOVIES",Haari Drama (NO)
