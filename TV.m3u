@@ -152,7 +152,7 @@ http://103.167.167.5:8111/play/a01c/index.m3u8
 
 ######## EMTEK GROUP ########
 
-#EXTINF:0 tvg-id="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV LOKAL",INDOSIAR
+#EXTINF:0 tvg-id="Indosiar.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Indosiar.jpg" group-title="TV LOKAL",INDOSIAR
 #http://rr2.dens.tv/s/s04/index.m3u8
 http://210.210.155.35/qwr9ew/s/s04/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s04/index.m3u8
@@ -162,7 +162,7 @@ http://210.210.155.35/qwr9ew/s/s04/index.m3u8
 #https://idcloud.tech/indosiar_vid.m3u8
 
 #https://www.sctv.co.id/
-#EXTINF:0 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="TV LOKAL",SCTV
+#EXTINF:0 tvg-id="SCTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/SCTV.jpg" group-title="TV LOKAL",SCTV
 #http://rr2.dens.tv/s/s03/index.m3u8
 http://210.210.155.35/qwr9ew/s/s03/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s03/index.m3u8
@@ -188,7 +188,7 @@ http://210.210.155.37/qwr9ew/s/s41/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://s.id/1d0yU" group-title="TV LOKAL",RCTI
+#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/RCTI.jpg" group-title="TV LOKAL",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://idcloud.tech/rcti_vid.m3u8
 https://mooncang.my.id/api/rplus/ch.m3u8?id=rcti
@@ -197,14 +197,14 @@ https://mooncang.my.id/api/rplus/ch.m3u8?id=rcti
 #https://www.mnctv.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://s.id/1d0xp" group-title="TV LOKAL",MNC TV
+#EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/MNC%20TV.jpg" group-title="TV LOKAL",MNC TV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://mooncang.my.id/api/rplus/ch.m3u8?id=mnctv
 https://av-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:0 tvg-id="GTV.id" tvg-logo="https://s.id/1d0AE" group-title="TV LOKAL",GTV
+#EXTINF:0 tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/GTV.jpg" group-title="TV LOKAL",GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://mooncang.my.id/api/rplus/ch.m3u8?&id=gtv
 https://av-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
@@ -222,7 +222,7 @@ https://mooncang.my.id/api/rplus/ch.m3u8?id=inews
 #https://www.transtv.co.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:0 tvg-id="TransTV.id" tvg-logo="https://s.id/1d0Et" group-title="TV LOKAL",Trans TV
+#EXTINF:0 tvg-id="TransTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/TransTV.jpg" group-title="TV LOKAL",Trans TV
 #EXTVLCOPT:http-referrer=https://www.transtv.co.id/
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #http://iptvid.my.id/hmm/transtv.m3u8
@@ -231,7 +231,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #https://www.trans7.co.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:0 tvg-id="Trans7.id" tvg-logo="https://s.id/1d0F6" group-title="TV LOKAL",Trans7
+#EXTINF:0 tvg-id="Trans7.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Trans7.jpg" group-title="TV LOKAL",Trans7
 #EXTVLCOPT:http-referrer=https://www.transtv.co.id/
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #http://iptvid.my.id/hmm/trans7.m3u8
@@ -242,7 +242,7 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #https://www.netmedia.co.id/home
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:0 tvg-id="NET.id" tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="TV LOKAL",NET.
+#EXTINF:0 tvg-id="NET.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/NET%20TV.jpg" group-title="TV LOKAL",NET.
 #http://rr2.dens.tv/s/s08/02.m3u8
 http://210.210.155.35/qwr9ew/s/s08/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s08/index.m3u8
@@ -255,7 +255,7 @@ http://210.210.155.35/qwr9ew/s/s08/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:0 tvg-id="ANTV.id" tvg-logo="https://s.id/1d0BL" group-title="TV LOKAL",ANTV
+#EXTINF:0 tvg-id="ANTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/ANTV.jpg" group-title="TV LOKAL",ANTV
 #http://rr2.dens.tv/s/s07/index.m3u8
 http://210.210.155.35/qwr9ew/s/s07/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s07/index.m3u8
@@ -265,7 +265,7 @@ http://210.210.155.35/qwr9ew/s/s07/index.m3u8
 #https://www.tvonenews.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:0 tvg-id="tvOne.id" tvg-logo="https://s.id/1d0FV" group-title="TV LOKAL",TVONE
+#EXTINF:0 tvg-id="tvOne.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/tvOne.jpg" group-title="TV LOKAL",TVONE
 #http://rr2.dens.tv/s/s105/index.m3u8
 http://210.210.155.35/qwr9ew/s/s105/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s105/index.m3u8
@@ -278,7 +278,7 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8?dl=0
 ######## RAJAWALI CORP ########
 
 #https://www.rtv.co.id/
-#EXTINF:0 tvg-id="RajawaliTV.id" tvg-logo="https://i.imgur.com/dlsv1sl.png" group-title="TV LOKAL",Rajawali TV
+#EXTINF:0 tvg-id="RajawaliTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/rtv.jpg" group-title="TV LOKAL",Rajawali TV
 #http://210.210.155.35/dr9445/h/h10/index.m3u8
 http://210.210.155.37/dr9445/h/h10/index.m3u8
 #https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
@@ -288,7 +288,7 @@ http://210.210.155.37/dr9445/h/h10/index.m3u8
 #https://www.metrotvnews.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:0 tvg-id="MetroTV.id" tvg-logo="https://s.id/1d0Gp" group-title="TV LOKAL",Metro TV
+#EXTINF:0 tvg-id="MetroTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/MetroTV.jpg" group-title="TV LOKAL",Metro TV
 #http://rr2.dens.tv/h/h12/index.m3u8
 http://210.210.155.35/qwr9ew/h/h12/index.m3u8
 #http://210.210.155.37/qwr9ew/h/h12/index.m3u8
@@ -304,13 +304,13 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #https://daaitv.co.id/DAAI-WP/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="DAAITV.id" tvg-logo="https://i.imgur.com/YC7JCHo.png" group-title="TV LOKAL",DAAI TV
+#EXTINF:0 tvg-id="DAAITV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/DAAI.jpg" group-title="TV LOKAL",DAAI TV
 https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 #https://jak-tv.com/home
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:0 tvg-id="JakTV.id" tvg-logo="https://i.imgur.com/xyLLLOi.png" group-title="TV LOKAL",Jak TV
+#EXTINF:0 tvg-id="JakTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Jak%20tv.jpg" group-title="TV LOKAL",Jak TV
 #https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
 https://av-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
@@ -362,7 +362,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d
 https://nxanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 #https://www.transvision.co.id/
-#EXTINF:0 tvg-id="DuniaLain.id" tvg-logo="https://i.imgur.com/XgIuU7M.png" group-title="TV LOKAL",Dunia Lain (NO)
+#EXTINF:0 tvg-id="DuniaLain.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Dunia%20Lain.jpg" group-title="TV LOKAL",Dunia Lain (NO)
 https://beetv.my.id/x/usee-dunialain-masihsama.m3u8
 
 #https://www.mncchannels.com/micro/Music-TV
