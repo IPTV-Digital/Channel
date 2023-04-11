@@ -94,7 +94,7 @@ https://prod-drm-timnas-event-vidio-com-v2.akamaized.net/out/v1/37083cbe466e4add
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8f9a85ba8cd5d135b9ef7e6bd4721fef:fce827a829e836cc4f93e735a47d8205
-#EXTINF:-1 tvg-id="" tvg-name="Cnn Indonesia" tvg-logo="https://i.postimg.cc/ncbw9qHF/bri-liga-1.jpg" group-title="LIVE EVENT",Bri Liga 1 A
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncbw9qHF/bri-liga-1.jpg" group-title="LIVE EVENT",Bri Liga 1 A
 https://production-drm-vidio-com-event-7.akamaized.net/out/v1/fb3777ee16104dcd8722bb42560cef6f/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -102,7 +102,7 @@ https://production-drm-vidio-com-event-7.akamaized.net/out/v1/fb3777ee16104dcd87
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=142b8b882fc06a2e3ec0d0e454a5fa21:c2fae79e079339de27f6a2ace46e303b
-#EXTINF:-1 tvg-id="" tvg-name="Cnn Indonesia" tvg-logo="https://i.postimg.cc/ncbw9qHF/bri-liga-1.jpg" group-title="LIVE EVENT",Bri Liga 1 B
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncbw9qHF/bri-liga-1.jpg" group-title="LIVE EVENT",Bri Liga 1 B
 https://production-drm-vidio-com-event-8.akamaized.net/out/v1/5bfe18929905440498f6eb7504c4028f/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
@@ -387,10 +387,10 @@ https://beetv.my.id/x/usee-rrinet-masihsama.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/kMTWqShM/20220926-200816.png" tvg-id="AnimaxAsia.sg" tvg-name="Animax",Animax
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Animax.png" tvg-id="AnimaxAsia.sg" tvg-name="Animax",Animax
 https://nxanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FRXjGSyj/20230208-070859.png" group-title="KIDS",Aniplus
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Aniplus.jpg" group-title="KIDS",Aniplus
 #http://rr1.dens.tv/h/h02/index.m3u8
 http://210.210.155.35/dr9445/h/h02/index.m3u8
 #http://210.210.155.37/dr9445/h/h02/index.m3u8
@@ -405,12 +405,12 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizke
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydDy2BTW/20221026-010302.png" group-title="KIDS" tvg-id="BoomerangSoutheastAsia.us" tvg-name="Boomerang HD",Boomerang
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Boomerang.png" group-title="KIDS" tvg-id="BoomerangSoutheastAsia.us" tvg-name="Boomerang HD",Boomerang
 https://nxanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkp9jxF1/20220926-200756.png" group-title="KIDS" tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network",Cartoon Network
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Cartoon%20Network.jpg" group-title="KIDS" tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network",Cartoon Network
 https://nxanv-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -446,7 +446,7 @@ https://beetv.my.id/x/usee-dreamworks-masihsama.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:-1 tvg-id="DuniaAnak.id" tvg-logo="https://i.imgur.com/pI76ufZ.png" group-title="KIDS",Dunia Anak
+#EXTINF:-1 tvg-id="DuniaAnak.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Dunia%20Anak.jpg" group-title="KIDS",Dunia Anak
 #https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
 https://beetv.my.id/x/usee-duniaanak-masihsama.m3u8
 
@@ -550,7 +550,7 @@ https://beetv.my.id/x/usee-antara-masihsama.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 
 #https://www.beritasatu.com/
-#EXTINF:0 tvg-id="BeritaSatu.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/BeritaSatu_%28Indonesian_news_channel%29.png/512px-BeritaSatu_%28Indonesian_news_channel%29.png" group-title="NEWS",BeritaSatu (BTV)
+#EXTINF:0 tvg-id="BeritaSatu.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/BTV.jpg" group-title="NEWS",BeritaSatu (BTV)
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
 #https://www.beritasatu.com/
@@ -566,12 +566,12 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 http://mooncang.my.id/api/youtube/ytl.php?url=https://youtu.be/0Kln8aj0v3E
 
 #https://www.cnbcindonesia.com/
-#EXTINF:0 tvg-id="CNBCIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/CNBC_Indonesia.png" group-title="NEWS",CNBC Indonesia
+#EXTINF:0 tvg-id="CNBCIndonesia.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/CNBC%20Indonesia.jpg" group-title="NEWS",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 #https://www.cnnindonesia.com/
-#EXTINF:0 tvg-id="CNNIndonesia.id" tvg-logo="https://i.imgur.com/9CmaXXL.png" group-title="NEWS",CNN Indonesia
+#EXTINF:0 tvg-id="CNNIndonesia.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/CNN%20Indonesia.jpg" group-title="NEWS",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 #https://www.idxchannel.com/
@@ -622,28 +622,30 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:0 tvg-id="cinemax" tvg-logo="https://s.id/1d0Wk" group-title="MOVIES",CINEMAX
+#EXTINF:0 tvg-id="cinemax" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Cinemax.jpg" group-title="MOVIES",CINEMAX
 https://av-live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:0 tvg-id="HBOAsia.sg" tvg-logo="https://s.id/1d0TX" group-title="MOVIES",HBO
+#EXTINF:0 tvg-id="HBOAsia.sg" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/HBO.jpg" group-title="MOVIES",HBO
 https://av-live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:0 tvg-id="HBOFamilyAsia.sg" tvg-logo="https://s.id/1d0US" group-title="MOVIES",HBO FAMILY
+#EXTINF:0 tvg-id="HBOFamilyAsia.sg" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/HBO%20Family.png" group-title="MOVIES",HBO FAMILY
 https://av-live-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:0 tvg-id="HBOSignatureAsia.sg" tvg-logo="https://s.id/1d0Vm" group-title="MOVIES",HBO SIGNATURE
-https://av-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+#EXTINF:0 tvg-id="HBOHitsAsia.sg" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/HBO%20Hits.png" group-title="MOVIES",HBO HITS
+https://av-live-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:0 tvg-id="HBOHitsAsia.sg" tvg-logo="https://s.id/1d0VK" group-title="MOVIES",HBO HITS
-https://av-live-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+#EXTINF:0 tvg-id="HBOSignatureAsia.sg" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/HBO%20Signature.png" group-title="MOVIES",HBO SIGNATURE
+https://av-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+
+
 
 ######## ### ########
 
@@ -654,13 +656,13 @@ https://cdn09jtedge.indihometv.com/dvr/139/atv/manifest.mpd
 #http://www.axn-asia.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-id="AXNIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="MOVIES",AXN Indonesia
+#EXTINF:0 tvg-id="AXNIndonesia.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/AXN.jpg" group-title="MOVIES",AXN Indonesia
 https://nxanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #https://www.transvision.co.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.rmvberantakan.com/
-#EXTINF:0 tvg-id="BioskopIndonesia.id" tvg-logo="https://i.imgur.com/8gdyddg.png" group-title="MOVIES",Bioskop Indonesia (NO)
+#EXTINF:0 tvg-id="BioskopIndonesia.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Bioskop%20Indonesia.jpg" group-title="MOVIES",Bioskop Indonesia (NO)
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
 #https://www.cmclassic.tv/index.php?location/ID
@@ -677,7 +679,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMo
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-WQEXvzhCJXE/YJZOigrvW8I/AAAAAAAAErw/SgnE9LOF8ZkmfnClCEk9-1cEENw7wpMPQCLcBGAsYHQ/s720/cinemaworld-poster.png" group-title="MOVIES" tvg-id="CinemaWorld.sg" tvg-name="CinemaWorld HD", Cinema World
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Cinema%20World.jpg" group-title="MOVIES" tvg-id="CinemaWorld.sg" tvg-name="CinemaWorld HD",Cinema World
 https://nxanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 #https://mncvision.id/channel/detail/150/fmn/
@@ -746,7 +748,7 @@ http://210.210.155.37/uq2663/h/h194/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="MOVIES" tvg-id="onetvasia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/Logo_One_TV_Asia_%282020%29.png",ONE
+#EXTINF:-1 group-title="MOVIES" tvg-id="onetvasia.sg" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/ONE.png",ONE
 https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #https://www.paramountnetwork.com/
@@ -782,10 +784,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Xcdz9sem070/YJZOf1yt9fI/AAAAAAAAErI/UBxmmXXqinAWEJwcYxOM4fHOUxsXsRR7wCLcBGAsYHQ/s720/WARNER-Poster.png" group-title="MOVIES" tvg-id="WarnerTVSoutheastAsia.us" tvg-name="WarnerTV", WarnerTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Warner.png" group-title="MOVIES" tvg-id="WarnerTVSoutheastAsia.us" tvg-name="WarnerTV", WarnerTV
 https://nxanv-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
-#EXTINF:0 tvg-id="ZeeBioskop.id" tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="MOVIES",Zee Bioskop
+#EXTINF:0 tvg-id="ZeeBioskop.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Zee%20Bioskop.png" group-title="MOVIES",Zee Bioskop
 http://210.210.155.37/qwr9ew/s/s32/index.m3u8
 
 
@@ -1348,7 +1350,7 @@ https://v3.siar.us/paltv/live/playlist.m3u8
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #https://pijar.tv/
-#EXTINF:0 tvg-id="PijarTV.id" tvg-logo="https://i.imgur.com/6rYTI41.png" group-title="DAERAH",Pijar TV
+#EXTINF:0 tvg-id="PijarTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Pijar%20TV.jpg" group-title="DAERAH",Pijar TV
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/pijartv
 https://video-weaver.jkt02.hls.ttvnw.net/v1/playlist/CqUFNiNessOx-aHVJZMxsWrsjQkYHKRWq-sO3nOTCDBuiAPS2WkjCwCbut41AmLt_M3Deq-J_B0eUZBs8uTegWbrs9qtsSRZjvbpug8B8Z8UJcfO2vIKMSr2vqua0AIGVpMSGVtMIdkkYLlTOX8ywtU9GgLPmUYukATwoedBK_6knCPt8-uiXdWKAd0DkgqQJTtiVTXCn3DjO4IN05hcpX_fyv19QAS2CpkA0DVNzI-Xb_vfV4YRiR-U8J-5rmUzzAlw7GpiM6sQQ0KPSTBFqz9JvlQbVrAEt6UeL3L2txhUk4hgF_9gvXavFzelsq_6ciQbRn0Ss2GF9S6RaaZlsniBunj_JP_mSxwMcrz9slPHYVMgPJaxjD8d6GiicOG6cV1QYDSg2cQDU-64uToTb__-BX-UgVBTw6qFaVl0_kklcI3lScnBmdRNt3ZAMgGCvkXky5aFZnEPiMhwRH-WwFRXsI7z82zG2xbnp3eevzGQnM8LK_JMISX7koNTugisiySgNDQTF5OlGw6smVl_vbkesgqqMSDXji26gXV6jLBrFKqlUardnQeGp31DvbrqfSrOaKPzMc9oV259rGzJny4MGdoiXkq7zzUFRYCBYffPeSXxmnmTfprZ-l0KzMs7mQDYoiUnls1hg1bhPGJJqxoi2UNCc3bQE83QaMXrC7oq6IYGE0mJl5idPuX5mlBNkhe9ltiRvNXqd7ORp0L6JZJ-cr4bVvVOo3K3ryAxf7mlZPVBKR6mn8rODAtA2fDvMJ1HJQNXi1JFPeVkhSX68yUpUhWJJYR-iGA44QP8RZRhc2Yl8-ELRHcIVoldrud9qTwSSPf89muVlpLHjEA53BMRq5OopjiE1h1e9UVJ1ASz46fiMxYkYNKGnm-asjuPzkOX-9V1osIaDJzy0LN8DPdsAw68tCABKgl1cy13ZXN0LTIwmgY.m3u8
 
@@ -1631,7 +1633,7 @@ http://iamchannel.org:1935/tes/1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:0 tvg-id="Khazanah.id" tvg-logo="https://i.imgur.com/FYMUkth.png" group-title="RELIGIOUS",Khazanah
+#EXTINF:0 tvg-id="Khazanah.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Khanzanah.jpg" group-title="RELIGIOUS",Khazanah
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
 
 #
@@ -1737,11 +1739,11 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 https://live.mana2.my/TVAH/index.m3u8?organizationId=196288014&suiteItemId=196291301
 
 #http://www.tv9.co.id/
-#EXTINF:0 tvg-id="TV9Nusantara.id" tvg-logo="https://i.imgur.com/xPjWyiL.png" group-title="RELIGIOUS",TV 9 Nusantara
+#EXTINF:0 tvg-id="TV9Nusantara.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/TV9.jpg" group-title="RELIGIOUS",TV 9 Nusantara
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
 #https://tvmu.tv/
-#EXTINF:0 tvg-id="TVMu.id" tvg-logo="https://i.imgur.com/rR2iPBk.png" group-title="RELIGIOUS",TV Mu
+#EXTINF:0 tvg-id="TVMu.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/TV%20MU.jpg" group-title="RELIGIOUS",TV Mu
 https://tvmu.siar.us/tvmu/live/playlist.m3u8
 #https://o1.siar.us/tvmu/live/chunks.m3u8
 #https://o1.siar.us/tvmu/live/chunks.m3u8?nimblesessionid=273098
@@ -1788,7 +1790,7 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBj98mgs/20220926-183226.png" group-title="KNOWLEDGE" tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary",CGTN Documentary
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/CGTN%20Documentary.jpg" group-title="KNOWLEDGE" tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary",CGTN Documentary
 https://av-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1843,7 +1845,7 @@ https://av-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 https://av-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 #https://www.theindonesiachannel.com/
-#EXTINF:0 tvg-id="TheIndonesiaChannel.id" tvg-logo="https://i.imgur.com/jAAPgpV.png" group-title="KNOWLEDGE",The Indonesia Channel
+#EXTINF:0 tvg-id="TheIndonesiaChannel.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/TIC.jpg" group-title="KNOWLEDGE",The Indonesia Channel
 https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
 
 #
@@ -1951,7 +1953,7 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #https://www.transvision.co.id/
-#EXTINF:0 tvg-id="nsert.id" tvg-logo="https://i.imgur.com/iRPVLqr.png" group-title="LIFESTYLE",!nsert (NO)
+#EXTINF:0 tvg-id="nsert.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/!nsert.jpg" group-title="LIFESTYLE",!nsert (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #
