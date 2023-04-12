@@ -346,7 +346,7 @@ http://103.102.15.12:1111/stream/channelid/2052624909?ticket=B8CE7A4386718673CFB
 https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
 
 #https://www.transvision.co.id/
-#EXTINF:0 tvg-id="SeruChannel.id" tvg-logo="https://i.imgur.com/3EXNT5x.png" group-title="TV LOKAL",Seru! Channel (NO)
+#EXTINF:0 tvg-id="SeruChannel.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Channel%20Seru!.jpg" group-title="TV LOKAL",Seru! Channel (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #https://www.indihometv.com/
@@ -585,7 +585,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
 #https://www.kompas.tv/
-#EXTINF:0 tvg-id="KompasTV.id" tvg-logo="https://i.imgur.com/bD6UHeZ.png" group-title="NEWS",Kompas TV
+#EXTINF:0 tvg-id="KompasTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Kompas%20TV.jpg" group-title="NEWS",Kompas TV
 #http://rr2.dens.tv/s/s104/index.m3u8
 http://210.210.155.35/qwr9ew/s/s104/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s104/index.m3u8
