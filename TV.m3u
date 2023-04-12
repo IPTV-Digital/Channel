@@ -273,8 +273,9 @@ http://210.210.155.35/qwr9ew/s/s105/index.m3u8
 #http://iptvid.my.id/hmm/tvone.m3u8
 #https://av-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
-#EXTINF:-1 group-title="TV LOKAL" tvg-id="vivatelevisi.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png",VTV (VIVA Televisi) (NO)
-https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8?dl=0
+#EXTINF:-1 group-title="TV LOKAL" tvg-id="vivatelevisi.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png",VTV (VIVA Televisi)
+#http://thefirefox12537.github.io/pl_12537iptv/channels/oksigen/vtv.m3u8
+https://bkad.me/mix/o2.m3u8?ch=vtv
 
 ######## RAJAWALI CORP ########
 
@@ -495,7 +496,9 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4
 
 #http://www.ieg.id/tv-channel/mentari-tv/
 #EXTINF:0 tvg-id="MentariTV.id" tvg-logo="https://i.imgur.com/QkTgy1M.png" group-title="KIDS",Mentari TV
-http://tvnid.x10.mx/1/master-3.m3u8
+#http://tvnid.x10.mx/1/master-3.m3u8
+#http://thefirefox12537.github.io/pl_12537iptv/channels/oksigen/mentaritv.m3u8
+https://bkad.me/mix/o2.m3u8?ch=mentaritv
 
 
 ####### ### #######
@@ -602,6 +605,9 @@ https://av-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 #https://www.seatoday.com/
 #EXTINF:0 tvg-id="SEAToday.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/SEA_Today_Indonesia_Logo.png/512px-SEA_Today_Indonesia_Logo.png" group-title="NEWS",SEA Today
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
+
+#EXTINF:-1 group-title="NEWS" tvg-id="tvrparlemen.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TVR_Parlemen.jpg",TVR Parlemen
+https://wowza.dpr.go.id/golive/livestream/playlist.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/zxe2RT2.png" group-title="NEWS",TVRI World
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
