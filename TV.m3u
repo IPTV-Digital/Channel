@@ -276,7 +276,7 @@ http://210.210.155.35/qwr9ew/s/s105/index.m3u8
 #EXTINF:-1 group-title="TV LOKAL" tvg-id="vivatelevisi.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png",VTV (VIVA Televisi)
 #http://thefirefox12537.github.io/pl_12537iptv/channels/oksigen/vtv.m3u8
 #https://bkad.me/mix/o2.m3u8?ch=vtv
-http://thefirefox12537.github.io/pl_12537iptv/channels/oksigen/vtv.m3u8
+https://beetv.my.id/x/oxygen-vtv-gojokkk.m3u8
 
 ######## RAJAWALI CORP ########
 
@@ -499,8 +499,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4
 #EXTINF:0 tvg-id="MentariTV.id" tvg-logo="https://i.imgur.com/QkTgy1M.png" group-title="KIDS",Mentari TV
 #http://tvnid.x10.mx/1/master-3.m3u8
 #http://thefirefox12537.github.io/pl_12537iptv/channels/oksigen/mentaritv.m3u8
-https://bkad.me/mix/o2.m3u8?ch=mentaritv
-http://thefirefox12537.github.io/pl_12537iptv/channels/oksigen/mentaritv.m3u8
+#https://bkad.me/mix/o2.m3u8?ch=mentaritv
+https://beetv.my.id/x/oxygen-mentaritv-gojokkk.m3u8
 
 
 ####### ### #######
