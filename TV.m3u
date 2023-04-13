@@ -273,7 +273,7 @@ http://210.210.155.35/qwr9ew/s/s105/index.m3u8
 #http://iptvid.my.id/hmm/tvone.m3u8
 #https://av-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
-#EXTINF:-1 group-title="TV LOKAL" tvg-id="vivatelevisi.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png",VTV (VIVA Televisi)
+#EXTINF:-1 group-title="TV LOKAL" tvg-id="vivatelevisi.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/VTV.png",VTV (VIVA Televisi)
 #http://thefirefox12537.github.io/pl_12537iptv/channels/oksigen/vtv.m3u8
 #https://bkad.me/mix/o2.m3u8?ch=vtv
 https://beetv.my.id/x/oxygen-vtv-gojokkk.m3u8
@@ -298,7 +298,7 @@ http://210.210.155.35/qwr9ew/h/h12/index.m3u8
 #https://av-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 #https://www.vidio.com/live/7230-magna-tv
-#EXTINF:0 tvg-id="MagnaChannel.id" tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="TV LOKAL",Magna Channel
+#EXTINF:0 tvg-id="MagnaChannel.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/MAGNA.png" group-title="TV LOKAL",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1529378054_b2692000_sleng.m3u8
 
@@ -376,7 +376,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.
 
 #https://www.rri.co.id/
 #EXTINF:0 tvg-id="RRINet.id" tvg-logo="https://i.imgur.com/4mWKUf4.png" group-title="TV LOKAL",RRI Net (NO)
-https://beetv.my.id/x/usee-rrinet-gojokkk.m3u8
 https://beetv.my.id/x/oxygen-rri-net-gojokkk.m3u8
 
 
@@ -496,7 +495,7 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/manifest.mpd
 
 #http://www.ieg.id/tv-channel/mentari-tv/
-#EXTINF:0 tvg-id="MentariTV.id" tvg-logo="https://i.imgur.com/QkTgy1M.png" group-title="KIDS",Mentari TV
+#EXTINF:0 tvg-id="MentariTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/MENTARI.png" group-title="KIDS",Mentari TV
 #http://tvnid.x10.mx/1/master-3.m3u8
 #http://thefirefox12537.github.io/pl_12537iptv/channels/oksigen/mentaritv.m3u8
 #https://bkad.me/mix/o2.m3u8?ch=mentaritv
@@ -550,10 +549,7 @@ https://beetv.my.id/x/oxygen-mentaritv-gojokkk.m3u8
 
 
 #EXTINF:-1 group-title="NEWS" tvg-id="antara.id" tvg-logo="https://i.imgur.com/AiCWRg1.png",Antara TV
-https://beetv.my.id/x/usee-antara-masihsama.m3u8
-
-#EXTINF:-1 group-title="NEWS" tvg-id="beritartm.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Berita_RTM_v1.png/revision/latest?cb=20210504032200",Berita RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+https://beetv.my.id/x/usee-antara-gojokkk.m3u8
 
 #https://www.beritasatu.com/
 #EXTINF:0 tvg-id="BeritaSatu.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/BTV.jpg" group-title="NEWS",BeritaSatu (BTV)
@@ -784,7 +780,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="MOVIES" tvg-id="tvnasia.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/640px-Logo_tvN.svg.png",tvN
+#EXTINF:-1 group-title="MOVIES" tvg-id="tvnasia.hk" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/tvN.jpg",tvN
 https://nyanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
