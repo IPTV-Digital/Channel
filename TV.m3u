@@ -125,7 +125,7 @@ https://production-drm-vidio-com-event-14.akamaized.net/out/v1/88c33cc42b3b4313a
 #https://capybarastream.wapka.co/player1
 #http://www.goldentv.tech:25461/Bokep333/Bokep333/25686
 #http://103.167.167.5:8111/play/a00r/index.m3u8
-https://beetv.my.id/x/oxygen-indosiar-masihsama.m3u8
+https://beetv.my.id/x/oxygen-indosiar-gojokkk.m3u8
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://live2.cakhia22.live/truc-tiep/
 
 #https://www.sctv.co.id/
@@ -366,7 +366,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mp
 
 #https://www.transvision.co.id/
 #EXTINF:0 tvg-id="DuniaLain.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Dunia%20Lain.jpg" group-title="TV LOKAL",Dunia Lain
-https://beetv.my.id/x/usee-dunialain-masihsama.m3u8
+https://beetv.my.id/x/usee-dunialain-gojokkk.m3u8
 
 #https://www.mncchannels.com/micro/Music-TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -376,8 +376,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.
 
 #https://www.rri.co.id/
 #EXTINF:0 tvg-id="RRINet.id" tvg-logo="https://i.imgur.com/4mWKUf4.png" group-title="TV LOKAL",RRI Net (NO)
-https://beetv.my.id/x/usee-rrinet-masihsama.m3u8
-
+https://beetv.my.id/x/usee-rrinet-gojokkk.m3u8
+https://beetv.my.id/x/oxygen-rri-net-gojokkk.m3u8
 
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="TV LOKAL",
@@ -441,7 +441,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://cdn.thomasandi.my.id/use4/drm.php?id=dreamworks
 #https://cdn.thomasandi.my.id/use4/mulai.mpd?id=dreamworks
 #http://starshare.live:8080/live/akter995/965783/137523.ts
-https://beetv.my.id/x/usee-dreamworks-masihsama.m3u8
+https://beetv.my.id/x/usee-dreamworks-gojokkk.m3u8
 
 #https://www.transvision.co.id/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -451,7 +451,7 @@ https://beetv.my.id/x/usee-dreamworks-masihsama.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:-1 tvg-id="DuniaAnak.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Dunia%20Anak.jpg" group-title="KIDS",Dunia Anak
 #https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
-https://beetv.my.id/x/usee-duniaanak-masihsama.m3u8
+https://beetv.my.id/x/usee-duniaanak-gojokkk.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -492,7 +492,7 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.my.id/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:0 tvg-id="IndiKids.id" tvg-logo="https://i.imgur.com/gnhn867.png" group-title="KIDS",IndiKids
-#https://beetv.my.id/x/usee-indikids-masihsama.m3u8
+#https://beetv.my.id/x/usee-indikids-gojokkk.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/manifest.mpd
 
 #http://www.ieg.id/tv-channel/mentari-tv/
@@ -910,9 +910,12 @@ https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f
 #KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=9182
 #https://mooncang.my.id/api/vidio/ch.mpd?id=9182&code=champions-tv-5
 
-#EXTINF:-1 tvg-id="ChampionsTV5.id" tvg-name="Champions TV 5" tvg-logo="https://thumbor.prod.vidiocdn.com/rDybdMMOC-NZ1bzkWvpSRYBxeG8=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg" group-title="SPORTS",Champions TV 5
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://insverpro.my.id/tool/license.php?id=9cb5cc747f5f71e381f0c7d71863eb6a&key=c70742da755e9a27217223f56b8a8266
+
+#EXTINF:-1 tvg-id="ChampionsTV5.id" tvg-name="Champions TV 5" tvg-logo="https://thumbor.prod.vidiocdn.com/rDybdMMOC-NZ1bzkWvpSRYBxeG8=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg" group-title="SPORTS",Champions TV 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9cb5cc747f5f71e381f0c7d71863eb6a:c70742da755e9a27217223f56b8a8266
 https://production-drm-vidio-com-ctv-5.akamaized.net/out/v1/6b83fda0adee41598d5e1a7097ddb8b5/index.mpd
 
 #EXTINF:-1 tvg-id="ChampionsTV6.id" tvg-name="Champions TV 6" tvg-logo="https://thumbor.prod.vidiocdn.com/C4KPuTc3ag2XzBR_ZqMECdK0Xpg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg" group-title="SPORTS",Champions TV 6
@@ -920,9 +923,12 @@ https://production-drm-vidio-com-ctv-5.akamaized.net/out/v1/6b83fda0adee41598d5e
 #KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=9183
 #https://mooncang.my.id/api/vidio/ch.mpd?id=9183&code=champions-tv-6
 
-#EXTINF:-1 tvg-id="ChampionsTV6.id" tvg-name="Champions TV 6" tvg-logo="https://thumbor.prod.vidiocdn.com/C4KPuTc3ag2XzBR_ZqMECdK0Xpg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg" group-title="SPORTS",Champions TV 6
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://insverpro.my.id/tool/license.php?id=923deae82891e37b282b71ba508fb3bc&key=62c82a4c668811372b4eb374bd75c55b
+
+#EXTINF:-1 tvg-id="ChampionsTV6.id" tvg-name="Champions TV 6" tvg-logo="https://thumbor.prod.vidiocdn.com/C4KPuTc3ag2XzBR_ZqMECdK0Xpg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg" group-title="SPORTS",Champions TV 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=923deae82891e37b282b71ba508fb3bc:62c82a4c668811372b4eb374bd75c55b
 https://prod-drm-vidio-com-ctv-6.akamaized.net/out/v1/8ecc1b702b4a4871b51304a9cb82d561/index.mpd
 
 #EXTINF:-1 tvg-id="ChampionsTVGoal.id" tvg-name="Champions TV Goal" tvg-logo="https://thumbor.prod.vidiocdn.com/WKuUczFpS23lvZVPsXtFX9mLbwg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9045/champions-tv-goal-a7fc3e.jpg" group-title="SPORTS",Champions TV Goal (NO)
