@@ -275,7 +275,8 @@ http://210.210.155.35/qwr9ew/s/s105/index.m3u8
 
 #EXTINF:-1 group-title="TV LOKAL" tvg-id="vivatelevisi.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png",VTV (VIVA Televisi)
 #http://thefirefox12537.github.io/pl_12537iptv/channels/oksigen/vtv.m3u8
-https://bkad.me/mix/o2.m3u8?ch=vtv
+#https://bkad.me/mix/o2.m3u8?ch=vtv
+http://thefirefox12537.github.io/pl_12537iptv/channels/oksigen/vtv.m3u8
 
 ######## RAJAWALI CORP ########
 
@@ -499,6 +500,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4
 #http://tvnid.x10.mx/1/master-3.m3u8
 #http://thefirefox12537.github.io/pl_12537iptv/channels/oksigen/mentaritv.m3u8
 https://bkad.me/mix/o2.m3u8?ch=mentaritv
+http://thefirefox12537.github.io/pl_12537iptv/channels/oksigen/mentaritv.m3u8
 
 
 ####### ### #######
@@ -567,7 +569,8 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-id="bntv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png",BN Channel
 #http://insverpro.my.id/play.m3u8?id=0Kln8aj0v3E&key=youtube&type=hls
-http://mooncang.my.id/api/youtube/ytl.php?url=https://youtu.be/0Kln8aj0v3E
+#http://mooncang.my.id/api/youtube/ytl.php?url=https://youtu.be/0Kln8aj0v3E
+https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9263bf14-cd77-401e-a21d-e3683fe6879d)/index.m3u8
 
 #https://www.cnbcindonesia.com/
 #EXTINF:0 tvg-id="CNBCIndonesia.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/CNBC%20Indonesia.jpg" group-title="NEWS",CNBC Indonesia
