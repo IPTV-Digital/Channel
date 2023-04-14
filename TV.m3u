@@ -375,7 +375,7 @@ https://beetv.my.id/x/usee-dunialain-gojokkk.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
 #https://www.rri.co.id/
-#EXTINF:0 tvg-id="RRINet.id" tvg-logo="https://i.imgur.com/4mWKUf4.png" group-title="TV LOKAL",RRI Net (NO)
+#EXTINF:0 tvg-id="RRINet.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/RRI%20NET.png" group-title="TV LOKAL",RRI Net (NO)
 https://beetv.my.id/x/oxygen-rri-net-gojokkk.m3u8
 
 
@@ -467,7 +467,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mp
 http://210.210.155.37/uq2663/h/h191/index.m3u8
 
 #https://www.spacetoon.id/
-#EXTINF:0 tvg-id="SpacetoonIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="KIDS",Spacetoon
+#EXTINF:0 tvg-id="SpacetoonIndonesia.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/SPACETOON.png" group-title="KIDS",Spacetoon
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 #https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w1249819737_b1296000_slAR.m3u8
 
@@ -476,7 +476,7 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
 
 #https://tve.kemdikbud.go.id/
-#EXTINF:0 tvg-id="TVEdukasi.id" tvg-logo="https://i.imgur.com/XX5wGHQ.png" group-title="KIDS",TV Edukasi
+#EXTINF:0 tvg-id="TVEdukasi.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/EDUKASI.png" group-title="KIDS",TV Edukasi
 http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
 
 #http://www.ieg.id/tv-channel/hip-hip-horee/
@@ -822,7 +822,7 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #https://www.eyeplus.co.id/
-#EXTINF:0 tvg-id="SinemaIndonesia.id" tvg-logo="https://i.imgur.com/3B145Ej.png" group-title="MOVIES",Sinema Indonesia (NO)
+#EXTINF:0 tvg-id="SinemaIndonesia.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/SINEMA%20INDONESIA.png" group-title="MOVIES",Sinema Indonesia (NO)
 https://beetv.my.id/x/oxygen-sinemaindonesia-masihsama.m3u8
 
 #https://www.eyeplus.co.id/
@@ -978,7 +978,8 @@ https://production-drm-vidio-com-nba.akamaized.net/out/v1/6cca0501a28e4ad78cd94c
 #EXTINF:-1 tvg-id="LFCTV.uk" tvg-name="Liverpool TV" tvg-logo="https://thumbor.prod.vidiocdn.com/E1LV7qqdg_aMId6Q_fuDP6zPN3E=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7916/liverpool-tv-16bc4c.jpg" group-title="SPORTS",Liverpool TV
 https://mooncang.my.id/api/vidio/ch.m3u8?id=7916&code=liverpool-tv
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/3openq8.png" group-title="SPORTS",TVRI Sport
+#https://i.imgur.com/3openq8.png
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/TVRI%20SPORT.png" group-title="SPORTS",TVRI Sport
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1134,7 +1135,7 @@ http://117.103.69.219:8080/live/streaming/index.m3u8
 https://5bf7b725107e5.streamlock.net/bayutvpersada/bayutvpersada/playlist.m3u8
 
 #https://www.bbstv.id/
-#EXTINF:0 tvg-id="BBSTV.id" tvg-logo="https://i.imgur.com/cdfkh6N.png" group-title="DAERAH",BBS TV
+#EXTINF:0 tvg-id="BBSTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/BBS.png" group-title="DAERAH",BBS TV
 http://103.119.54.246:8080/hls/bbstv.m3u8
 
 #https://betv.disway.id/
@@ -1151,7 +1152,7 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 https://v2.siar.us/bmstv/livestream/playlist.m3u8
 
 #https://www.metrotvnews.com/live-bn
-#EXTINF:0 tvg-id="BNTV.id" tvg-logo="https://i.imgur.com/GGUTl42.png" group-title="DAERAH",BN TV (NO)
+#EXTINF:0 tvg-id="BNTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/BN.png" group-title="DAERAH",BN TV (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #
@@ -1208,7 +1209,7 @@ https://dutatv.siar.us/dutatv/live/playlist.m3u8
 #https://o1.siar.us/dutatv/live/chunks.m3u8?nimblesessionid=160787
 
 #http://www.elshinta.tv/
-#EXTINF:0 tvg-id="ElshintaTV.id" tvg-logo="https://i.imgur.com/x5uoy2H.png" group-title="DAERAH",Elshinta TV
+#EXTINF:0 tvg-id="ElshintaTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/ELSHINTA.png" group-title="DAERAH",Elshinta TV
 http://210.210.155.37/qwr9ew/s/s10/index.m3u8
 
 #
@@ -1255,7 +1256,7 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #https://jitv.jogjaprov.go.id/
-#EXTINF:0 tvg-id="JogjaIstimewaTV.id" tvg-logo="https://i.imgur.com/VEqQfTu.png" group-title="DAERAH",Jogja Istimewa TV
+#EXTINF:0 tvg-id="JogjaIstimewaTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/JITV.png" group-title="DAERAH",Jogja Istimewa TV
 https://h1.intechmedia.net/intech/ch65.m3u8
 #http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 
@@ -1286,7 +1287,7 @@ http://122.248.43.138:1935/ch18/myStream/playlist.m3u8
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #http://www.ktv.co.id/
-#EXTINF:0 tvg-id="KTV.id" tvg-logo="https://i.imgur.com/j3wtaDc.png" group-title="DAERAH",KTV (NO)
+#EXTINF:0 tvg-id="KTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/KTV.png" group-title="DAERAH",KTV (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #https://lomboktvnews.com/
@@ -1723,12 +1724,12 @@ https://hls.youtb.workers.dev/channel/UCotIkyDFzztbSm21GNGsK9w.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 
 #https://rodja.tv/
-#EXTINF:0 tvg-id="RodjaTV.id" tvg-logo="https://i.imgur.com/XwCeHlC.png" group-title="RELIGIOUS",Rodja TV
+#EXTINF:0 tvg-id="RodjaTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/RODJA.png" group-title="RELIGIOUS",Rodja TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8
 #https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
 
 #https://salamtelevisi.com/
-#EXTINF:0 tvg-id="SalamTV.id" tvg-logo="https://i.imgur.com/00Ifzgo.png" group-title="RELIGIOUS",Salam TV
+#EXTINF:0 tvg-id="SalamTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/SALAM.png" group-title="RELIGIOUS",Salam TV
 https://h1.intechmedia.net/intech/ch12.m3u8
 
 #
@@ -1743,7 +1744,7 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
 #https://tawaf.tv/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="TawafTV.id" tvg-logo="https://i.imgur.com/pjYTa3P.png" group-title="RELIGIOUS",Tawaf TV
+#EXTINF:0 tvg-id="TawafTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/TAWAF.png" group-title="RELIGIOUS",Tawaf TV
 https://nyanv-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 
 #
@@ -1768,7 +1769,7 @@ https://tvmu.siar.us/tvmu/live/playlist.m3u8
 https://tvmui.siar.us/tvmui/live/playlist.m3u8
 
 #https://www.u-channel.tv/
-#EXTINF:0 tvg-id="UChannel.id" tvg-logo="https://i.imgur.com/qxkb0cy.png" group-title="RELIGIOUS",U Channel
+#EXTINF:0 tvg-id="UChannel.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/U%20CHANNEL.png" group-title="RELIGIOUS",U Channel
 http://210.210.155.37/x6bnqe/s/s73/index2.m3u8
 #https://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel.m3u8
 
