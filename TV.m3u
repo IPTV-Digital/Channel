@@ -1179,7 +1179,8 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 #
 #EXTINF:0 tvg-id="ChannelJowo.id" tvg-logo="https://i.imgur.com/fksxiaS.png" group-title="DAERAH",Channel Jowo (NO)
 #http://103.167.167.5:8111/play/a00f/index.m3u8
-https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
+#https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
+http://103.102.15.12:1111/stream/channelid/1704468301?ticket=0C0A58B93FA27549D39873799C08CF6376D41AEA&profile=pass
 
 #
 #EXTINF:0 tvg-id="CitraTV.id" tvg-logo="https://i.imgur.com/kvgHcrf.png" group-title="DAERAH",Citra TV (NO)
