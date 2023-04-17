@@ -491,6 +491,7 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #http://www.ieg.id/tv-channel/horee/
 #EXTINF:0 tvg-id="Horee.id" tvg-logo="https://i.imgur.com/S4aoHg8.png" group-title="KIDS",Horee! (NO)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=horee
 https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=horee
 
