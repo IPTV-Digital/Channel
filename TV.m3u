@@ -430,6 +430,10 @@ https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff049018456010
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Cartoon%20TV%20Premium.jpg" tvg-id="CartoonTVPremium.id" tvg-name="Cartoon TV Premium" group-title="KIDS",Cartoon TV Premium
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
 
+#EXTINF:-1 tvg-id="davinciasia.de" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Da_vinci_tv_logo.svg/revision/latest/scale-to-width-down/640",Da Vinci
+#EXTGRP:KIDS
+https://mibitivi.xyz/sc/playhls.m3u8?tekon=skyactiv&channel=davinci
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKg3ySS1/20220926-200729.png" group-title="KIDS" tvg-id="Cbeebies.uk" tvg-name="Cbeebies BBC",Cbeebies BBC
@@ -487,7 +491,8 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #http://www.ieg.id/tv-channel/horee/
 #EXTINF:0 tvg-id="Horee.id" tvg-logo="https://i.imgur.com/S4aoHg8.png" group-title="KIDS",Horee! (NO)
-https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=horee
+https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=horee
 
 #https://www.indihometv.com/livetv/indikids
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1050,6 +1055,17 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #https://persib.co.id/media/persib_tv
 #EXTINF:0 tvg-id="PersibTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persib-tv-id.png" group-title="SPORTS",Persib TV (NO)
 
+#EXTINF:-1 tvg-id="UseeSports" tvg-logo="https://i.imgur.com/DeA35re.png",UseeSports 1
+#EXTGRP:SPORTS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=useesport
+https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=useesport
+
+#EXTINF:-1 tvg-id="UseeSports2" tvg-logo="https://i.imgur.com/QanFnCo.png",UseeSports 2
+#EXTGRP:SPORTS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=useesports2
+https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=useesports2
 
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="SPORTS",
@@ -1885,6 +1901,12 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://static.mncnow.id/images/channel/d879be36/5c67.png",AFN
 https://newanv-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
+
+#EXTINF:-1 tvg-id="citradrama.id" tvg-logo="https://i.imgur.com/lXhXwx7.png",Citra Drama
+#EXTGRP:LIFESTYLE
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=cdrama
+https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=cdrama
 
 #EXTINF:0 tvg-id="BiznetLifestyle.id" tvg-logo="https://i.imgur.com/XqUfQKA.png" group-title="LIFESTYLE",Biznet Lifestyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR&bizkeylivestarttime=0
