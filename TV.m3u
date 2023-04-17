@@ -183,7 +183,7 @@ http://210.210.155.35/qwr9ew/s/s41/index.m3u8
 
 #https://www.ochanneltv.com/
 #EXTINF:0 tvg-id="OChannel.id" tvg-logo="https://i.imgur.com/q6uqktq.png" group-title="TV LOKAL",O Channel
-http://210.210.155.37/qwr9ew/s/s41/index.m3u8
+#http://210.210.155.37/qwr9ew/s/s41/index.m3u8
 
 ######## MNC GROUP ########
 
@@ -382,7 +382,7 @@ https://beetv.my.id/x/oxygen-rri-net-gojokkk.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="TV LOKAL",
 
 #
-#Channel Kids
+# Channel Kids
 #
 
 
@@ -430,14 +430,14 @@ https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff049018456010
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Cartoon%20TV%20Premium.jpg" tvg-id="CartoonTVPremium.id" tvg-name="Cartoon TV Premium" group-title="KIDS",Cartoon TV Premium
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
 
-#EXTINF:-1 tvg-id="davinciasia.de" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Da_vinci_tv_logo.svg/revision/latest/scale-to-width-down/640",Da Vinci
-#EXTGRP:KIDS
-https://mibitivi.xyz/sc/playhls.m3u8?tekon=skyactiv&channel=davinci
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKg3ySS1/20220926-200729.png" group-title="KIDS" tvg-id="Cbeebies.uk" tvg-name="Cbeebies BBC",Cbeebies BBC
 https://nxanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+
+#EXTINF:-1 tvg-id="davinciasia.de" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Da_vinci_tv_logo.svg/revision/latest/scale-to-width-down/640",Da Vinci
+#EXTGRP:KIDS
+https://mibitivi.xyz/sc/playhls.m3u8?tekon=skyactiv&channel=davinci
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QC4whMv4/20220926-200436.png" group-title="KIDS",DreamWorks
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -458,33 +458,6 @@ https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=dreamworks
 #https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
 https://beetv.my.id/x/usee-duniaanak-gojokkk.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRLyt6JL/20220926-200705.png" group-title="KIDS" tvg-id="NickelodeonAsia.sg" tvg-name="Nickelodeon",Nickelodeon
-https://nxanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
-
-#https://www.mncchannels.com/micro/Kids-TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqnXMLST/20221026-010214.png" group-title="KIDS" tvg-id="KidsTV.id" tvg-name="KIDS TV",KIDS TV
-https://nxanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
-
-#EXTINF:0 tvg-id="MyKidz.id" tvg-logo="https://i.imgur.com/qzZFU6d.png" group-title="KIDS",My Kidz
-http://210.210.155.37/uq2663/h/h191/index.m3u8
-
-#https://www.spacetoon.id/
-#EXTINF:0 tvg-id="SpacetoonIndonesia.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/SPACETOON.png" group-title="KIDS",Spacetoon
-https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
-#https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w1249819737_b1296000_slAR.m3u8
-
-#https://www.indihometv.com/
-#EXTINF:0 tvg-id="RuangTrampil.id" tvg-logo="https://i.imgur.com/93EZSRw.png" group-title="KIDS",Ruang Trampil
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
-
-#https://tve.kemdikbud.go.id/
-#EXTINF:0 tvg-id="TVEdukasi.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/EDUKASI.png" group-title="KIDS",TV Edukasi
-http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
-
 #http://www.ieg.id/tv-channel/hip-hip-horee/
 #EXTINF:0 tvg-id="HipHipHoree.id" tvg-logo="https://i.imgur.com/jEFjczI.png" group-title="KIDS",Hip Hip Horee! (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
@@ -502,56 +475,46 @@ https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=horee
 #https://beetv.my.id/x/usee-indikids-gojokkk.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/manifest.mpd
 
+#https://www.mncchannels.com/micro/Kids-TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqnXMLST/20221026-010214.png" group-title="KIDS" tvg-id="KidsTV.id" tvg-name="KIDS TV",KIDS TV
+https://nxanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+
 #http://www.ieg.id/tv-channel/mentari-tv/
 #EXTINF:0 tvg-id="MentariTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/MENTARI.png" group-title="KIDS",Mentari TV
 #http://tvnid.x10.mx/1/master-3.m3u8
 #http://thefirefox12537.github.io/pl_12537iptv/channels/oksigen/mentaritv.m3u8
-#https://bkad.me/mix/o2.m3u8?ch=mentaritv
-https://beetv.my.id/x/oxygen-mentaritv-gojokkk.m3u8
+https://bkad.me/mix/o2.m3u8?ch=mentaritv
+#https://beetv.my.id/x/oxygen-mentaritv-gojokkk.m3u8
 
-
-####### ### #######
-
-
-#EXTINF:-1 tvg-id="ABCKids.au" tvg-logo="https://i.postimg.cc/CLTN9TQD/20230210-090139.png" tvg-chno="322" group-title="KIDS" ,ABC Kids
-#https://c.mjh.nz/abc-kids.m3u8
-
-#EXTINF:-1 tvg-id="ABCMe.au" tvg-logo="https://i.postimg.cc/Pf8y6r2T/20230210-090124.png" tvg-chno="323" group-title="KIDS" ,ABC ME
-#https://c.mjh.nz/abc-me.m3u8
+#EXTINF:0 tvg-id="MyKidz.id" tvg-logo="https://i.imgur.com/qzZFU6d.png" group-title="KIDS",My Kidz
+http://210.210.155.37/uq2663/h/h191/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpQB7FZX/20220926-200514.png" group-title="KIDS" tvg-id="BabyTV.uk" tvg-name="Baby TV HD",Baby TV
-#https://nxanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRLyt6JL/20220926-200705.png" group-title="KIDS" tvg-id="NickelodeonAsia.sg" tvg-name="Nickelodeon",Nickelodeon
+https://nxanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yYWcdNwm/20220926-200535.png" group-title="KIDS" tvg-id="NickJrAsia.sg" tvg-name="Nick Junior",Nick Junior
-#https://nxanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
+#https://www.spacetoon.id/
+#EXTINF:0 tvg-id="SpacetoonIndonesia.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/SPACETOON.png" group-title="KIDS",Spacetoon
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w1249819737_b1296000_slAR.m3u8
 
-#EXTINF:0 tvg-id="HaariKids.id" tvg-logo="https://i.imgur.com/LDFYyge.png" group-title="KIDS",Haari Kids (NO)
+#https://www.indihometv.com/
+#EXTINF:0 tvg-id="RuangTrampil.id" tvg-logo="https://i.imgur.com/93EZSRw.png" group-title="KIDS",Ruang Trampil
+#https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
 
-#EXTINF:-1 tvg-id="HappyKids.us" group-title="KIDS" tvg-logo="https://i.postimg.cc/wv5qRm6H/20230212-134159.png",Happy Kids
-#https://happykids-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HappyKidsJunior.us" group-title="KIDS" tvg-logo="https://i.postimg.cc/wv5qRm6H/20230212-134159.png",Happy Kids Junior
-#https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MoonbugKids.us" tvg-logo="https://i.postimg.cc/7L2YDRd5/20230212-134246.png" group-title="KIDS",Moonbug
-#https://moonbug-rokuus.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PBSKids.us" group-title="KIDS" tvg-logo="https://i.postimg.cc/Wz22G13Z/20230212-134146.png",PBS Kids  
-#https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ZooMoo.us" group-title="KIDS" tvg-logo="https://i.postimg.cc/XqQnQ6Gz/20230212-134127.png",Zoo Moo
-#https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#https://tve.kemdikbud.go.id/
+#EXTINF:0 tvg-id="TVEdukasi.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/EDUKASI.png" group-title="KIDS",TV Edukasi
+http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
 
 
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="KIDS",
 
 #
-#Channel News
+# Channel News
 #
 
 
@@ -613,16 +576,15 @@ https://av-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 #EXTINF:0 tvg-id="SEAToday.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/SEA_Today_Indonesia_Logo.png/512px-SEA_Today_Indonesia_Logo.png" group-title="NEWS",SEA Today
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
 
+#https://www.vidio.com/live/7946-tv-tempo
+#EXTINF:0 tvg-id="TVTempo.id" tvg-logo="https://i.imgur.com/mSsOaqy.png" group-title="NEWS",TV Tempo
+https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
+
 #EXTINF:-1 group-title="NEWS" tvg-id="tvrparlemen.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TVR_Parlemen.jpg",TVR Parlemen
 https://wowza.dpr.go.id/golive/livestream/playlist.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/zxe2RT2.png" group-title="NEWS",TVRI World
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
-
-#https://www.vidio.com/live/7946-tv-tempo
-#EXTINF:0 tvg-id="TVTempo.id" tvg-logo="https://i.imgur.com/mSsOaqy.png" group-title="NEWS",TV Tempo
-https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
-
 
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="NEWS",
