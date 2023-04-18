@@ -361,7 +361,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d
 #https://www.mncchannels.com/micro/vision-prime
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://i.postimg.cc/tTYPzNbS/20230123-191455.png" tvg-id="VisionPrime.id" tvg-name="Vision Prime",Vision Prime
+#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbpTJYyEF8srs-mEpOornZG2RmqPJRwMPBdA&usqp=CAU" tvg-id="VisionPrime.id" tvg-name="Vision Prime",Vision Prime
 https://nxanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 #https://www.transvision.co.id/
@@ -707,7 +707,7 @@ http://210.210.155.37/uq2663/h/h08/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="MOVIES" tvg-id="kix.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/2560px-KIX_logo.svg.png",KIX
+#EXTINF:-1 group-title="MOVIES" tvg-id="kix.hk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt1GzFAML8_bvLYPHwYBcxJs792EED9au5HA&usqp=CAU",KIX
 https://nyanv-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 #EXTINF:0 tvg-id="MyCinema.id" tvg-logo="https://i.imgur.com/pY7ZoWB.png" group-title="MOVIES",My Cinema
