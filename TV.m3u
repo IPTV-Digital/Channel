@@ -488,7 +488,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mp
 https://bkad.me/mix/o2.m3u8?ch=mentaritv
 #https://beetv.my.id/x/oxygen-mentaritv-gojokkk.m3u8
 
-#EXTINF:0 tvg-id="MyKidz.id" tvg-logo="https://i.imgur.com/qzZFU6d.png" group-title="KIDS",My Kidz
+#EXTINF:0 tvg-id="MyKidz.id" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_3onx39zj/banner_xxhdpi.jpg" group-title="KIDS",My Kidz
 http://210.210.155.37/uq2663/h/h191/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -755,7 +755,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="MOVIES" tvg-id="tvnmoviesasia.hk" tvg-logo="https://posters.cdn.klikfilm.net/ph/tvn_logo.png",tvN Movies
+#EXTINF:-1 group-title="MOVIES" tvg-id="tvnmoviesasia.hk" tvg-logo="http://www.dens.tv/images/channel-logo/58.jpg",tvN Movies
 https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
