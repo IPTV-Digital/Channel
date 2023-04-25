@@ -416,17 +416,17 @@ https://nxanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 https://nxanv-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.rmvberantakan.com/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Cartoon%20TV.jpg" tvg-id="CartoonTV.id" tvg-name="Cartoon TV" group-title="KIDS",Cartoon TV
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.rmvberantakan.com/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Cartoon%20TV%20Classics.jpg" tvg-id="CartoonTVClassics.id" tvg-name="Cartoon TV Classics" group-title="KIDS",Cartoon TV Classics
 https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.rmvberantakan.com/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Cartoon%20TV%20Premium.jpg" tvg-id="CartoonTVPremium.id" tvg-name="Cartoon TV Premium" group-title="KIDS",Cartoon TV Premium
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
 
@@ -637,7 +637,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #https://www.transvision.co.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.rmvberantakan.com/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
 #EXTINF:0 tvg-id="BioskopIndonesia.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Bioskop%20Indonesia.jpg" group-title="MOVIES",Bioskop Indonesia (NO)
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
@@ -1522,7 +1522,7 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="DAERAH",
 
 #
-#Channel Religious
+# Channel Religious
 #
 
 
@@ -1805,13 +1805,13 @@ https://dikasurada.kutubusuk.workers.dev/dash-wv/linear/501/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yhWQ5zR/20221026-003145.png" group-title="KNOWLEDGE" tvg-id="DiscoveryChannelIndonesia.id" tvg-name="Discovery HD",Discovery Channel
-#https://av-live-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
+https://av-live-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.hoheh.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
 #EXTINF:-1 tvg-id="DiscoveryChannel.id"  tvg-logo="https://cdnjkt.transvision.co.id/image/web/channel/4028c6857baa1174017bd9f231e362a9/20210912121853.png" group-title="KNOWLEDGE",Discovery Channel
 #https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6857baa1174017bd9f231e362a9/manifest.mpd
-http://103.167.167.5:8111/play/a03w/index.m3u8
+#http://103.167.167.5:8111/play/a03w/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
