@@ -347,8 +347,11 @@ http://103.102.15.12:1111/stream/channelid/2052624909?ticket=B8CE7A4386718673CFB
 https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
 
 #https://www.transvision.co.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
 #EXTINF:0 tvg-id="SeruChannel.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Channel%20Seru!.jpg" group-title="TV LOKAL",Seru! Channel (NO)
-https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
+https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729c921bc43c00/manifest.mpd
+#https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #https://www.indihometv.com/
 #EXTINF:0 tvg-id="UseePhoto.id" tvg-logo="https://i.imgur.com/cKbCEni.png" group-title="TV LOKAL",Usee Photo
@@ -365,8 +368,11 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d
 https://nxanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 #https://www.transvision.co.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
 #EXTINF:0 tvg-id="DuniaLain.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Dunia%20Lain.jpg" group-title="TV LOKAL",Dunia Lain
-https://beetv.my.id/x/usee-dunialain-gojokkk.m3u8
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
+#https://beetv.my.id/x/usee-dunialain-gojokkk.m3u8
 
 #https://www.mncchannels.com/micro/Music-TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1957,8 +1963,11 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #https://www.transvision.co.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
 #EXTINF:0 tvg-id="nsert.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/!nsert.jpg" group-title="LIFESTYLE",!nsert (NO)
-https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
+#https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #
 #EXTINF:0 tvg-id="OShop.id" tvg-logo="https://i.imgur.com/MROLMOl.png" group-title="LIFESTYLE",O Shop  (NO)
