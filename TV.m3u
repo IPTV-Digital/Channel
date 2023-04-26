@@ -292,10 +292,10 @@ http://210.210.155.37/dr9445/h/h10/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:0 tvg-id="MetroTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/MetroTV.jpg" group-title="TV LOKAL",Metro TV
+https://av-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 #http://rr2.dens.tv/h/h12/index.m3u8
-http://210.210.155.35/qwr9ew/h/h12/index.m3u8
+#http://210.210.155.35/qwr9ew/h/h12/index.m3u8
 #http://210.210.155.37/qwr9ew/h/h12/index.m3u8
-#https://av-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 #https://www.vidio.com/live/7230-magna-tv
 #EXTINF:0 tvg-id="MagnaChannel.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/MAGNA.png" group-title="TV LOKAL",Magna Channel
@@ -785,7 +785,8 @@ https://beetv.my.id/x/vidio-citrabioskop-masihsama.m3u8
 
 #http://www.ieg.id/tv-channel/citra-drama/
 #EXTINF:0 tvg-id="CitraDrama.id" tvg-logo="https://i.imgur.com/lXhXwx7.png" group-title="MOVIES",Citra Drama (NO)
-https://beetv.my.id/x/vidio-citradrama-masihsama.m3u8
+#https://beetv.my.id/x/vidio-citradrama-masihsama.m3u8
+https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=cdrama
 
 #http://www.ieg.id/tv-channel/citra-drama-plus/
 #EXTINF:0 tvg-id="CitraDramaPlus.id" tvg-logo="https://i.imgur.com/zIpX0v8.png" group-title="MOVIES",Citra Drama Plus (NO)
