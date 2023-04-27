@@ -459,10 +459,10 @@ https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=dreamworks
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
 #EXTINF:-1 tvg-id="DuniaAnak.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Dunia%20Anak.jpg" group-title="KIDS",Dunia Anak
-#https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
-https://beetv.my.id/x/usee-duniaanak-gojokkk.m3u8
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
+#https://beetv.my.id/x/usee-duniaanak-gojokkk.m3u8
 
 #http://www.ieg.id/tv-channel/hip-hip-horee/
 #EXTINF:0 tvg-id="HipHipHoree.id" tvg-logo="https://i.imgur.com/jEFjczI.png" group-title="KIDS",Hip Hip Horee! (NO)
@@ -742,7 +742,8 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f092c2ba-4baa
 #EXTINF:-1 group-title="MOVIES" tvg-id"rockextreme.sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest?cb=20221212024829",Rock Action
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=a6d8da647fc02d64463e38e222f268b0:f4d533e9d51a2aa66af7aaf27f54f92a
-http://edge.linknetott.swiftserve.com/channelgroup2/cg255production/ch330/index.m3u8
+#http://edge.linknetott.swiftserve.com/channelgroup2/cg255production/ch330/index.m3u8
+http://210.210.155.35/dr9445/h/h15/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-id"rockentertainment.sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/ROCK_entertainment_UHD.png/revision/latest?cb=20210911032942",Rock Entertainment
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -1894,6 +1895,9 @@ http://rr3.dens.tv/s/s35/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="Entertainment.id" tvg-logo="https://i.imgur.com/VtBLWiv.png" group-title="LIFESTYLE",Entertainment (ENT)
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
+
+#EXTINF:0 tvg-id="" tvg-logo="https://mayonnaise-media.com/wp-content/uploads/2021/04/fashiontv_logo_blue_vertical-1white.png" group-title="LIFESTYLE",Fashion TV
+https://fashiontv-fashiontv-5-gb.lg.wurl.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
