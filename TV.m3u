@@ -1807,8 +1807,9 @@ https://av-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInves
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yhWQ5zR/20221026-003145.png" group-title="KNOWLEDGE" tvg-id="DiscoveryAsia.sg" tvg-name="Discovery Asia HD",Discovery Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/501
-https://dikasurada.kutubusuk.workers.dev/dash-wv/linear/501/default_primary.mpd
+#https://dikasurada.kutubusuk.workers.dev/dash-wv/linear/501/default_primary.mpd
 #http://54.37.82.205:8081/liveorigin/hd-discovery_720/playlist.m3u8?&token=Uxycbre6ZByf0vUlUmSVqmnS3kzRSGPBUZ0LK7eqewP_scRNu2PWs0eaLd5GXvXCFgsJD3LuizeH1ORryAZp1kcb033gZb8d2ci6uACYTRakHier02Q4_UZgwV7nnlor2D84Jp3cAp2eCb6Ae1gnPRntl0p1nKpDQ5YWSr5s4vDIRQsE7qX2wmT4I=Vpd32DyQzFut8JyhVBICzzGHtc9WoX2Ve8G0TGXWO8rr_BfwxiZMX_j1KFOAXD7vhuCa7Sz20YZI4DtoGfks3yiqYSgpGoBPY0KusNko9GD5f7PNnnZAffpRw0S4pjv3tdEtoTQZsX_CqJfbMDwY16qJ6U96v7tNgf1tOPpmjWEcVwtfPgYWeQvbAioQQQMS2Yc1XIKyIoIvVeuRfk1osVMYN1fa7Rw=DqPc5RchoT=J2afSZrlxg1bL_AJrn6o5FZPYrrWe4kdFLJ=wBwhlX4jBtkBX4Qeb8WfPgv5Jra_FlMdi3pJjiP=yHCw5B3=GWTbDhy7LVgDXNvSY6qjLD74FTvrbjWffmGtAutibKx4tyAMKo_xDu2YzTsvCx2RORJSEnlBF4=5=ART6nvLhdmD_mWP5FHU12zruHzhKYlZUdr_ilKaDOkCAzDCsh5IXreJV13JPmc1KWHPrZE8cp218tOkF3nqkzXNrNcQZNjsQm6Zw4CxeD=IDpE4qsq7tCleY07OtYvVGt3xcSee1Ldcnyj_Asxkm4SfPos38043pUyT26IO0jCRxQ2UEN56yXpZ75tBvMdEB5OtOjTZOW87RJ5=AZ4KXVuyc5Rydz=9lvdEvwziDZy=W9XvyRjSUh1oKmseiRioV9ptozgaCHcmmCaHAASfdcI6anqK=zqtJ10XVpVEwxFniSk3aVAAPlqerHaEw=X
+http://rahimahmad.site/FirstMediaX/discoveryasia.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
