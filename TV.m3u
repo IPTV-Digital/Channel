@@ -393,11 +393,11 @@ https://beetv.my.id/x/oxygen-rri-net-gojokkk.m3u8
 
 
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Animax.png"
+#EXTINF:0 tvg-id="AnimaxAsia.sg" tvg-name="Animax",Animax
+#EXTGRP:KIDS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-id="AnimaxAsia.sg" tvg-name="Animax",Animax
-#EXTGRP:KIDS
-#EXTIMG:-https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Animax.png
 https://nxanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #EXTGRP:KIDS
