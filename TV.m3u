@@ -382,8 +382,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.
 
 #https://www.rri.co.id/
 #EXTINF:0 tvg-id="RRINet.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/RRI%20NET.png" group-title="TV LOKAL",RRI Net (NO)
-https://beetv.my.id/x/oxygen-rri-net-gojokkk.m3u8
-
+#https://beetv.my.id/x/oxygen-rri-net-gojokkk.m3u8
+https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=rrinet
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="TV LOKAL",
 
@@ -550,7 +550,8 @@ http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
 
 
 #EXTINF:-1 group-title="NEWS" tvg-id="antara.id" tvg-logo="https://images.useetv.com/box/logo_antara_small1.png",Antara TV
-https://beetv.my.id/x/usee-antara-gojokkk.m3u8
+#https://beetv.my.id/x/usee-antara-gojokkk.m3u8
+https://cdn09jtedge.indihometv.com/dvr/139/antara/manifest.mpd
 
 #https://www.beritasatu.com/
 #EXTINF:0 tvg-id="BeritaSatu.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/BTV.jpg" group-title="NEWS",BeritaSatu (BTV)
