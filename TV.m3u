@@ -382,8 +382,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.
 
 #https://www.rri.co.id/
 #EXTINF:0 tvg-id="RRINet.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/RRI%20NET.png" group-title="TV LOKAL",RRI Net (NO)
-#https://beetv.my.id/x/oxygen-rri-net-gojokkk.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=rrinet
 https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=rrinet
+#https://beetv.my.id/x/oxygen-rri-net-gojokkk.m3u8
+
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="TV LOKAL",
 
