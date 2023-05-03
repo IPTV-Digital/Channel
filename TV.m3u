@@ -363,7 +363,8 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 #EXTGRP:TV LOKAL
 #EXTINF:0 tvg-id="CitraDangdut.id" tvg-logo="https://i.imgur.com/77KYgbz.png",Citra Dangdut (NO)
 #https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
-http://103.102.15.12:1111/stream/channelid/2052624909?ticket=B8CE7A4386718673CFBC04238D28056F544DD703&profile=pass
+https://mibitivi.xyz/sc/playhls.m3u8?tekon=skyactiv&channel=citradangdut
+#http://103.102.15.12:1111/stream/channelid/2052624909?ticket=B8CE7A4386718673CFBC04238D28056F544DD703&profile=pass
 
 #
 #EXTGRP:TV LOKAL
@@ -844,8 +845,10 @@ https://beetv.my.id/x/vidio-citrabioskop-masihsama.m3u8
 
 #http://www.ieg.id/tv-channel/citra-drama/
 #EXTINF:0 tvg-id="CitraDrama.id" tvg-logo="https://i.imgur.com/lXhXwx7.png" group-title="MOVIES",Citra Drama (NO)
-#https://beetv.my.id/x/vidio-citradrama-masihsama.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=cdrama
 https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=cdrama
+#https://beetv.my.id/x/vidio-citradrama-masihsama.m3u8
 
 #http://www.ieg.id/tv-channel/citra-drama-plus/
 #EXTINF:0 tvg-id="CitraDramaPlus.id" tvg-logo="https://i.imgur.com/zIpX0v8.png" group-title="MOVIES",Citra Drama Plus (NO)
@@ -2020,7 +2023,8 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #http://www.ieg.id/tv-channel/citra-entertainment/
 #EXTINF:0 tvg-id="CitraEntertainment.id" tvg-logo="https://i.imgur.com/Q1N6ka8.png" group-title="LIFESTYLE",Citra Entertainment (NO)
-https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
+#https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
+http://thefirefox12537.github.io/streams/citraent.m3u8
 
 #
 #EXTINF:0 tvg-id="InahealthTV.id" tvg-logo="https://i.imgur.com/UH8y2CD.png" group-title="LIFESTYLE",Inahealth TV (NO)
