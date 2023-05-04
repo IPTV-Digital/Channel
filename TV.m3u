@@ -203,7 +203,7 @@ https://mooncang.my.id/api/rplus/ch.m3u8?id=rcti
 #https://www.mnctv.com/
 #EXTGRP:TV LOKAL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/IPTV-Digital/Channel/main/License_Key-Widevine.txt
 #EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/MNC%20TV.jpg",MNC TV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://mooncang.my.id/api/rplus/ch.m3u8?id=mnctv
