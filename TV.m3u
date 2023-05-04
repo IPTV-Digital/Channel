@@ -442,8 +442,8 @@ https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=rrinet
 #EXTGRP:KIDS
 #EXTINF:0 tvg-id="AnimaxAsia.sg" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Animax.png" tvg-name="Animax",Animax
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nxanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/IPTV-Digital/Channel/main/License_Key-Widevine.txt
+https://av-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #EXTGRP:KIDS
 #EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Aniplus.jpg",Aniplus
@@ -454,8 +454,8 @@ http://210.210.155.35/dr9445/h/h02/index.m3u8
 #EXTGRP:KIDS
 #EXTINF:0 tvg-id="Besmart.id" tvg-logo="https://i.postimg.cc/PrnYt14t/20221026-003225.png",BeSmart
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://nyanv-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/IPTV-Digital/Channel/main/License_Key-Widevine.txt
+https://av-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
 #EXTGRP:KIDS
 #EXTINF:0 tvg-id="BiznetKids.id" tvg-logo="https://i.imgur.com/J5QNqJ0.png",Biznet Kids
@@ -465,14 +465,14 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizke
 #EXTGRP:KIDS
 #EXTINF:0 tvg-id="BoomerangSoutheastAsia.us" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Boomerang.png",Boomerang
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nxanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/IPTV-Digital/Channel/main/License_Key-Widevine.txt
+https://av-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
 #EXTGRP:KIDS
 #EXTINF:0 tvg-id="CartoonNetworkAsia.sg" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Cartoon%20Network.jpg",Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nxanv-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/IPTV-Digital/Channel/main/License_Key-Widevine.txt
+https://av-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 
 #EXTGRP:KIDS
 #EXTINF:0 tvg-id="CartoonTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Cartoon%20TV.jpg",Cartoon TV
@@ -495,8 +495,8 @@ https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6856b8d2390016b9c47b6f
 #EXTGRP:KIDS
 #EXTINF:0 tvg-id="Cbeebies.uk" tvg-logo="https://i.postimg.cc/ZKg3ySS1/20220926-200729.png",Cbeebies BBC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nxanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/IPTV-Digital/Channel/main/License_Key-Widevine.txt
+https://av-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
 #EXTGRP:KIDS
 #EXTINF:0 tvg-id="davinciasia.de" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Da_vinci_tv_logo.svg/revision/latest/scale-to-width-down/640",Da Vinci
@@ -548,8 +548,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4
 #EXTGRP:KIDS
 #EXTINF:0 tvg-id="KidsTV.id" tvg-logo="https://i.postimg.cc/qqnXMLST/20221026-010214.png",KIDS TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nxanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/IPTV-Digital/Channel/main/License_Key-Widevine.txt
+https://av-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
 #http://www.ieg.id/tv-channel/mentari-tv/
 #EXTGRP:KIDS
@@ -567,8 +567,8 @@ http://210.210.155.37/uq2663/h/h191/index.m3u8
 #EXTGRP:KIDS
 #EXTINF:0 tvg-id="NickelodeonAsia.sg" tvg-logo="https://i.postimg.cc/qRLyt6JL/20220926-200705.png",Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nxanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/IPTV-Digital/Channel/main/License_Key-Widevine.txt
+https://av-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 #https://www.spacetoon.id/
 #EXTGRP:KIDS
