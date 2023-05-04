@@ -406,7 +406,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d
 #EXTINF:0 tvg-id="VisionPrime.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbpTJYyEF8srs-mEpOornZG2RmqPJRwMPBdA&usqp=CAU",Vision Prime
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/IPTV-Digital/Channel/main/License_Key-Widevine.txt
-https://av-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 #https://www.transvision.co.id/
 #EXTGRP:TV LOKAL
