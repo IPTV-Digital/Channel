@@ -810,6 +810,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/
 #https://www.eyeplus.co.id/
 #EXTGRP:MOVIES
 #EXTINF:0 tvg-id="KDrama.id" tvg-logo="https://i.imgur.com/F144MZ6.png",K-Drama (NO)
+https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #http://www.kplus-asia.com/
 #EXTGRP:MOVIES
@@ -1177,481 +1178,592 @@ https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=useesports2
 
 
 #http://www.acehtv.tv/
-#EXTINF:0 tvg-id="AcehTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3d/Logo_acehtv.png" group-title="DAERAH",Aceh TV (No)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="AcehTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3d/Logo_acehtv.png",Aceh TV (No)
 
 #http://www.aditv.co.id/
-#EXTINF:0 tvg-id="ADiTV.id" tvg-logo="https://i.imgur.com/b4IDBG7.png" group-title="DAERAH",ADi TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="ADiTV.id" tvg-logo="https://i.imgur.com/b4IDBG7.png",ADi TV
 https://v2.siar.us/aditv/livestream/chunks.m3u8
 
 #http://afbtvkupang.com/
-#EXTINF:0 tvg-id="AFBTV.id" tvg-logo="https://i.imgur.com/stxMPHv.png" group-title="DAERAH",AFB TV (No)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="AFBTV.id" tvg-logo="https://i.imgur.com/stxMPHv.png",AFB TV (No)
 #http://wowza58.indostreamserver.com:1935/afbtv/live/playlist.m3u8
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #https://agropolitan.tv/
-#EXTINF:0 tvg-id="AgropolitanTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5e/Logo_Agropolitan_TV_2022.png" group-title="DAERAH",Agropolitan TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="AgropolitanTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5e/Logo_Agropolitan_TV_2022.png",Agropolitan TV
 https://atv.siar.us/atv/live/playlist.m3u8
 
 #https://www.aktv.co.id/
-#EXTINF:0 tvg-id="AKTV.id" tvg-logo="https://i.imgur.com/DUY5WXf.png" group-title="DAERAH",AKTV (No)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="AKTV.id" tvg-logo="https://i.imgur.com/DUY5WXf.png",AKTV (No)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #
-#EXTINF:0 tvg-id="AmbonTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/Logo_Ambon_TV.jpeg" group-title="DAERAH",Ambon TV (No)
+#EXTINF:0 tvg-id="AmbonTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/Logo_Ambon_TV.jpeg",Ambon TV (No)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #
-#EXTINF:0 tvg-id="AstroBlitarTV.id" tvg-logo="https://i.imgur.com/rORKbGw.png" group-title="DAERAH",Astro Blitar TV (No)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="AstroBlitarTV.id" tvg-logo="https://i.imgur.com/rORKbGw.png",Astro Blitar TV (No)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #https://arek.tv/
-#EXTINF:0 tvg-id="ArekTV.id" tvg-logo="https://i.imgur.com/Bw8fLiD.png" group-title="DAERAH",Arek TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="ArekTV.id" tvg-logo="https://i.imgur.com/Bw8fLiD.png",Arek TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
 
 #
-#EXTINF:0 tvg-id="BakudapaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/22/TV8_Balikpapan.png" group-title="DAERAH",Bakudapa TV (No)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="BakudapaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/22/TV8_Balikpapan.png",Bakudapa TV (No)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #https://btv.co.id/
-#EXTINF:0 tvg-id="BalikapanTV.id" tvg-logo="https://i.imgur.com/P3whqna.png" group-title="DAERAH",Balikapan TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="BalikapanTV.id" tvg-logo="https://i.imgur.com/P3whqna.png",Balikapan TV
 http://122.248.43.138:1935/ch10/myStream/playlist.m3u8
 
 #https://balitv.tv/
-#EXTINF:0 tvg-id="BaliTV.id" tvg-logo="https://i.imgur.com/uH1Szme.png" group-title="DAERAH",Bali TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="BaliTV.id" tvg-logo="https://i.imgur.com/uH1Szme.png",Bali TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
 
 #https://www.baliutd.com/tv/
-#EXTINF:0 tvg-id="BaliUnitedTV.id" tvg-logo="https://i.imgur.com/4toPHMY.png" group-title="DAERAH",Bali United TV (No)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="BaliUnitedTV.id" tvg-logo="https://i.imgur.com/4toPHMY.png",Bali United TV (No)
 #https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #http://bandungtv.tv/
-#EXTINF:0 tvg-id="BandungTV.id" tvg-logo="https://i.imgur.com/fpFs6Ay.png" group-title="DAERAH",Bandung TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="BandungTV.id" tvg-logo="https://i.imgur.com/fpFs6Ay.png",Bandung TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
 #
-#EXTINF:0 tvg-id="BanjarTV.id" tvg-logo="https://i.imgur.com/TA76a10.png" group-title="DAERAH",Banjar TV (No)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="BanjarTV.id" tvg-logo="https://i.imgur.com/TA76a10.png",Banjar TV (No)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #http://bantentv.com/
-#EXTINF:0 tvg-id="BantenTV.id" tvg-logo="https://i.imgur.com/tbtF40p.png" group-title="DAERAH",Banten TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="BantenTV.id" tvg-logo="https://i.imgur.com/tbtF40p.png",Banten TV
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/chunklist_w1559299828.m3u8
 
 #http://batamtvnews.com/
-#EXTINF:0 tvg-id="BatamTV.id" tvg-logo="https://i.imgur.com/lo7YXnW.png" group-title="DAERAH",Batam TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="BatamTV.id" tvg-logo="https://i.imgur.com/lo7YXnW.png",Batam TV
 http://122.248.43.138:1935/ch5/myStream/playlist.m3u8
 
 #http://batiktv.pekalongankota.go.id/
+#EXTGRP:DAERAH
 #EXTINF:0 tvg-id="BatikTV.id" tvg-logo="https://i.imgur.com/LDUbXso.png" group-title="DAERAH",Batik TV (No)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #http://batutelevisi.com/
-#EXTINF:0 tvg-id="BatuTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4f/Batu_TV.png" group-title="DAERAH",Batu TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="BatuTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4f/Batu_TV.png",Batu TV
 http://117.103.69.219:8080/live/streaming/index.m3u8
 
 #https://www.bayutvpersada.com/
-#EXTINF:0 tvg-id="BayuTVNganjuk.id" tvg-logo="https://i.imgur.com/QeL5QHy.png" group-title="DAERAH",Bayu TV Nganjuk
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="BayuTVNganjuk.id" tvg-logo="https://i.imgur.com/QeL5QHy.png",Bayu TV Nganjuk
 https://5bf7b725107e5.streamlock.net/bayutvpersada/bayutvpersada/playlist.m3u8
 
 #https://www.bbstv.id/
-#EXTINF:0 tvg-id="BBSTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/BBS.png" group-title="DAERAH",BBS TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="BBSTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/BBS.png",BBS TV
 http://103.119.54.246:8080/hls/bbstv.m3u8
 
 #https://betv.disway.id/
-#EXTINF:0 tvg-id="BETV.id" tvg-logo="https://i.imgur.com/3EX0zax.png" group-title="DAERAH",BE TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="BETV.id" tvg-logo="https://i.imgur.com/3EX0zax.png",BE TV
 https://h1.intechmedia.net/intech/ch58.m3u8
 #https://h1.intechmedia.net/intech/ch30.m3u8
 
 #https://www.bimakini.com/
-#EXTINF:0 tvg-id="BimaTV.id" tvg-logo="https://i.imgur.com/3G0s4e2.png" group-title="DAERAH",Bima TV (No)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="BimaTV.id" tvg-logo="https://i.imgur.com/3G0s4e2.png",Bima TV (No)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #http://www.banyumastv.com/
-#EXTINF:0 tvg-id="BMSTV.id" tvg-logo="https://i.imgur.com/pRyaqIi.png" group-title="DAERAH",BMS TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="BMSTV.id" tvg-logo="https://i.imgur.com/pRyaqIi.png",BMS TV
 https://v2.siar.us/bmstv/livestream/playlist.m3u8
 
 #https://www.metrotvnews.com/live-bn
-#EXTINF:0 tvg-id="BNTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/BN.png" group-title="DAERAH",BN TV (NO)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="BNTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/BN.png",BN TV (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #
-#EXTINF:0 tvg-id="BOneTV.id" tvg-logo="https://i.imgur.com/mUUtRd6.png" group-title="DAERAH",B-One TV (NO)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="BOneTV.id" tvg-logo="https://i.imgur.com/mUUtRd6.png",B-One TV (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #https://www.badartv.co.id/
-#EXTINF:0 tvg-id="BRTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png" group-title="DAERAH",BRTV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="BRTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png",BRTV
 https://e1.siar.us/badartv/live/playlist.m3u8
 
 #https://www.bungotv.com/
-#EXTINF:0 tvg-id="BungoTV.id" tvg-logo="https://i.imgur.com/OrCrtDA.png" group-title="DAERAH",Bungo TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="BungoTV.id" tvg-logo="https://i.imgur.com/OrCrtDA.png",Bungo TV
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 
 #https://www.cahayabanten.tv/
-#EXTINF:0 tvg-id="CahayaTVBanten.id" tvg-logo="https://i.imgur.com/Ph9yYpb.png" group-title="DAERAH",Cahaya TV Banten
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="CahayaTVBanten.id" tvg-logo="https://i.imgur.com/Ph9yYpb.png",Cahaya TV Banten
 #https://alfa.kugo.id/ctv/rtmp.stream/chunklist_w49231578.m3u8
 https://alfa.kugo.id/ctv/rtmp.stream/chunklist.m3u8
 
 #https://celebesmedia.id/
-#EXTINF:0 tvg-id="CelebesTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Celebes_TV.png" group-title="DAERAH",Celebes TV (NO)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="CelebesTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Celebes_TV.png",Celebes TV (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #
-#EXTINF:0 tvg-id="ChannelJowo.id" tvg-logo="https://i.imgur.com/fksxiaS.png" group-title="DAERAH",Channel Jowo (NO)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="ChannelJowo.id" tvg-logo="https://i.imgur.com/fksxiaS.png",Channel Jowo (NO)
 #http://103.167.167.5:8111/play/a00f/index.m3u8
 #https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 http://103.102.15.12:1111/stream/channelid/1704468301?ticket=0C0A58B93FA27549D39873799C08CF6376D41AEA&profile=pass
 
 #
-#EXTINF:0 tvg-id="CitraTV.id" tvg-logo="https://i.imgur.com/kvgHcrf.png" group-title="DAERAH",Citra TV (NO)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="CitraTV.id" tvg-logo="https://i.imgur.com/kvgHcrf.png",Citra TV (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #
-#EXTINF:0 tvg-id="DayakTV.id" tvg-logo="https://i.imgur.com/wSjxmQl.png" group-title="DAERAH",Dayak TV (NO)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="DayakTV.id" tvg-logo="https://i.imgur.com/wSjxmQl.png",Dayak TV (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #http://www.dhohotv.com/
-#EXTINF:0 tvg-id="DhohoTV.id" tvg-logo="https://i.imgur.com/4Khyyfh.png" group-title="DAERAH",Dhoho TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="DhohoTV.id" tvg-logo="https://i.imgur.com/4Khyyfh.png",Dhoho TV
 #https://dhohotv.siar.us/dhohotv/live/chunks.m3u8?nimblesessionid=439370
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 
 #https://maxstream.tv/tv-channels/0_lld79xch
-#EXTINF:0 tvg-id="DigiOne.id" tvg-logo="https://i.imgur.com/TISRYvq.png" group-title="DAERAH",DigiOne
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="DigiOne.id" tvg-logo="https://i.imgur.com/TISRYvq.png",DigiOne
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
 
 #https://dmtvmalang.com/
-#EXTINF:0 tvg-id="DMTVMalang.id" tvg-logo="https://i.imgur.com/3iC41QX.png" group-title="DAERAH",DM TV Malang
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="DMTVMalang.id" tvg-logo="https://i.imgur.com/3iC41QX.png",DM TV Malang
 https://h1.intechmedia.net/intech/ch51.m3u8
 #https://asu.gdplayer.to/playlist/b1M0NTJJZyszVWpZQi9DV1NnSXFXbklhV3dBUHgwQlprV3ZtTis2dUFCemx3d0o5MHlUTU14bGxjeGFwRzFqTlBPaThKRmdpZ3RoMzE1cEYwazlTbHc9PQ,,/master.m3u8?token=QzlrbzNYWE5NUVl2RXFvQlZVbGV2L3pRS2dFWTRjTmVqVThlVjM1YmczcS9wNmZKTXU4UTJ0c2xuZTZiQ1I2cU1IV1NDVzdlQ2ZSa0xsWk1kNWJBYXc9PQ,,
 
 #https://dutatv.com/
-#EXTINF:0 tvg-id="DutaTV.id" tvg-logo="https://i.imgur.com/B4JW54M.png" group-title="DAERAH",Duta TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="DutaTV.id" tvg-logo="https://i.imgur.com/B4JW54M.png",Duta TV
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 #https://o1.siar.us/dutatv/live/chunks.m3u8?nimblesessionid=160787
 
 #http://www.elshinta.tv/
-#EXTINF:0 tvg-id="ElshintaTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/ELSHINTA.png" group-title="DAERAH",Elshinta TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="ElshintaTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/ELSHINTA.png",Elshinta TV
 http://210.210.155.37/qwr9ew/s/s10/index.m3u8
 
 #
-#EXTINF:0 tvg-id="FajarTV.id" tvg-logo="https://i.imgur.com/mkuXxRK.png" group-title="DAERAH",Fajar TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="FajarTV.id" tvg-logo="https://i.imgur.com/mkuXxRK.png",Fajar TV
 http://122.248.43.138:1935/ch27/myStream/playlist.m3u8
 
 #https://www.garuda.tv/
-#EXTINF:0 tvg-id="GarudaTV.id" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="DAERAH",Garuda TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="GarudaTV.id" tvg-logo="https://i.imgur.com/sXsAcZ3.png",Garuda TV
 https://ms.digdaya.tv/live/digdayatv/live.m3u8
 
 #https://gprtv.id/
-#EXTINF:0 tvg-id="GPRTV.id" tvg-logo="https://i.imgur.com/mYHiCJu.png" group-title="DAERAH",GPR TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="GPRTV.id" tvg-logo="https://i.imgur.com/mYHiCJu.png",GPR TV
 https://wowza.convergen.co/gprtv/myLive/playlist.m3u8
 #https://wowza.convergen.co/gprtv/myLive/chunklist_w2009707652.m3u8
 
 #https://humabetang.com/
-#EXTINF:0 tvg-id="HumaBetangTV.id" tvg-logo="https://i.imgur.com/xBTqOEu.png" group-title="DAERAH",Huma Betang TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="HumaBetangTV.id" tvg-logo="https://i.imgur.com/xBTqOEu.png",Huma Betang TV
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
 
 #https://inspira.tv/
-#EXTINF:0 tvg-id="InspiraTV.id" tvg-logo="https://i.imgur.com/BF5orkg.png" group-title="DAERAH",Inspira TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="InspiraTV.id" tvg-logo="https://i.imgur.com/BF5orkg.png",Inspira TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
 #https://dobrak.id/
-#EXTINF:0 tvg-id="JambiTV.id" tvg-logo="https://i.imgur.com/BaNtB6K.png" group-title="DAERAH",Jambi TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="JambiTV.id" tvg-logo="https://i.imgur.com/BaNtB6K.png",Jambi TV
 http://122.248.43.138:1935/ch23/myStream/playlist.m3u8
 #http://122.248.43.138:1935/ch23/myStream/chunklist_w289602562.m3u8
 
 #https://www.jawapos.com/
-#EXTINF:0 tvg-id="JawaPosTV.id" tvg-logo="https://i.imgur.com/Kt2kOGH.png" group-title="DAERAH",Jawa Pos TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="JawaPosTV.id" tvg-logo="https://i.imgur.com/Kt2kOGH.png",Jawa Pos TV
 https://v2.siar.us/jawapostv/live/chunks.m3u8
 
 #
-#EXTINF:0 tvg-id="JayaTVJayapura.id" tvg-logo="https://i.imgur.com/NtlPZUI.png" group-title="DAERAH",Jaya TV Jayapura
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="JayaTVJayapura.id" tvg-logo="https://i.imgur.com/NtlPZUI.png",Jaya TV Jayapura
 https://h1.intechmedia.net/intech/ch52.m3u8
 #https://h1.intechmedia.net/intech/ch29.m3u8
 
 #http://stream.jektv.co.id/
-#EXTINF:0 tvg-id="JekTV.id" tvg-logo="https://i.imgur.com/wh75d1f.png" group-title="DAERAH",Jek TV (NO)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="JekTV.id" tvg-logo="https://i.imgur.com/wh75d1f.png",Jek TV (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #https://www.transvision.co.id/
-#EXTINF:0 tvg-id="Jendela.id" tvg-logo="https://i.imgur.com/KkQrEGb.png" group-title="DAERAH",Jendela (NO)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="Jendela.id" tvg-logo="https://i.imgur.com/KkQrEGb.png",Jendela (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #https://jitv.jogjaprov.go.id/
-#EXTINF:0 tvg-id="JogjaIstimewaTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/JITV.png" group-title="DAERAH",Jogja Istimewa TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="JogjaIstimewaTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/JITV.png",Jogja Istimewa TV
 https://h1.intechmedia.net/intech/ch65.m3u8
 #http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 
 #http://jogjatv.tv/
-#EXTINF:0 tvg-id="JogjaTV.id" tvg-logo="https://i.imgur.com/m9ezMUz.png" group-title="DAERAH",Jogja TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="JogjaTV.id" tvg-logo="https://i.imgur.com/m9ezMUz.png",Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 
 #https://jpmtelevisi.com/
-#EXTINF:0 tvg-id="JPMTV.id" tvg-logo="https://i.imgur.com/FM6WN4S.png" group-title="DAERAH",JPM TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="JPMTV.id" tvg-logo="https://i.imgur.com/FM6WN4S.png",JPM TV
 http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
 #https://63b2dc7196c38.streamlock.net/ch6/myStream/playlist.m3u8
 #https://63b2dc7196c38.streamlock.net/ch6/myStream/chunklist_w44495108.m3u8
 
 #http://jtv.co.id/
-#EXTINF:0 tvg-id="JTV.id" tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="DAERAH",JTV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="JTV.id" tvg-logo="https://i.imgur.com/mIDWIQk.png",JTV
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
 
 #http://www.ieg.id/tv-channel/karisma/
-#EXTINF:0 tvg-id="Karisma.id" tvg-logo="https://i.imgur.com/3aJagfR.png" group-title="DAERAH",Karisma (NO)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="Karisma.id" tvg-logo="https://i.imgur.com/3aJagfR.png",Karisma (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #
-#EXTINF:0 tvg-id="KawanuaTV.id" tvg-logo="https://i.imgur.com/xFaoLIX.png" group-title="DAERAH",Kawanua TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="KawanuaTV.id" tvg-logo="https://i.imgur.com/xFaoLIX.png",Kawanua TV
 http://122.248.43.138:1935/ch18/myStream/playlist.m3u8
 
 #https://www.kresna.tv/
-#EXTINF:0 tvg-id="KresnaTV.id" tvg-logo="https://i.imgur.com/k4WyHzF.png" group-title="DAERAH",Kresna TV (NO)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="KresnaTV.id" tvg-logo="https://i.imgur.com/k4WyHzF.png",Kresna TV (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #http://www.ktv.co.id/
-#EXTINF:0 tvg-id="KTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/KTV.png" group-title="DAERAH",KTV (NO)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="KTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/KTV.png",KTV (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #https://lomboktvnews.com/
-#EXTINF:0 tvg-id="LombokTV.id" tvg-logo="https://i.imgur.com/PKKYcVO.png" group-title="DAERAH",Lombok TV (NO)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="LombokTV.id" tvg-logo="https://i.imgur.com/PKKYcVO.png",Lombok TV (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 https://madu.tv/live-streaming/
-#EXTINF:0 tvg-id="MaduTV.id" tvg-logo="https://i.imgur.com/cKpgbgW.png" group-title="DAERAH",Madu TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="MaduTV.id" tvg-logo="https://i.imgur.com/cKpgbgW.png",Madu TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 #https://v6.siar.us/madutv/hd720/chunks.m3u8?nimblesessionid=30831550
 
 #
-#EXTINF:0 tvg-id="Maleo.id" tvg-logo="https://i.imgur.com/DuAxIL2.png" group-title="DAERAH",Maleo
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="Maleo.id" tvg-logo="https://i.imgur.com/DuAxIL2.png",Maleo
 https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
 
 #https://mataindonesia.tv/
-#EXTINF:0 tvg-id="MataMilenialIndonesiaTV.id" tvg-logo="https://i.imgur.com/aAZHCY1.png" group-title="DAERAH",Mata Milenial Indonesia TV (NO)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="MataMilenialIndonesiaTV.id" tvg-logo="https://i.imgur.com/aAZHCY1.png",Mata Milenial Indonesia TV (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #https://maxstream.tv/home
-#EXTINF:0 tvg-id="Max2U.id" tvg-logo="https://i.imgur.com/eU4aqWy.png" group-title="DAERAH",Max2U
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="Max2U.id" tvg-logo="https://i.imgur.com/eU4aqWy.png",Max2U
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(a255dd49-dc2a-464b-8623-6ef4556dff11)/index.m3u8
 
 #https://maxstream.tv/home
-#EXTINF:0 tvg-id="MCC.id" tvg-logo="https://i.imgur.com/aACrLKU.png" group-title="DAERAH",MCC
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="MCC.id" tvg-logo="https://i.imgur.com/aACrLKU.png",MCC
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9430f215-8ccb-4322-affd-6dbc97e259bd)/index.m3u8
 
 #
-#EXTINF:0 tvg-id="MChannel.id" tvg-logo="https://i.imgur.com/pZ8acgI.png" group-title="DAERAH",M Channel (NO)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="MChannel.id" tvg-logo="https://i.imgur.com/pZ8acgI.png",M Channel (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #https://mgstv.co.id/
-#EXTINF:0 tvg-id="MGSTV.id" tvg-logo="https://i.imgur.com/MYU7dsZ.png" group-title="DAERAH",MGSTV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="MGSTV.id" tvg-logo="https://i.imgur.com/MYU7dsZ.png",MGSTV
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
 
 #https://mimoza.tv/
-#EXTINF:0 tvg-id="MimozaTV.id" tvg-logo="https://i.imgur.com/cfxeZYI.png" group-title="DAERAH",Mimoza TV (NO)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="MimozaTV.id" tvg-logo="https://i.imgur.com/cfxeZYI.png",Mimoza TV (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #
-#EXTINF:0 tvg-id="MMChannel.id" tvg-logo="https://i.imgur.com/OgBRgQA.png" group-title="DAERAH",MM Channel (NO)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="MMChannel.id" tvg-logo="https://i.imgur.com/OgBRgQA.png",MM Channel (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #http://molluca.cahaya.tv/
-#EXTINF:0 tvg-id="MollucaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/Molluca_TV.jpg" group-title="DAERAH",Molluca TV (NO)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="MollucaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/Molluca_TV.jpg",Molluca TV (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #
-#EXTINF:0 tvg-id="MoreTV.id" tvg-logo="https://i.imgur.com/MpJ8grB.png" group-title="DAERAH",More TV (NO)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="MoreTV.id" tvg-logo="https://i.imgur.com/MpJ8grB.png",More TV (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #https://mqtv.co.id/
-#EXTINF:0 tvg-id="MQTV.id" tvg-logo="https://i.imgur.com/d8dQo6E.png" group-title="DAERAH",MQTV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="MQTV.id" tvg-logo="https://i.imgur.com/d8dQo6E.png",MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
 #
-#EXTINF:0 tvg-id="NirwanaTV.id" tvg-logo="https://i.imgur.com/I1Fe3gk.png" group-title="DAERAH",Nirwana TV (NO)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="NirwanaTV.id" tvg-logo="https://i.imgur.com/I1Fe3gk.png",Nirwana TV (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #https://www.nusantaratv.com/
-#EXTINF:0 tvg-id="NusantaraTV.id" tvg-logo="https://i.imgur.com/viun5hj.png" group-title="DAERAH",Nusantara TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="NusantaraTV.id" tvg-logo="https://i.imgur.com/viun5hj.png",Nusantara TV
 #https://v6.siar.us/nusantaratv/live/chunks.m3u8
 #https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 #https://padangtv.id/
-#EXTINF:0 tvg-id="PadangTV.id" tvg-logo="https://i.imgur.com/EL2BfxY.png" group-title="DAERAH",Padang TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="PadangTV.id" tvg-logo="https://i.imgur.com/EL2BfxY.png",Padang TV
 http://122.248.43.138:1935/ch16/myStream/playlist.m3u8
 
 #https://paltv.disway.id/
-#EXTINF:0 tvg-id="PalembangTV.id" tvg-logo="https://i.imgur.com/e2F1zyU.png" group-title="DAERAH",Palembang TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="PalembangTV.id" tvg-logo="https://i.imgur.com/e2F1zyU.png",Palembang TV
 https://v3.siar.us/paltv/live/playlist.m3u8
 
 #https://www.persada.tv/
-#EXTINF:0 tvg-id="PersadaTV.id" tvg-logo="https://i.imgur.com/sFmRaD3.png" group-title="DAERAH",Persada TV (NO)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="PersadaTV.id" tvg-logo="https://i.imgur.com/sFmRaD3.png",Persada TV (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #https://pijar.tv/
-#EXTINF:0 tvg-id="PijarTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Pijar%20TV.jpg" group-title="DAERAH",Pijar TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="PijarTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Pijar%20TV.jpg",Pijar TV
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/pijartv
 https://video-weaver.jkt02.hls.ttvnw.net/v1/playlist/CqUFNiNessOx-aHVJZMxsWrsjQkYHKRWq-sO3nOTCDBuiAPS2WkjCwCbut41AmLt_M3Deq-J_B0eUZBs8uTegWbrs9qtsSRZjvbpug8B8Z8UJcfO2vIKMSr2vqua0AIGVpMSGVtMIdkkYLlTOX8ywtU9GgLPmUYukATwoedBK_6knCPt8-uiXdWKAd0DkgqQJTtiVTXCn3DjO4IN05hcpX_fyv19QAS2CpkA0DVNzI-Xb_vfV4YRiR-U8J-5rmUzzAlw7GpiM6sQQ0KPSTBFqz9JvlQbVrAEt6UeL3L2txhUk4hgF_9gvXavFzelsq_6ciQbRn0Ss2GF9S6RaaZlsniBunj_JP_mSxwMcrz9slPHYVMgPJaxjD8d6GiicOG6cV1QYDSg2cQDU-64uToTb__-BX-UgVBTw6qFaVl0_kklcI3lScnBmdRNt3ZAMgGCvkXky5aFZnEPiMhwRH-WwFRXsI7z82zG2xbnp3eevzGQnM8LK_JMISX7koNTugisiySgNDQTF5OlGw6smVl_vbkesgqqMSDXji26gXV6jLBrFKqlUardnQeGp31DvbrqfSrOaKPzMc9oV259rGzJny4MGdoiXkq7zzUFRYCBYffPeSXxmnmTfprZ-l0KzMs7mQDYoiUnls1hg1bhPGJJqxoi2UNCc3bQE83QaMXrC7oq6IYGE0mJl5idPuX5mlBNkhe9ltiRvNXqd7ORp0L6JZJ-cr4bVvVOo3K3ryAxf7mlZPVBKR6mn8rODAtA2fDvMJ1HJQNXi1JFPeVkhSX68yUpUhWJJYR-iGA44QP8RZRhc2Yl8-ELRHcIVoldrud9qTwSSPf89muVlpLHjEA53BMRq5OopjiE1h1e9UVJ1ASz46fiMxYkYNKGnm-asjuPzkOX-9V1osIaDJzy0LN8DPdsAw68tCABKgl1cy13ZXN0LTIwmgY.m3u8
 
 #http://www.pjtvbandung.com/
-#EXTINF:0 tvg-id="PJTV.id" tvg-logo="https://i.imgur.com/jxdLWpC.png" group-title="DAERAH",PJTV (NO)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="PJTV.id" tvg-logo="https://i.imgur.com/jxdLWpC.png",PJTV (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #http://pktvkaltim.com/
-#EXTINF:0 tvg-id="PKTV.id" tvg-logo="https://i.imgur.com/mldv8Sf.png" group-title="DAERAH",PKTV (NO)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="PKTV.id" tvg-logo="https://i.imgur.com/mldv8Sf.png",PKTV (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #https://www.pontv.id/
-#EXTINF:0 tvg-id="PONTV.id" tvg-logo="https://i.imgur.com/P5erWzm.png" group-title="DAERAH",PONTV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="PONTV.id" tvg-logo="https://i.imgur.com/P5erWzm.png",PONTV
 #https://v3.siar.us/pontianaktelevisi/live/playlist.m3u8
 #http://122.248.43.138:1935/ch15/myStream/playlist.m3u8
 #https://v5.siar.us/pontv/live/chunks.m3u8
 https://pontv.siar.us/pontv/live/playlist.m3u8
 
 #https://pujatvaceh.com/
-#EXTINF:0 tvg-id="PujaTVAceh.id" tvg-logo="https://i.imgur.com/0TqABCL.png" group-title="DAERAH",Puja TV Aceh
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="PujaTVAceh.id" tvg-logo="https://i.imgur.com/0TqABCL.png",Puja TV Aceh
 https://v6.siar.us/pujatv/live/chunks.m3u8
 
 #https://radartv.co.id/
-#EXTINF:0 tvg-id="RadarLampungTV.id" tvg-logo="https://i.imgur.com/qyqa1eA.png" group-title="DAERAH",Radar Lampung TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="RadarLampungTV.id" tvg-logo="https://i.imgur.com/qyqa1eA.png",Radar Lampung TV
 http://122.248.43.138:1935/ch17/myStream/playlist.m3u8
 
 #https://radartasikmalaya.tv/
-#EXTINF:0 tvg-id="RadarTasikmalayaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png" group-title="DAERAH",Radar Tasikmalaya TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="RadarTasikmalayaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png",Radar Tasikmalaya TV
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 #https://v2.siar.us/radartasikmalaya/live/chunks.m3u8?nimblesessionid=506721
 
 #https://rbtv.rakyatbengkulu.com/
-#EXTINF:0 tvg-id="RakyatBengkuluTV.id" tvg-logo="https://i.imgur.com/5L2q081.png" group-title="DAERAH",Rakyat Bengkulu TV (RBTV)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="RakyatBengkuluTV.id" tvg-logo="https://i.imgur.com/5L2q081.png",Rakyat Bengkulu TV (RBTV)
 https://h1.intechmedia.net/intech/ch59.m3u8
 
 #
-#EXTINF:0 tvg-id="RatihTV.id" tvg-logo="https://i.imgur.com/aMuSc9f.png" group-title="DAERAH",Ratih TV (NO)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="RatihTV.id" tvg-logo="https://i.imgur.com/aMuSc9f.png",Ratih TV (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #https://www.radarcirebon.tv/
-#EXTINF:0 tvg-id="RCTV.id" tvg-logo="https://i.imgur.com/CyIlt0y.png" group-title="DAERAH",RCTV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="RCTV.id" tvg-logo="https://i.imgur.com/CyIlt0y.png",RCTV
 #https://v10.siar.us/rctv/live/playlist.m3u8
 http://122.248.43.138:1935/ch9/myStream/playlist.m3u8
 
 #https://riauraya.tv/
-#EXTINF:0 tvg-id="RiauRayaTV.id" tvg-logo="https://i.imgur.com/Pf2ZnhI.png" group-title="DAERAH",Riau Raya TV (NO)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="RiauRayaTV.id" tvg-logo="https://i.imgur.com/Pf2ZnhI.png",Riau Raya TV (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #https://www.riautelevisi.com/
-#EXTINF:0 tvg-id="RiauTV.id" tvg-logo="https://i.imgur.com/1g8FtJi.png" group-title="DAERAH",Riau TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="RiauTV.id" tvg-logo="https://i.imgur.com/1g8FtJi.png",Riau TV
 http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
 
 #https://ruai.tv/
-#EXTINF:0 tvg-id="RiauTV.id" tvg-logo="https://i.imgur.com/KxPWFeY.png" group-title="DAERAH",Ruai TV (NO)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="RiauTV.id" tvg-logo="https://i.imgur.com/KxPWFeY.png",Ruai TV (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #https://saburaitv.com/
-#EXTINF:0 tvg-id="SaburaiTV.id" tvg-logo="https://i.imgur.com/HR2cgVO.png" group-title="DAERAH",Saburai TV (NO)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="SaburaiTV.id" tvg-logo="https://i.imgur.com/HR2cgVO.png",Saburai TV (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #https://www.sakti.tv/
-#EXTINF:0 tvg-id="SaktiTV.id" tvg-logo="https://i.imgur.com/IDNjMfQ.png" group-title="DAERAH",Sakti TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="SaktiTV.id" tvg-logo="https://i.imgur.com/IDNjMfQ.png",Sakti TV
 https://v2.siar.us/saktitv/livestream/playlist.m3u8
 
 #
-#EXTINF:0 tvg-id="SalingSapaTV.id" tvg-logo="https://i.imgur.com/V5O5Yny.png" group-title="DAERAH",Saling Sapa TV (NO)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="SalingSapaTV.id" tvg-logo="https://i.imgur.com/V5O5Yny.png",Saling Sapa TV (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #https://samudera.tv/
-#EXTINF:0 tvg-id="SamuderaTV.id" tvg-logo="https://i.imgur.com/hiefYVH.png" group-title="DAERAH",Samudera TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="SamuderaTV.id" tvg-logo="https://i.imgur.com/hiefYVH.png",Samudera TV
 https://stream.asianastream.com/samudera/samuderatv.smil/playlist.m3u8
 #https://stream.asianastream.com/samudera/samuderatv.smil/chunklist_w1889740741_b785000.m3u8
 #https://stream.asianastream.com/samudera/samuderatv.smil/chunklist_w1889740741_b2800000.m3u8
 
 #https://sangajitv.co.id/
-#EXTINF:0 tvg-id="SangajiTV.id" tvg-logo="https://i.imgur.com/4rTNT8F.png" group-title="DAERAH",Sangaji TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="SangajiTV.id" tvg-logo="https://i.imgur.com/4rTNT8F.png",Sangaji TV
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 
 #https://selaparangtv.com/
-#EXTINF:0 tvg-id="SelaparangTV.id" tvg-logo="https://selaparangtv.com/wp-content/uploads/2022/02/Group-5-black-1-300x75.png" group-title="DAERAH",Selaparang TV (NO)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="SelaparangTV.id" tvg-logo="https://selaparangtv.com/wp-content/uploads/2022/02/Group-5-black-1-300x75.png",Selaparang TV (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #http://semarangtv.tv/
-#EXTINF:0 tvg-id="SemarangTV.id" tvg-logo="https://i.imgur.com/KFC2WSB.png" group-title="DAERAH",Semarang TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="SemarangTV.id" tvg-logo="https://i.imgur.com/KFC2WSB.png",Semarang TV
 http://116.254.112.74/hls/cakralive.m3u8
 
 #
-#EXTINF:0 tvg-id="SiakTV.id" tvg-logo="https://i.imgur.com/1v0XkRM.png" group-title="DAERAH",Siak TV (NO)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="SiakTV.id" tvg-logo="https://i.imgur.com/1v0XkRM.png",Siak TV (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #https://www.siger.tv/
-#EXTINF:0 tvg-id="SigerTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3e/Siger_tv.jpg/512px-Siger_tv.jpg" group-title="DAERAH",Siger TV (NO)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="SigerTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3e/Siger_tv.jpg/512px-Siger_tv.jpg",Siger TV (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #
-#EXTINF:0 tvg-id="Simpang5TV.id" tvg-logo="https://i.imgur.com/jZowqIT.png" group-title="DAERAH",Simpang5 TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="Simpang5TV.id" tvg-logo="https://i.imgur.com/jZowqIT.png",Simpang5 TV
 http://122.248.43.138:1935/ch4/myStream/playlist.m3u8
 
 #https://www.situbondotv.online/
-#EXTINF:0 tvg-id="SitubondoTV.id" tvg-logo="https://i.imgur.com/N272jRB.png" group-title="DAERAH",Situbondo TV (NO)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="SitubondoTV.id" tvg-logo="https://i.imgur.com/N272jRB.png",Situbondo TV (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #
-#EXTINF:0 tvg-id="SMTV.id" tvg-logo="https://i.imgur.com/Jlz0Vhq.png" group-title="DAERAH",SMTV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="SMTV.id" tvg-logo="https://i.imgur.com/Jlz0Vhq.png",SMTV
 http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
 
 #https://www.sriwijayatv.com/
-#EXTINF:0 tvg-id="SriwijayaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/75/SriwijayaTV_2014.png" group-title="DAERAH",Sriwijaya TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="SriwijayaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/75/SriwijayaTV_2014.png",Sriwijaya TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/sriwijayatvonline
 
 #https://stv.co.id/
-#EXTINF:0 tvg-id="STV.id" tvg-logo="https://i.imgur.com/EIrXgT8.png" group-title="DAERAH",STV (NO)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="STV.id" tvg-logo="https://i.imgur.com/EIrXgT8.png",STV (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #https://www.sultratv.com/
-#EXTINF:0 tvg-id="SultraTV.id" tvg-logo="https://i.imgur.com/cmpbNJz.png" group-title="DAERAH",Sultra TV (NO)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="SultraTV.id" tvg-logo="https://i.imgur.com/cmpbNJz.png",Sultra TV (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #http://surabayatv.tv/
-#EXTINF:0 tvg-id="SurabayaTV.id" tvg-logo="https://i.imgur.com/jlss2ll.png" group-title="DAERAH",Surabaya TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="SurabayaTV.id" tvg-logo="https://i.imgur.com/jlss2ll.png",Surabaya TV
 https://v3.siar.us/surabayatv/live/playlist.m3u8
 #https://v3.siar.us/surabayatv/live/chunks.m3u8?nimblesessionid=802207
 #https://v3.siar.us/surabayatv/live/chunks.m3u8?nimblesessionid=802211
 
 #https://tvtpi.id/
-#EXTINF:0 tvg-id="TanjungpinangTV.id" tvg-logo="https://i.imgur.com/lzCHTV3.png" group-title="DAERAH",Tanjung pinang TV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="TanjungpinangTV.id" tvg-logo="https://i.imgur.com/lzCHTV3.png",Tanjung pinang TV
 #https://103.30.246.47:1935/tvtpi/live/playlist.m3u8
 http://103.30.246.47:1935/tvtpi/smil:live.smil/playlist.m3u8
 
 #http://tatv.co.id/
-#EXTINF:0 tvg-id="TATV.id" tvg-logo="https://i.imgur.com/1f0EC7t.png" group-title="DAERAH",TATV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="TATV.id" tvg-logo="https://i.imgur.com/1f0EC7t.png",TATV
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 
 #http://www.tegartv.com/yogyakarta/
-#EXTINF:0 tvg-id="TegarTVJogja.id" tvg-logo="https://i.imgur.com/XamnylQ.png" group-title="DAERAH",Tegar TV Jogja
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="TegarTVJogja.id" tvg-logo="https://i.imgur.com/XamnylQ.png",Tegar TV Jogja
 http://wms.klikhost.com/tegarjogja/tegarjogja/playlist.m3u8
 #http://wms.klikhost.com/tegarjogja/tegarjogja/chunklist_w911703110.m3u8
 
 #http://www.tegartv.com/
-#EXTINF:0 tvg-id="TegarTVLampung.id" tvg-logo="https://i.imgur.com/0Vp3f2J.png" group-title="DAERAH",Tegar TV Lampung
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="TegarTVLampung.id" tvg-logo="https://i.imgur.com/0Vp3f2J.png",Tegar TV Lampung
 #http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
 #http://wms.klikhost.com:1935/tegartv/tegartv/chunklist_w1118060659.m3u8
 https://5bf7b725107e5.streamlock.net/tegartv/tegartv/playlist.m3u8
 
 #
-#EXTINF:0 tvg-id="TemanggungTV.id" tvg-logo="https://i.imgur.com/p1ea2ol.png" group-title="DAERAH",Temanggung TV (NO)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="TemanggungTV.id" tvg-logo="https://i.imgur.com/p1ea2ol.png",Temanggung TV (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #https://tvdesa.id/
-#EXTINF:0 tvg-id="TVDesa.id" tvg-logo="https://i.imgur.com/t67iLip.png" group-title="DAERAH",TV Desa
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="TVDesa.id" tvg-logo="https://i.imgur.com/t67iLip.png",TV Desa
 https://ams.desastreaming.com:5443/DesaTV/streams/live.m3u8
 
 #http://tvku.tv/beranda/
-#EXTINF:0 tvg-id="TVKU.id" tvg-logo="https://i.imgur.com/BAklJGy.png" group-title="DAERAH",TVKU
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="TVKU.id" tvg-logo="https://i.imgur.com/BAklJGy.png",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 
 #https://tvtabalong.com/live/
-#EXTINF:0 tvg-id="TVTabalong.id" tvg-logo="https://i.imgur.com/2YhDH98.png" group-title="DAERAH",TV Tabalong
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="TVTabalong.id" tvg-logo="https://i.imgur.com/2YhDH98.png",TV Tabalong
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
 #https://tv.ub.ac.id/
-#EXTINF:0 tvg-id="UBTVBrawijaya.id" tvg-logo="https://i.imgur.com/BQIi7ko.png" group-title="DAERAH",UBTV Brawijaya (NO)
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="UBTVBrawijaya.id" tvg-logo="https://i.imgur.com/BQIi7ko.png",UBTV Brawijaya (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #https://ugtv.co.id/
-#EXTINF:0 tvg-id="UGTV.id" tvg-logo="https://i.imgur.com/iEKDH26.png" group-title="DAERAH",UGTV
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="UGTV.id" tvg-logo="https://i.imgur.com/iEKDH26.png",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
 
@@ -1665,6 +1777,7 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
 
 #https://ahsan.tv/
+#EXTGRP:RELIGIOUS
 #EXTINF:0 tvg-id="AhsanTV.id" tvg-logo="https://i.imgur.com/dZdUbYd.png" group-title="RELIGIOUS",Ahsan TV
 https://h1.intechmedia.net/intech/ch4.m3u8
 
@@ -1910,6 +2023,7 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
 
 
+#EXTGRP:KNOWLEDGE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NMw5ksJz/20220926-202056.png" group-title="KNOWLEDGE" tvg-id="AnimalPlanetIndonesia.id" tvg-name="Animal Planet HD",Animal Planet
@@ -1998,6 +2112,7 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 
 
+#EXTGRP:LIFESTYLE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://static.mncnow.id/images/channel/d879be36/5c67.png",AFN
@@ -2125,6 +2240,7 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 ######## LPP TVRI ########
 
+#EXTGRP:TVRI DAERAH
 #EXTINF:0 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/JAKARTA.png" group-title="TVRI DAERAH",TVRI Jakarta
 #http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
 
@@ -2226,6 +2342,7 @@ http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 
 
 
+#EXTGRP:GAMING
 #EXTINF:-1 tvg-id="" tvg-name="EdukasiTv" tvg-logo="https://i.imgur.com/7Dyc6hK.png" group-title="GAMING",Dunia Games
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/manifest.mpd
 
