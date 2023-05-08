@@ -139,8 +139,8 @@ http://insverpro.my.id/play.m3u8?id=204&key=vidio&type=hls
 http://insverpro.my.id/play.m3u8?id=206&key=vidio&type=hls
 
 #EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://s.id/1d0yU" group-title="LIVE EVENT",RCTI Live
-http://103.167.167.5:8111/play/a01c/index.m3u8
-
+#http://103.167.167.5:8111/play/a01c/index.m3u8
+https://anevi-live-channel-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2-avc1_2499968=3.m3u8
 
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="LIVE EVENT",
