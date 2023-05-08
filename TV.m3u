@@ -1204,6 +1204,7 @@ https://atv.siar.us/atv/live/playlist.m3u8
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #
+#EXTGRP:DAERAH
 #EXTINF:0 tvg-id="AmbonTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/Logo_Ambon_TV.jpeg",Ambon TV (No)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
@@ -2374,7 +2375,7 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
 
 #EXTGRP:TVRI DAERAH
-#EXTINF:0 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/KALIMANTAN%20SELATAN.png,TVRI Kalimantan Selatan
+#EXTINF:0 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/KALIMANTAN%20SELATAN.png",TVRI Kalimantan Selatan
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8
 
 #EXTGRP:TVRI DAERAH
