@@ -2230,6 +2230,20 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntert
 #EXTGRP:LIFESTYLE
 #EXTINF:0 tvg-id="" tvg-logo="https://mayonnaise-media.com/wp-content/uploads/2021/04/fashiontv_logo_blue_vertical-1white.png",Fashion TV
 https://fashiontv-fashiontv-5-gb.lg.wurl.tv/playlist.m3u8
+#https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTGRP:LIFESTYLE
+#EXTINF:0 tvg-logo="https://i.imgur.com/CGzC3fK.png",Fashion TV L'Original
+#http://fashs043.cloudycdn.services/scte/sftv_adapt/sftv_1080p_chunklist.m3u8
+https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg16_adaptive_v3.smil/playlist.m3u8
+
+#EXTGRP:LIFESTYLE
+#EXTINF:0 tvg-logo="https://i.imgur.com/CGzC3fK.png",Fashion TV Asia
+https://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/playlist.m3u8
+
+#EXTGRP:LIFESTYLE
+#EXTINF:0 tvg-logo="https://i.imgur.com/lMSp60D.png",Fashion TV Midnite Secret
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 
 #EXTGRP:LIFESTYLE
 #EXTINF:0 tvg-id="" tvg-logo="https://static.mncnow.id/images/channel/c9781aa2/1b21.png",HGTV
@@ -2322,23 +2336,6 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 #EXTGRP:LIFESTYLE
 #EXTINF:0 tvg-id="RANSEntertainment.id" tvg-logo="https://i.imgur.com/YV8nB40.png",RANS Entertainment (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="LIFESTYLE",FASHION TV
-https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CGzC3fK.png" group-title="LIFESTYLE",Fashion TV L'Original
-http://fashs043.cloudycdn.services/scte/sftv_adapt/sftv_1080p_chunklist.m3u8
-https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg16_adaptive_v3.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CGzC3fK.png" group-title="LIFESTYLE",Fashion TV Asia
-https://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lMSp60D.png" group-title="LIFESTYLE",Fashion TV Midnite Secret
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 
 
 
