@@ -2229,21 +2229,25 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntert
 
 #EXTGRP:LIFESTYLE
 #EXTINF:0 tvg-id="FashionTVAsia.fr" tvg-logo="https://mayonnaise-media.com/wp-content/uploads/2021/04/fashiontv_logo_blue_vertical-1white.png",Fashion TV
-#https://fashiontv-fashiontv-5-gb.lg.wurl.tv/playlist.m3u8
+https://fashiontv-fashiontv-5-gb.lg.wurl.tv/playlist.m3u8
 #https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #https://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/playlist.m3u8
-https://production-premium-fashiontv-vidio.akamaized.net/fashion/_definst_/ftv_pg13_adaptive_v3.smil/playlist.m3u8
+#https://production-premium-fashiontv-vidio.akamaized.net/fashion/_definst_/ftv_pg13_adaptive_v3.smil/playlist.m3u8
+#https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg13_adaptive.smil/media.m3u8
 
 #EXTGRP:LIFESTYLE
 #EXTINF:0 tvg-id="FashionTVLOriginal.fr" tvg-logo="https://i.imgur.com/CGzC3fK.png",Fashion TV L'Original
 #http://fashs043.cloudycdn.services/scte/sftv_adapt/sftv_1080p_chunklist.m3u8
-https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg16_adaptive_v3.smil/playlist.m3u8
+#http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
+https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
+#https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg16_adaptive_v3.smil/playlist.m3u8
 
 #EXTGRP:LIFESTYLE
 #EXTINF:0 tvg-id="FashionTVMidnightSecrets.fr" tvg-logo="https://i.imgur.com/lMSp60D.png",Fashion TV Midnite Secret
 #https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_ftv_midnite_k1y_27049_vidio_id_1533_hls.smil/chunklist.m3u8
-https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_midnite_secrets_adaptive.smil/media.m3u8
+#https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 
 #EXTGRP:LIFESTYLE
 #EXTINF:0 tvg-id="" tvg-logo="https://static.mncnow.id/images/channel/c9781aa2/1b21.png",HGTV
