@@ -456,7 +456,7 @@ http://210.210.155.35/dr9445/h/h02/index.m3u8
 #http://210.210.155.37/dr9445/h/h02/index.m3u8
 
 #EXTGRP:KIDS
-#EXTINF:0 tvg-id="Besmart.id" tvg-logo="https://i.postimg.cc/PrnYt14t/20221026-003225.png",BeSmart
+#EXTINF:0 tvg-id="Besmart.id" tvg-logo="https://i.ytimg.com/vi/Hvh-1pXX9JY/mqdefault.jpg",BeSmart
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
@@ -497,7 +497,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff049018456010
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
 
 #EXTGRP:KIDS
-#EXTINF:0 tvg-id="Cbeebies.uk" tvg-logo="https://i.postimg.cc/ZKg3ySS1/20220926-200729.png",Cbeebies BBC
+#EXTINF:0 tvg-id="Cbeebies.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcSiT8qA-PpCdJR6h7CVHhb3Qtks0aKBGu2oYw\u0026usqp\u003dCAU",Cbeebies BBC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
@@ -550,7 +550,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4
 
 #https://www.mncchannels.com/micro/Kids-TV
 #EXTGRP:KIDS
-#EXTINF:0 tvg-id="KidsTV.id" tvg-logo="https://i.postimg.cc/qqnXMLST/20221026-010214.png",KIDS TV
+#EXTINF:0 tvg-id="KidsTV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcReHQbsm9sSMnGVBfLItTBtrUMLAUzlB04QWg\u0026usqp\u003dCAU",KIDS TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
@@ -851,14 +851,12 @@ http://210.210.155.37/uq2663/h/h194/index.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #https://www.paramountnetwork.com/
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.my.id/license-proxy-widevine/cenc/?specConform=true
 #EXTGRP:MOVIES
 #EXTINF:0 tvg-id="ParamountNetwork.id" tvg-logo="https://i.ibb.co/zrxvFLV/images-6-modified.png",Paramount Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=paramount
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.my.id/license-proxy-widevine/cenc/?specConform=true
 #https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f092c2ba-4baa-4ebb-bd60-1cfb1af07da5)/manifest.mpd
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
-https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=paramount
 
 #EXTGRP:MOVIES
 #EXTINF:0 tvg-id"rockextreme.sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest?cb=20221212024829",Rock Action
