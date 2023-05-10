@@ -497,7 +497,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff049018456010
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
 
 #EXTGRP:KIDS
-#EXTINF:0 tvg-id="Cbeebies.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcSiT8qA-PpCdJR6h7CVHhb3Qtks0aKBGu2oYw\u0026usqp\u003dCAU",Cbeebies BBC
+#EXTINF:0 tvg-id="Cbeebies.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiT8qA-PpCdJR6h7CVHhb3Qtks0aKBGu2oYw&6usqp=CAU",Cbeebies BBC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
@@ -550,7 +550,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4
 
 #https://www.mncchannels.com/micro/Kids-TV
 #EXTGRP:KIDS
-#EXTINF:0 tvg-id="KidsTV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcReHQbsm9sSMnGVBfLItTBtrUMLAUzlB04QWg\u0026usqp\u003dCAU",KIDS TV
+#EXTINF:0 tvg-id="KidsTV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReHQbsm9sSMnGVBfLItTBtrUMLAUzlB04QWg&usqp=dCAU",KIDS TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
