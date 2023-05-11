@@ -571,7 +571,7 @@ https://mibitivi.xyz/sc/playhls.m3u8?tekon=skyactiv&channel=mentaritv
 http://210.210.155.37/uq2663/h/h191/index.m3u8
 
 #EXTGRP:KIDS
-#EXTINF:0 tvg-id="NickelodeonAsia.sg" tvg-logo="https://i.postimg.cc/qRLyt6JL/20220926-200705.png",Nickelodeon
+#EXTINF:0 tvg-id="NickelodeonAsia.sg" tvg-logo="https://deadline.com/wp-content/uploads/2023/02/nickelodeon.jpg",Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
@@ -856,14 +856,18 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #EXTGRP:MOVIES
 #EXTINF:0 tvg-id="ParamountNetwork.id" tvg-logo="https://i.ibb.co/zrxvFLV/images-6-modified.png",Paramount Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=paramount
+https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=paramount
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.my.id/license-proxy-widevine/cenc/?specConform=true
 #https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f092c2ba-4baa-4ebb-bd60-1cfb1af07da5)/manifest.mpd
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
 
 #EXTGRP:MOVIES
 #EXTINF:0 tvg-id"rockextreme.sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest?cb=20221212024829",Rock Action
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=a6d8da647fc02d64463e38e222f268b0:f4d533e9d51a2aa66af7aaf27f54f92a
+https://etslive-2-vidio-com.akamaized.net/drm/dash/8121_stream.mpd
 #http://edge.linknetott.swiftserve.com/channelgroup2/cg255production/ch330/index.m3u8
 http://210.210.155.35/dr9445/h/h15/index.m3u8
 
@@ -871,6 +875,7 @@ http://210.210.155.35/dr9445/h/h15/index.m3u8
 #EXTINF:0 tvg-id"rockentertainment.sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/ROCK_entertainment_UHD.png/revision/latest?cb=20210911032942",Rock Entertainment
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=14a5992ac11cb08303ec82c34e775025:e97307a38fe832c62d3f486077745c80
+#https://etslive-2-vidio-com.akamaized.net/drm/dash/8120_stream.mpd
 http://210.210.155.35/dr9445/h/h16/index.m3u8
 
 #EXTGRP:MOVIES
