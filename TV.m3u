@@ -867,7 +867,7 @@ https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=paramount
 #EXTINF:0 tvg-id"rockextreme.sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest?cb=20221212024829",Rock Action
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=a6d8da647fc02d64463e38e222f268b0:f4d533e9d51a2aa66af7aaf27f54f92a
-https://etslive-2-vidio-com.akamaized.net/drm/dash/8121_stream.mpd
+#https://etslive-2-vidio-com.akamaized.net/drm/dash/8121_stream.mpd
 #http://edge.linknetott.swiftserve.com/channelgroup2/cg255production/ch330/index.m3u8
 http://210.210.155.35/dr9445/h/h15/index.m3u8
 
@@ -1196,7 +1196,7 @@ https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=useesports2
 
 #http://www.aditv.co.id/
 #EXTGRP:DAERAH
-#EXTINF:0 tvg-id="ADiTV.id" tvg-logo="https://i.imgur.com/b4IDBG7.png",ADi TV
+#EXTINF:0 tvg-id="ADiTV.id" tvg-logo="https://i.ibb.co/D5DkjBK/Aditv-hometv.jpg",ADi TV
 https://v2.siar.us/aditv/livestream/chunks.m3u8
 
 #http://afbtvkupang.com/
@@ -1237,12 +1237,15 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #https://btv.co.id/
 #EXTGRP:DAERAH
-#EXTINF:0 tvg-id="BalikapanTV.id" tvg-logo="https://i.imgur.com/P3whqna.png",Balikapan TV
+#EXTINF:0 tvg-id="BalikapanTV.id" tvg-logo="https://i.ibb.co/q9n0G6v/Btv-hometv.jpg",Balikapan TV
 http://122.248.43.138:1935/ch10/myStream/playlist.m3u8
 
 #https://balitv.tv/
 #EXTGRP:DAERAH
-#EXTINF:0 tvg-id="BaliTV.id" tvg-logo="https://i.imgur.com/uH1Szme.png",Bali TV
+#EXTINF:0 tvg-id="BaliTV.id" tvg-logo="https://i.ibb.co/tBDHG8M/Bali-tv-hometv.jpg",Bali TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#https://nxanv-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
 
 #https://www.baliutd.com/tv/
@@ -1252,7 +1255,10 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-49
 
 #http://bandungtv.tv/
 #EXTGRP:DAERAH
-#EXTINF:0 tvg-id="BandungTV.id" tvg-logo="https://i.imgur.com/fpFs6Ay.png",Bandung TV
+#EXTINF:0 tvg-id="BandungTV.id" tvg-logo="https://i.ibb.co/RH7S6Zq/Bandung-tv-hometv.jpg",Bandung TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#https://nxanv-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
 #
@@ -1318,7 +1324,7 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #https://www.badartv.co.id/
 #EXTGRP:DAERAH
-#EXTINF:0 tvg-id="BRTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png",BRTV
+#EXTINF:0 tvg-id="BRTV.id" tvg-logo="https://i.ibb.co/GQTPt9F/Brtv-hometv.jpg",BRTV
 https://e1.siar.us/badartv/live/playlist.m3u8
 
 #https://www.bungotv.com/
@@ -1405,12 +1411,12 @@ https://v3.siar.us/humabetangtv/live/playlist.m3u8
 
 #https://inspira.tv/
 #EXTGRP:DAERAH
-#EXTINF:0 tvg-id="InspiraTV.id" tvg-logo="https://i.imgur.com/BF5orkg.png",Inspira TV
+#EXTINF:0 tvg-id="InspiraTV.id" tvg-logo="https://i.ibb.co/ZhSmHq5/Inspiratv-hometv.jpg",Inspira TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
 #https://dobrak.id/
 #EXTGRP:DAERAH
-#EXTINF:0 tvg-id="JambiTV.id" tvg-logo="https://i.imgur.com/BaNtB6K.png",Jambi TV
+#EXTINF:0 tvg-id="JambiTV.id" tvg-logo="https://i.ibb.co/LJHtLfc/Jambitv-hometv.jpg",Jambi TV
 http://122.248.43.138:1935/ch23/myStream/playlist.m3u8
 #http://122.248.43.138:1935/ch23/myStream/chunklist_w289602562.m3u8
 
@@ -1455,7 +1461,10 @@ http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
 
 #http://jtv.co.id/
 #EXTGRP:DAERAH
-#EXTINF:0 tvg-id="JTV.id" tvg-logo="https://i.imgur.com/mIDWIQk.png",JTV
+#EXTINF:0 tvg-id="JTV.id" tvg-logo="https://i.ibb.co/Y2mWkZH/Jtv-hometv.jpg",JTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#https://nxanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
 
 #http://www.ieg.id/tv-channel/karisma/
