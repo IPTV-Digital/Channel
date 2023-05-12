@@ -2334,7 +2334,8 @@ https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_mid
 #EXTINF:0 tvg-id="" tvg-logo="https://static.mncnow.id/images/channel/c9781aa2/1b21.png",HGTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://newanv-live-cdn.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+#https://newanv-live-cdn.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+http://edge.linknetott.swiftserve.com/channelgroup4/cg429production/ch354/02.m3u8
 
 #https://indonesiana.tv/
 #EXTGRP:LIFESTYLE
