@@ -120,7 +120,7 @@ https://production-drm-vidio-com-event-12.akamaized.net/out/v1/d43b8328b95d498aa
 https://production-drm-vidio-com-event-14.akamaized.net/out/v1/88c33cc42b3b4313a13be94c3992978f/index.mpd
 
 
-#EXTINF:0 tvg-id="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="LIVE EVENT",INDOSIAR Live 1
+#EXTINF:0 tvg-id="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="LIVE EVENT",INDOSIAR Live
 #http://tvnid.wapgem.com/indosiar.m3u8|Referer=https://www.score808.com/
 #https://hls3.04lv.com/live/L126257501.m3u8?txSecret=8bd21c5a3d45b97836c06d85f7cc5041&txTime=63CF9E10&_s=stream
 #https://hls3.04lv.com/live/H13356983.m3u8?txSecret=73f23269cef83b6a4ad15aa909f8ad3d&txTime=63F213F0&_s=stream
@@ -128,22 +128,23 @@ https://production-drm-vidio-com-event-14.akamaized.net/out/v1/88c33cc42b3b4313a
 #http://www.goldentv.tech:25461/Bokep333/Bokep333/25686
 #http://103.167.167.5:8111/play/a00r/index.m3u8
 https://beetv.my.id/x/oxygen-indosiar-gojokkk.m3u8
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://live2.cakhia22.live/truc-tiep/
+#https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://live2.cakhia22.live/truc-tiep/
 
 #https://www.sctv.co.id/
-#EXTINF:0 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="LIVE EVENT",SCTV Live 1
+#EXTINF:0 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="LIVE EVENT",SCTV Live
 #http://www.goldentv.tech:25461/Bokep333/Bokep333/25688
 #http://tvnid.wapgem.com/sctv.m3u8|Referer=https://www.score808.com/
 http://insverpro.my.id/play.m3u8?id=204&key=vidio&type=hls
 
 #EXTINF:0 tvg-id="MOJIOCHANNEL.Id" tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="LIVE EVENT",Moji Live
 #http://www.goldentv.tech:25461/Bokep333/Bokep333/25764
-http://insverpro.my.id/play.m3u8?id=206&key=vidio&type=hls
+#http://insverpro.my.id/play.m3u8?id=206&key=vidio&type=hls
+http://javahome.my.id:9090/play/do8jBLP2kjOtczXd30khId4SNptgwqMK_-tTEYELHtk/ts
 
 #EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://s.id/1d0yU" group-title="LIVE EVENT",RCTI Live
 #http://103.167.167.5:8111/play/a01c/index.m3u8
 https://anevi-live-channel-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2-avc1_2499968=3.m3u8
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683099&extension=ts&play_token=RmFK3j6FUm
+#http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683099&extension=ts&play_token=RmFK3j6FUm
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="LIVE EVENT",
 
@@ -169,9 +170,6 @@ http://210.210.155.35/qwr9ew/s/s04/index.m3u8
 #https://www.sctv.co.id/
 #EXTGRP:TV LOKAL
 #EXTINF:0 tvg-id="SCTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/SCTV.jpg",SCTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 #http://rr2.dens.tv/s/s03/index.m3u8
 http://210.210.155.35/qwr9ew/s/s03/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s03/index.m3u8
@@ -204,7 +202,6 @@ http://210.210.155.35/qwr9ew/s/s41/index.m3u8
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-ncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #https://idcloud.tech/rcti_vid.m3u8
 https://mooncang.my.id/api/rplus/ch.m3u8?id=rcti
 
@@ -406,7 +403,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d
 #EXTGRP:TV LOKAL
 #EXTINF:0 tvg-id="UseePrime.id" tvg-logo="https://i.imgur.com/DqizBAD.png",Usee Prime
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 
 #https://www.mncchannels.com/micro/vision-prime
 #EXTGRP:TV LOKAL
@@ -476,14 +472,18 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizke
 #EXTGRP:KIDS
 #EXTINF:0 tvg-id="BoomerangSoutheastAsia.us" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Boomerang.png",Boomerang
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
 #EXTGRP:KIDS
 #EXTINF:0 tvg-id="CartoonNetworkAsia.sg" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Cartoon%20Network.jpg",Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 
 #EXTGRP:KIDS
 #EXTINF:0 tvg-id="CartoonTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Cartoon%20TV.jpg",Cartoon TV
@@ -609,7 +609,8 @@ http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
 
 #EXTGRP:NEWS
 #EXTINF:0 tvg-id="antara.id" tvg-logo="https://images.useetv.com/box/logo_antara_small1.png",Antara TV
-https://beetv.my.id/x/usee-antara-gojokkk.m3u8
+#https://beetv.my.id/x/usee-antara-gojokkk.m3u8
+https://cdn09jtedge.indihometv.com/dvr/139/antara/manifest.mpd
 
 #https://www.beritasatu.com/
 #EXTGRP:NEWS
@@ -701,33 +702,48 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 
 #EXTGRP:MOVIES
 #EXTINF:0 tvg-id="cinemax" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Cinemax.jpg",CINEMAX
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
-https://nyanv-live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 #EXTGRP:MOVIES
 #EXTINF:0 tvg-id="HBOAsia.sg" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/HBO.jpg",HBO
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
-https://nyanv-live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
 #EXTGRP:MOVIES
 #EXTINF:0 tvg-id="HBOFamilyAsia.sg" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/HBO%20Family.png",HBO FAMILY
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ebe6190a3cfbbed4ec34e4d9c7a30e1e:d161b1f737e2aee9501149406c8abe9e
-https://nyanv-live-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 
 #EXTGRP:MOVIES
 #EXTINF:0 tvg-id="HBOHitsAsia.sg" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/HBO%20Hits.png",HBO HITS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c256f70830647e4bdf654d86e710ed5:fe41e9bcbae52f9d233407f7488bca5f
-https://nyanv-live-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
 #EXTGRP:MOVIES
 #EXTINF:0 tvg-id="HBOSignatureAsia.sg" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/HBO%20Signature.png",HBO SIGNATURE
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
-https://nyanv-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
 
 
@@ -904,8 +920,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #EXTGRP:MOVIES
 #EXTINF:0 tvg-id="WarnerTVSoutheastAsia.us" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Warner.png",WarnerTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nxanv-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+#https://nxanv-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
 #EXTGRP:MOVIES
 #EXTINF:0 tvg-id="ZeeBioskop.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Zee%20Bioskop.png",Zee Bioskop
@@ -1479,7 +1497,7 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #
 #EXTGRP:DAERAH
-#EXTINF:0 tvg-id="KawanuaTV.id" tvg-logo="https://i.imgur.com/xFaoLIX.png",Kawanua TV
+#EXTINF:0 tvg-id="KawanuaTV.id" tvg-logo="https://i.ibb.co/RQ08C8V/Kawanua-hometv.jpg",Kawanua TV
 http://122.248.43.138:1935/ch18/myStream/playlist.m3u8
 
 #https://www.kresna.tv/
@@ -1572,7 +1590,7 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 #https://padangtv.id/
 #EXTGRP:DAERAH
-#EXTINF:0 tvg-id="PadangTV.id" tvg-logo="https://i.imgur.com/EL2BfxY.png",Padang TV
+#EXTINF:0 tvg-id="PadangTV.id" tvg-logo="https://i.ibb.co/TwXz4tK/Padang-tv-hometv.jpg",Padang TV
 http://122.248.43.138:1935/ch16/myStream/playlist.m3u8
 
 #https://paltv.disway.id/
@@ -1705,7 +1723,7 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #
 #EXTGRP:DAERAH
-#EXTINF:0 tvg-id="Simpang5TV.id" tvg-logo="https://i.imgur.com/jZowqIT.png",Simpang5 TV
+#EXTINF:0 tvg-id="Simpang5TV.id" tvg-logo="https://i.ibb.co/nm58HMh/Simpang5-hometv.jpg",Simpang5 TV
 http://122.248.43.138:1935/ch4/myStream/playlist.m3u8
 
 #https://www.situbondotv.online/
@@ -1748,7 +1766,7 @@ http://103.30.246.47:1935/tvtpi/smil:live.smil/playlist.m3u8
 
 #http://tatv.co.id/
 #EXTGRP:DAERAH
-#EXTINF:0 tvg-id="TATV.id" tvg-logo="https://i.imgur.com/1f0EC7t.png",TATV
+#EXTINF:0 tvg-id="TATV.id" tvg-logo="https://i.ibb.co/kmqHrZy/Tatv-hometv.jpg",TATV
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 
 #http://www.tegartv.com/yogyakarta/
@@ -1776,7 +1794,7 @@ https://ams.desastreaming.com:5443/DesaTV/streams/live.m3u8
 
 #http://tvku.tv/beranda/
 #EXTGRP:DAERAH
-#EXTINF:0 tvg-id="TVKU.id" tvg-logo="https://i.imgur.com/BAklJGy.png",TVKU
+#EXTINF:0 tvg-id="TVKU.id" tvg-logo="https://i.ibb.co/1MJm1xD/Tvku-hometv.jpg",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 
 #https://tvtabalong.com/live/
@@ -2145,8 +2163,10 @@ http://rahimahmad.site/FirstMediaX/discoveryasia.m3u8
 #EXTGRP:KNOWLEDGE
 #EXTINF:0 tvg-id="DiscoveryChannelIndonesia.id" tvg-logo="https://i.postimg.cc/2yhWQ5zR/20221026-003145.png",Discovery Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6857baa1174017bd9f231e362a9/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
 #EXTGRP:KNOWLEDGE
 #EXTINF:0 tvg-id="DiscoveryChannel.id" tvg-logo="https://cdnjkt.transvision.co.id/image/web/channel/4028c6857baa1174017bd9f231e362a9/20210912121853.png",Discovery Channel
