@@ -593,7 +593,7 @@ https://mibitivi.xyz/sc/playhls.m3u8?tekon=skyactiv&channel=mentaritv
 http://210.210.155.37/uq2663/h/h191/index.m3u8
 
 #EXTGRP:KIDS
-#EXTINF:0 tvg-id="NickelodeonAsia.sg" tvg-logo="https://deadline.com/wp-content/uploads/2023/02/nickelodeon.jpg",Nickelodeon
+#EXTINF:0 tvg-id="NickelodeonAsia.sg" tvg-logo="https://i.ibb.co/7SK225N/Nickelodeon-hometv.jpg",Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
@@ -1993,7 +1993,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856f08326c016f557be28
 
 #
 #EXTGRP:RELIGIOUS
-#EXTINF:0 tvg-id="Life.id" tvg-logo="https://i.imgur.com/2O8Nnkm.png",Life
+#EXTINF:0 tvg-id="Life.id" tvg-logo="https://i.ibb.co/cT9ztWc/Life-hometv.jpg",Life
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
@@ -2042,7 +2042,7 @@ https://h1.intechmedia.net/intech/ch5.m3u8
 
 #https://www.mncchannels.com/micro/Muslim-TV
 #EXTGRP:RELIGIOUS
-#EXTINF:0 tvg-id="MuslimTV.id" tvg-logo="https://i.imgur.com/hTFdMqu.png",Muslim TV
+#EXTINF:0 tvg-id="MuslimTV.id" tvg-logo="https://i.ibb.co/JjbBHND/Muslim-tv-hometv.jpg",Muslim TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
@@ -2334,8 +2334,7 @@ https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_mid
 #EXTINF:0 tvg-id="" tvg-logo="https://static.mncnow.id/images/channel/c9781aa2/1b21.png",HGTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#https://newanv-live-cdn.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
-http://edge.linknetott.swiftserve.com/channelgroup4/cg429production/ch354/02.m3u8
+https://newanv-live-cdn.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
 #https://indonesiana.tv/
 #EXTGRP:LIFESTYLE
