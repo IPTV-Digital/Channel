@@ -925,6 +925,8 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf10
 #KODIPROP:inputstream.adaptive.license_key=12da619438b3748da206142216d0943b:6958377109d34561ad20645319cec62c
 https://nyanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
+#http://210.210.155.37/qwr9ew/s/s31/index.m3u8
+
 #https://www.celestialmovies.com/schedule.php?location/ID
 #EXTGRP:MOVIES
 #EXTINF:0 tvg-id="CelestialMoviesIndonesia.id" tvg-logo="https://i.ytimg.com/vi/vXzVjqgdTDY/maxresdefault.jpg",Celestial Movies Indonesia
@@ -932,11 +934,15 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/Celestial
 #KODIPROP:inputstream.adaptive.license_key=13aecb26aeee22bc86920045f22d134d:80aa44d998c7c0cc221c96d26730fe9b
 https://nyanv-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
+#http://210.210.155.37/dr9445/h/h14/index.m3u8
+
 #EXTGRP:MOVIES
 #EXTINF:0 tvg-id="CinemaWorld.sg" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Cinema%20World.jpg",Cinema World
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=958df746f24f371dffc95e7cd714fbd7:fbd6e4540b9a917a27da8be01542f53f
 https://nxanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
+#http://210.210.155.37/dr9445/h/h04/index.m3u8
 
 #https://mncvision.id/channel/detail/150/fmn/
 #EXTGRP:MOVIES
@@ -971,11 +977,16 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPre
 #KODIPROP:inputstream.adaptive.license_key=0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9
 https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 
+#http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3u8
+
 #EXTGRP:MOVIES
 #EXTINF:0 tvg-id="Hits.sg" tvg-logo="https://1.bp.blogspot.com/-0GkPR_ah9_U/YJZOkcZrkvI/AAAAAAAAEsA/PLJwM2fAuUUKgbv4kxOYegB87xxC5kXZwCLcBGAsYHQ/s720/hits-poster.png",HITS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nxanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+
+#http://210.210.155.37/dr9445/h/h37/index.m3u8
+#http://edge.linknetott.swiftserve.com/channelgroup4/cg432production/ch324/02.m3u8
 
 #EXTGRP:MOVIES
 #EXTINF:0 tvg-id="hitsmovies.sg" tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png",HITS Movies
@@ -1029,6 +1040,8 @@ http://210.210.155.37/uq2663/h/h194/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
+#http://210.210.155.37/uq2663/h/h143/index.m3u8
+
 #https://www.paramountnetwork.com/
 #EXTGRP:MOVIES
 #EXTINF:0 tvg-id="ParamountNetwork.id" tvg-logo="https://i.ibb.co/zrxvFLV/images-6-modified.png",Paramount Network
@@ -1067,6 +1080,8 @@ http://210.210.155.35/dr9445/h/h16/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=06e7e95fdb30086d24111f300c9d91f1:9431050f760f692bfd396bbd84cb5161
 https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
+#http://210.210.155.37/qwr9ew/s/s34/index.m3u8
+
 #EXTGRP:MOVIES
 #EXTINF:0 tvg-id="tvnasia.hk" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/tvN.jpg",tvN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1097,8 +1112,9 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533f
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e7df70530006bef067327cefde82c0e:b92b6a2aba522bd9bb2d07cf241e7398
 https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
-#http://210.210.155.37/qwr9ew/s/s32/index.m3u8
 
+#http://210.210.155.37/qwr9ew/s/s32/index.m3u8
+#http://edge.linknetott.swiftserve.com/channelgroup2/cg216production/ch161/02.m3u8
 
 ####### ### #######
 
