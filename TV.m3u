@@ -47,9 +47,9 @@
 
 
 
-#
-# Channel Live Event
-#
+#====================#
+# Channel Live Event #
+#====================#
 
 
 
@@ -148,9 +148,11 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2-avc1_2499
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="LIVE EVENT",
 
-#
-# Channel Lokal
-#
+
+
+#===============#
+# Channel Lokal #
+#===============#
 
 
 
@@ -159,6 +161,13 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2-avc1_2499
 #
 #EXTGRP:TV LOKAL
 #EXTINF:0 tvg-id="Indosiar.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Indosiar.jpg",INDOSIAR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
+#https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.m3u8
+
 #http://rr2.dens.tv/s/s04/index.m3u8
 http://210.210.155.35/qwr9ew/s/s04/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s04/index.m3u8
@@ -166,10 +175,18 @@ http://210.210.155.35/qwr9ew/s/s04/index.m3u8
 #http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 #https://geocities.ws/ariev7xx/indosiar.m3u8
 #https://idcloud.tech/indosiar_vid.m3u8
+#http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 
 #https://www.sctv.co.id/
 #EXTGRP:TV LOKAL
 #EXTINF:0 tvg-id="SCTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/SCTV.jpg",SCTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
+#https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.m3u8
+
 #http://rr2.dens.tv/s/s03/index.m3u8
 http://210.210.155.35/qwr9ew/s/s03/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s03/index.m3u8
@@ -177,6 +194,7 @@ http://210.210.155.35/qwr9ew/s/s03/index.m3u8
 #http://nonton.wap.sh/id/009.m3u8
 #https://idcloud.tech/sctv_vid.m3u8
 #https://geocities.ws/ariev7xx/sctv.m3u8
+#http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
 #https://www.moji.id/
 #EXTGRP:TV LOKAL
@@ -187,6 +205,7 @@ http://210.210.155.35/qwr9ew/s/s41/index.m3u8
 #http://geocities.ws/ariev7xx/moji.m3u8
 #https://idcloud.tech/moji_vid.m3u8
 #https://geocities.ws/ariev7xx/moji.m3u8
+#http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
 
 #https://www.ochanneltv.com/
 #EXTGRP:TV LOKAL
@@ -201,9 +220,18 @@ http://210.210.155.35/qwr9ew/s/s41/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
+#https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.m3u8
+
 #https://idcloud.tech/rcti_vid.m3u8
-https://mooncang.my.id/api/rplus/ch.m3u8?id=rcti
+#https://mooncang.my.id/api/rplus/ch.m3u8?id=rcti
+#https://rcti-azure.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8
 
 #https://www.mnctv.com/
 #EXTGRP:TV LOKAL
@@ -213,7 +241,16 @@ https://mooncang.my.id/api/rplus/ch.m3u8?id=rcti
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
+#https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.m3u8
+
 #https://mooncang.my.id/api/rplus/ch.m3u8?id=mnctv
+#https://mnctv-azure.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8
 
 #EXTGRP:TV LOKAL
 #EXTINF:0 tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/GTV.jpg",GTV
@@ -222,6 +259,14 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
+#https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.m3u8
+
 #https://mooncang.my.id/api/rplus/ch.m3u8?&id=gtv
 
 #EXTGRP:TV LOKAL
@@ -245,6 +290,7 @@ https://mooncang.my.id/api/rplus/ch.m3u8?id=inews
 #https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #http://iptvid.my.id/hmm/transtv.m3u8
+#http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/02.m3u8
 
 #https://www.trans7.co.id/
 #EXTGRP:TV LOKAL
@@ -255,6 +301,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #http://iptvid.my.id/hmm/trans7.m3u8
+#http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/02.m3u8
 
 ######## NET MEDIATAMA ########
 
@@ -264,6 +311,14 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
+#https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.m3u8
+
 #http://rr2.dens.tv/s/s08/02.m3u8
 http://210.210.155.35/qwr9ew/s/s08/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s08/index.m3u8
@@ -277,22 +332,41 @@ http://210.210.155.35/qwr9ew/s/s08/index.m3u8
 #EXTINF:0 tvg-id="ANTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/ANTV.jpg",ANTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
+#https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.m3u8
+
 #http://rr2.dens.tv/s/s07/index.m3u8
 http://210.210.155.35/qwr9ew/s/s07/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s07/index.m3u8
 #http://iptvid.my.id/hmm/antv.m3u8
-#https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+#http://edge.linknetott.swiftserve.com/channelgroup3/cg314production/ch7/02.m3u8
 
 #https://www.tvonenews.com/
 #EXTGRP:TV LOKAL
 #EXTINF:0 tvg-id="tvOne.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/tvOne.jpg",TVONE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
+#https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6df9359238f/manifest.m3u8
+
 #http://rr2.dens.tv/s/s105/index.m3u8
 http://210.210.155.35/qwr9ew/s/s105/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s105/index.m3u8
 #http://iptvid.my.id/hmm/tvone.m3u8
-#https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
+#http://edge.linknetott.swiftserve.com/channelgroup3/cg327production/ch12/02.m3u8
+
 
 #EXTGRP:TV LOKAL
 #EXTINF:0 tvg-id="vivatelevisi.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/VTV.png",VTV (VIVA Televisi)
@@ -310,6 +384,7 @@ https://beetv.my.id/x/oxygen-vtv-gojokkk.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+
 #http://210.210.155.35/dr9445/h/h10/index.m3u8
 http://210.210.155.37/dr9445/h/h10/index.m3u8
 #https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
@@ -322,9 +397,12 @@ http://210.210.155.37/dr9445/h/h10/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+
 #http://rr2.dens.tv/h/h12/index.m3u8
 #http://210.210.155.35/qwr9ew/h/h12/index.m3u8
 #http://210.210.155.37/qwr9ew/h/h12/index.m3u8
+#http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
 
 #https://www.vidio.com/live/7230-magna-tv
 #EXTGRP:TV LOKAL
@@ -333,6 +411,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1529378054_b2692000_sleng.m3u8
+#https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8
 
 ######## OTHER ########
 
@@ -423,6 +502,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mp
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=dunialain
 https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=dunialain
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
 #https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 #https://beetv.my.id/x/usee-dunialain-gojokkk.m3u8
 
@@ -479,8 +564,7 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizke
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
+
 
 #EXTGRP:KIDS
 #EXTINF:0 tvg-id="CartoonNetworkAsia.sg" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Cartoon%20Network.jpg",Cartoon Network
@@ -530,26 +614,27 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 #EXTINF:0 tvg-id="davinciasia.de" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Da_vinci_tv_logo.svg/revision/latest/scale-to-width-down/640",Da Vinci
 https://mibitivi.xyz/sc/playhls.m3u8?tekon=skyactiv&channel=davinci
 
-#KODIPROP:inputstream.adaptive.license_key=https://cdn.thomasandi.my.id/use4/drm.php?id=dreamworks
-#https://cdn.thomasandi.my.id/use4/mulai.mpd?id=dreamworks
-
 #EXTGRP:KIDS
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/QC4whMv4/20220926-200436.png",DreamWorks
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=dreamworks
-https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=dreamworks
-#http://starshare.live:8080/live/akter995/965783/137523.ts
-#https://beetv.my.id/x/usee-dreamworks-gojokkk.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=dreamworks
+https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=dreamworks
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cdn.thomasandi.my.id/use4/drm.php?id=dreamworks
+#https://cdn.thomasandi.my.id/use4/mulai.mpd?id=dreamworks
+
+#http://starshare.live:8080/live/akter995/965783/137523.ts
+#https://beetv.my.id/x/usee-dreamworks-gojokkk.m3u8
 #http://watchlive.my.id/sa_dash_vmx/CartoonNetwork.mpd
-https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
 #https://www.transvision.co.id/
 #EXTGRP:KIDS
 #EXTINF:0 tvg-id="DuniaAnak.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Dunia%20Anak.jpg",Dunia Anak
-https://dl.dropboxusercontent.com/s/50om8kqvxhe0qb1/Dunia%20Anak.jpg
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -677,9 +762,14 @@ https://nyanv-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 #https://www.kompas.tv/
 #EXTGRP:NEWS
 #EXTINF:0 tvg-id="KompasTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Kompas%20TV.jpg",Kompas TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#https://nxanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+
 #http://rr2.dens.tv/s/s104/index.m3u8
 http://210.210.155.35/qwr9ew/s/s104/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s104/index.m3u8
+#http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/02.m3u8
 #https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 
 #https://www.metroglobe.id/live
@@ -1477,6 +1567,7 @@ http://122.248.43.138:1935/ch27/myStream/playlist.m3u8
 #EXTGRP:DAERAH
 #EXTINF:0 tvg-id="GarudaTV.id" tvg-logo="https://i.imgur.com/sXsAcZ3.png",Garuda TV
 https://ms.digdaya.tv/live/digdayatv/live.m3u8
+#http://edge.linknetott.swiftserve.com/channelgroup1/cg002production/ch45/02.m3u8
 
 #https://gprtv.id/
 #EXTGRP:DAERAH
