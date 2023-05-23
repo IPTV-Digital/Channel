@@ -1165,7 +1165,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #EXTGRP:MOVIES
 #EXTINF:0 tvg-id="CitraBioskop.id" tvg-logo="https://i.imgur.com/KK1ipNk.png",Citra Bioskop
 #https://beetv.my.id/x/vidio-citrabioskop-masihsama.m3u8
-http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/index.m3u8
 
 #http://www.ieg.id/tv-channel/citra-drama/
 #EXTGRP:MOVIES
