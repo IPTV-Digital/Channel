@@ -2518,9 +2518,11 @@ https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_mid
 
 #EXTGRP:LIFESTYLE
 #EXTINF:0 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-p_2HUJmzESc/YJYrxRZBX7I/AAAAAAAAElo/Fo643vna9k8oD1FLQ7qod66v1bX9K1LPQCLcBGAsYHQ/s720/hgtv-poster.png",HGTV
+http://edge.linknetott.swiftserve.com/channelgroup4/cg429production/ch354/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://newanv-live-cdn.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+#https://newanv-live-cdn.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
 #https://indonesiana.tv/
 #EXTGRP:LIFESTYLE
