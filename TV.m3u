@@ -2392,7 +2392,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeIn
 http://rahimahmad.site/FirstMediaX/discoveryasia.m3u8
 
 #EXTGRP:KNOWLEDGE
-#EXTINF:0 tvg-id="DiscoveryChannelIndonesia.id" tvg-logo="https://i.postimg.cc/2yhWQ5zR/20221026-003145.png",Discovery Channel
+#EXTINF:0 tvg-id="DiscoveryChannelIndonesia.id" tvg-logo="https://i.imgur.com/6nT25Bo.jpg",Discovery Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2427,14 +2427,14 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341b51b
 
 #https://www.natgeotv.com/asia
 #EXTGRP:KNOWLEDGE
-#EXTINF:0 tvg-id="NationalGeographicWildIndonesia.id" tvg-logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/content/public/573a4f5b-2130-4af7-8f90-8fe389ffd5d4",Nat Geo Wild
+#EXTINF:0 tvg-id="NationalGeographicWildIndonesia.id" tvg-logo="https://i.imgur.com/43aoQMq.jpg",Nat Geo Wild
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 #https://www.natgeotv.com/asia
 #EXTGRP:KNOWLEDGE
-#EXTINF:0 tvg-id="NationalGeographicIndonesia.id" tvg-logo="https://media.nationalgeographic.org/assets/photos/448/025/21b4a8a7-2b20-42bb-a4ef-01ae418bcb23_c5-0-195-100_r1200x630.jpg?e6197810740c9de1dc5901484ebf852712de914f",National Geographic
+#EXTINF:0 tvg-id="NationalGeographicIndonesia.id" tvg-logo="https://i.imgur.com/lRyiN34.jpg",National Geographic
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
@@ -2494,13 +2494,6 @@ http://rr3.dens.tv/s/s38/index.m3u8
 #EXTINF:0 tvg-id="densshowbiz.id" tvg-logo="http://www.dens.tv/images/channel-logo/102.jpg",Dens ShowBiz
 http://rr3.dens.tv/s/s35/index.m3u8
 
-#https://www.mncchannels.com/micro/entertainment
-#EXTGRP:LIFESTYLE
-#EXTINF:0 tvg-id="Entertainment.id" tvg-logo="https://i.imgur.com/VtBLWiv.png",Entertainment (ENT)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
-
 #EXTGRP:LIFESTYLE
 #EXTINF:0 tvg-id="FashionTVAsia.fr" tvg-logo="https://mayonnaise-media.com/wp-content/uploads/2021/04/fashiontv_logo_blue_vertical-1white.png",FashionTV Asia
 https://fashiontv-fashiontv-5-gb.lg.wurl.tv/playlist.m3u8
@@ -2524,7 +2517,7 @@ https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_mid
 #https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 
 #EXTGRP:LIFESTYLE
-#EXTINF:0 tvg-id="" tvg-logo="https://static.mncnow.id/images/channel/c9781aa2/1b21.png",HGTV
+#EXTINF:0 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-p_2HUJmzESc/YJYrxRZBX7I/AAAAAAAAElo/Fo643vna9k8oD1FLQ7qod66v1bX9K1LPQCLcBGAsYHQ/s720/hgtv-poster.png",HGTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://newanv-live-cdn.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
@@ -2550,7 +2543,7 @@ http://mooncang.my.id/api/youtube/ytl.php?url=zUahI3Pgbxk
 https://newanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
 #EXTGRP:LIFESTYLE
-#EXTINF:0 tvg-id="lifetimeasia.us" tvg-logo="https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/4/2021/03/11131921/Lifetime_Logo_Rosex500.png",Lifetime
+#EXTINF:0 tvg-id="lifetimeasia.us" tvg-logo="https://i.imgur.com/Dl2WivP.jpg",Lifetime
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
@@ -2569,9 +2562,16 @@ https://newanv-live-cdn.mncnow.id/live/eds/MNCShop/sa_dash_vmx/MNCShop.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://newanv-live-cdn.mncnow.id/live/eds/MNCShopSmart/sa_dash_vmx/MNCShopSmart.mpd
 
+#https://www.mncchannels.com/micro/entertainment
+#EXTGRP:LIFESTYLE
+#EXTINF:0 tvg-id="Entertainment.id" tvg-logo="https://i.imgur.com/ZDIVrwq.jpg",MNC Entertainment (ENT)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
+
 #https://www.mncchannels.com/micro/infotainment
 #EXTGRP:LIFESTYLE
-#EXTINF:0 tvg-id="" tvg-logo="https://static.mncnow.id/images/channel/bd9a9f43/25de.png",MNC Infotainment (IE)
+#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/npcnp6E.jpg",MNC Infotainment (IE)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://newanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
@@ -2584,7 +2584,7 @@ https://newanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfota
 https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 #EXTGRP:LIFESTYLE
-#EXTINF:0 tvg-id="" tvg-logo="https://static.mncnow.id/images/channel/856f7c31/7b7d.png",TLCTV
+#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/w2jusUK.jpg",TLC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://newanv-live-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
