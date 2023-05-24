@@ -2386,9 +2386,11 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
 #EXTGRP:KNOWLEDGE
 #EXTINF:0 tvg-id="AnimalPlanetIndonesia.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjFC9HqbMxvNN9vSd91zpfuQ0b736u9z2tyw&usqp=dCAU",Animal Planet
+http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=ccc52e94c493492773612a04fa3a1ae1:adf87643eef60a4df18d69044a970d66
-https://nyanv-live-cdn.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
 #EXTGRP:KNOWLEDGE
 #EXTINF:0 tvg-id="BBCEarthAsia.uk" tvg-logo="https://cms.bbcasia.com/sites/default/files/2021-05/Earth.jpg",BBC Earth
