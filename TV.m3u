@@ -8,6 +8,7 @@
 #https://dl.dropboxusercontent.com
 #https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/
 #https://beetv.my.id/x/
+#https://seduluran.xyz/gudangchannel/backup/
 #https://idcloud.tech/test
 #https://dukun.masuk.id/playlist
 
@@ -129,14 +130,18 @@ https://production-drm-vidio-com-event-14.akamaized.net/out/v1/88c33cc42b3b4313a
 #https://capybarastream.wapka.co/player1
 #http://www.goldentv.tech:25461/Bokep333/Bokep333/25686
 #http://103.167.167.5:8111/play/a00r/index.m3u8
-https://beetv.my.id/x/oxygen-indosiar-gojokkk.m3u8
+#https://beetv.my.id/x/oxygen-indosiar-gojokkk.m3u8
 #https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://live2.cakhia22.live/truc-tiep/
+
+http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/223
 
 #https://www.sctv.co.id/
 #EXTINF:0 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="LIVE EVENT",SCTV Live
 #http://www.goldentv.tech:25461/Bokep333/Bokep333/25688
 #http://tvnid.wapgem.com/sctv.m3u8|Referer=https://www.score808.com/
-http://insverpro.my.id/play.m3u8?id=204&key=vidio&type=hls
+#http://insverpro.my.id/play.m3u8?id=204&key=vidio&type=hls
+
+http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/198
 
 #EXTINF:0 tvg-id="MOJIOCHANNEL.Id" tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="LIVE EVENT",Moji Live
 #http://www.goldentv.tech:25461/Bokep333/Bokep333/25764
@@ -735,7 +740,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mp
 #http://tvnid.x10.mx/1/master-3.m3u8
 #http://thefirefox12537.github.io/pl_12537iptv/channels/oksigen/mentaritv.m3u8
 #https://bkad.me/mix/o2.m3u8?ch=mentaritv
-https://beetv.my.id/x/oxygen-mentaritv-gojokkk.m3u8
+#https://beetv.my.id/x/oxygen-mentaritv-gojokkk.m3u8
+
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/24
 
 #EXTGRP:KIDS
 #EXTINF:0 tvg-id="MyKidz.id" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_3onx39zj/banner_xxhdpi.jpg",My Kidz
@@ -1465,15 +1472,19 @@ https://fashiontv-fashiontv-5-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-id="FashionTVLOriginal.fr" tvg-logo="https://i.imgur.com/CGzC3fK.png",FashionTV L'Original
 #http://fashs043.cloudycdn.services/scte/sftv_adapt/sftv_1080p_chunklist.m3u8
 #http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
-https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
+#https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
 #https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg16_adaptive_v3.smil/playlist.m3u8
+
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/1963
 
 #EXTGRP:LIFESTYLE
 #EXTINF:0 tvg-id="FashionTVMidnightSecrets.fr" tvg-logo="https://i.imgur.com/lMSp60D.png",FashionTV Midnight Secrets
 #https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_ftv_midnite_k1y_27049_vidio_id_1533_hls.smil/chunklist.m3u8
-https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_midnite_secrets_adaptive.smil/media.m3u8
+#https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_midnite_secrets_adaptive.smil/media.m3u8
 #https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/1967
 
 #EXTGRP:LIFESTYLE
 #EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/xQwNQAm.jpghttps://i.imgur.com/xQwNQAm.jpg",HGTV
