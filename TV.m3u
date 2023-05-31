@@ -60,102 +60,73 @@
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://liquipedia.net/commons/images/7/75/MPL_Indonesia_Season_8_allmode.png" group-title="LIVE EVENT",MPL ID
+#EXTGRP:LIVE EVENT
+#EXTINF:-1 tvg-id="" tvg-logo="https://liquipedia.net/commons/images/7/75/MPL_Indonesia_Season_8_allmode.png",MPL ID
 #https://devds.site/api/youlive.m3u8?v=CEXDwBp1VrQ
-https://serigalangit.silpianingsih69.workers.dev/astvstreaming/@MPLIndonesia/master.m3u8
+#https://serigalangit.silpianingsih69.workers.dev/astvstreaming/@MPLIndonesia/master.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAH42dFvwzKke8dIBPxeeN5E6XGoR0Xpd3ZA&usqp=CAU" group-title="LIVE EVENT",AFF CUP 2022 server1
+#EXTGRP:LIVE EVENT
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAH42dFvwzKke8dIBPxeeN5E6XGoR0Xpd3ZA&usqp=CAU",AFF CUP 2022 server1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f5158194cc4044e699d0df01772f2212:072e611a383a2d1e3d4d8ea19e016a71
 https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
 
-#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAH42dFvwzKke8dIBPxeeN5E6XGoR0Xpd3ZA&usqp=CAU" group-title="LIVE EVENT",AFF CUP 2022 server2
+#EXTGRP:LIVE EVENT
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAH42dFvwzKke8dIBPxeeN5E6XGoR0Xpd3ZA&usqp=CAU",AFF CUP 2022 server2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=deb6c84db4dc4578bdaa61e965b3424c:b2e6fff24da67654af548fe61aa6bd5a
 https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
 
-#EXTINF:0 tvg-id="live1.id" tvg-logo="https://i.postimg.cc/rFdKQQtV/20220821-043541-picsay.png" group-title="LIVE EVENT",laga Timnas
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=12173
-https://prod-drm-timnas-event-vidio-com-v2.akamaized.net/out/v1/37083cbe466e4add8189fe65b9c73aa4/index.mpd
-#https://production-drm-vidio-com-event-20.akamaized.net/out/v1/c9b649230e124e86b9fab05712b249e2/index.mpd
-
-#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/briliga1.jpg" group-title="LIVE EVENT",BRI Liga 1
-#https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip1-720.m3u8
-#http://golive.yn.lt/live/liga1/01.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/briliga1.jpg" group-title="LIVE EVENT",BRI Liga 2
-#https://hls3.04lv.com/live/L1287517.m3u8?txSecret=c9e2590593a6736dcefcc9e212a986ca&txTime=63DA2F38&_s=stream
-#http://golive.yn.lt/live/liga1/05.m3u8
-
-#EXTINF:-1 tvg-id="briliga1.id" tvg-logo="https://i.postimg.cc/J4t1R01P/20221206-044936.png" group-title="LIVE EVENT",[15.00] PERSIK Kediri vs RANS Nusantara - BRI Liga 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=9786
-#https://mooncang.my.id/api/vidio/ch.mpd?id=9786
-
-#EXTINF:-1 tvg-id="briliga1.id" tvg-logo="https://i.postimg.cc/J4t1R01P/20221206-044936.png" group-title="LIVE EVENT",[15.00] PERSIB Bandung vs Arema FC - BRI Liga 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=9308
-#https://mooncang.my.id/api/vidio/ch.mpd?id=9308
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://bystream.my.id/apaantuh/briliga1
 
+#EXTGRP:LIVE EVENT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8f9a85ba8cd5d135b9ef7e6bd4721fef:fce827a829e836cc4f93e735a47d8205
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncbw9qHF/bri-liga-1.jpg" group-title="LIVE EVENT",Bri Liga 1 A
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/ncbw9qHF/bri-liga-1.jpg",Bri Liga 1 A
 https://production-drm-vidio-com-event-7.akamaized.net/out/v1/fb3777ee16104dcd8722bb42560cef6f/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://bystream.my.id/apaantuh/liga1bri
-
+#EXTGRP:LIVE EVENT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=142b8b882fc06a2e3ec0d0e454a5fa21:c2fae79e079339de27f6a2ace46e303b
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncbw9qHF/bri-liga-1.jpg" group-title="LIVE EVENT",Bri Liga 1 B
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/ncbw9qHF/bri-liga-1.jpg",Bri Liga 1 B
 https://production-drm-vidio-com-event-8.akamaized.net/out/v1/5bfe18929905440498f6eb7504c4028f/index.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxRs9gbzlB2AsEJ8i8VxgX0zO4ZGuNdhxRyQ&usqp=CAU" group-title="LIVE EVENT",Ligue
+#EXTGRP:LIVE EVENT
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxRs9gbzlB2AsEJ8i8VxgX0zO4ZGuNdhxRyQ&usqp=CAU",Ligue
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=53282f0d6323358ba474fe16c37d4843:2b20f14f78f8efbc6df2d1cba2c72b5d
 https://production-drm-vidio-com-event-12.akamaized.net/out/v1/d43b8328b95d498aae5df88fd77f6646/index.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxRs9gbzlB2AsEJ8i8VxgX0zO4ZGuNdhxRyQ&usqp=CAU" group-title="LIVE EVENT",Laliga
+#EXTGRP:LIVE EVENT
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxRs9gbzlB2AsEJ8i8VxgX0zO4ZGuNdhxRyQ&usqp=CAU",Laliga
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=1ba9375d00cdc633df8241b7549bb28b:49d3bd77fde69b6a8bdb6b6826fc1ab6
 https://production-drm-vidio-com-event-14.akamaized.net/out/v1/88c33cc42b3b4313a13be94c3992978f/index.mpd
 
-
-#EXTINF:0 tvg-id="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="LIVE EVENT",INDOSIAR Live
-#http://tvnid.wapgem.com/indosiar.m3u8|Referer=https://www.score808.com/
-#https://hls3.04lv.com/live/L126257501.m3u8?txSecret=8bd21c5a3d45b97836c06d85f7cc5041&txTime=63CF9E10&_s=stream
-#https://hls3.04lv.com/live/H13356983.m3u8?txSecret=73f23269cef83b6a4ad15aa909f8ad3d&txTime=63F213F0&_s=stream
-#https://capybarastream.wapka.co/player1
-#http://www.goldentv.tech:25461/Bokep333/Bokep333/25686
-#http://103.167.167.5:8111/play/a00r/index.m3u8
-https://beetv.my.id/x/oxygen-indosiar-gojokkk.m3u8
-#https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://live2.cakhia22.live/truc-tiep/
+#EXTGRP:LIVE EVENT
+#EXTINF:0 tvg-id="Indosiar.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Indosiar.jpg",INDOSIAR Live
 https://iptvok.my.id/pi/index.m3u8?id=205
 
 #https://www.sctv.co.id/
-#EXTINF:0 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="LIVE EVENT",SCTV Live
-#http://www.goldentv.tech:25461/Bokep333/Bokep333/25688
-#http://tvnid.wapgem.com/sctv.m3u8|Referer=https://www.score808.com/
-http://insverpro.my.id/play.m3u8?id=204&key=vidio&type=hls
+#EXTGRP:LIVE EVENT
+#EXTINF:0 tvg-id="SCTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/SCTV.jpg",SCTV Live
 https://iptvok.my.id/pi/index.m3u8?id=204
 
-#EXTINF:0 tvg-id="MOJIOCHANNEL.Id" tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="LIVE EVENT",Moji Live
-#http://www.goldentv.tech:25461/Bokep333/Bokep333/25764
-#http://insverpro.my.id/play.m3u8?id=206&key=vidio&type=hls
-#http://javahome.my.id:9090/play/do8jBLP2kjOtczXd30khId4SNptgwqMK_-tTEYELHtk/ts
-https://bit.ly/playlist-moji
+#EXTGRP:LIVE EVENT
+#EXTINF:0 tvg-id="MOJIOCHANNEL.Id" tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg",Moji Live
+https://iptvok.my.id/pi/index.m3u8?id=206
 
-
-#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://s.id/1d0yU" group-title="LIVE EVENT",RCTI Live
+#EXTGRP:LIVE EVENT
+#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/RCTI.jpg",RCTI Live
 #http://103.167.167.5:8111/play/a01c/index.m3u8
-https://anevi-live-channel-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2-avc1_2499968=3.m3u8
-#http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683099&extension=ts&play_token=RmFK3j6FUm
+#https://anevi-live-channel-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2-avc1_2499968=3.m3u8
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683099&extension=ts&play_token=RmFK3j6FUm
+
+#EXTGRP:LIVE EVENT
+#EXTINF:0 tvg-id="INews.id" tvg-logo="https://app1-oxygen.mm.oxygen.id/oxygentv/assets/upload/channel/tvlogo_inews.png",INEWS Live
+#http://iptvid.my.id/hmm/inews.m3u8
+#https://mooncang.my.id/api/rplus/ch.m3u8?id=inews
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="LIVE EVENT",
 
@@ -666,8 +637,8 @@ https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6856b8d2390016b9c47b6f
 
 #EXTGRP:KIDS
 #EXTINF:0 tvg-id="Cbeebies.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiT8qA-PpCdJR6h7CVHhb3Qtks0aKBGu2oYw&6usqp=CAU",Cbeebies BBC
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=194891b41223a5f1ec2beff1c95e2f53:eeb1fb2ec011f9563653495f9ac427b1
 https://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
 #EXTGRP:KIDS
@@ -1486,11 +1457,13 @@ http://rr3.dens.tv/s/s35/index.m3u8
 
 #EXTGRP:LIFESTYLE
 #EXTINF:0 tvg-id="FashionTVAsia.fr" tvg-logo="https://i.ibb.co/WtQswcD/Fashiontv-hometv.jpg",FashionTV Asia
-https://fashiontv-fashiontv-5-gb.lg.wurl.tv/playlist.m3u8
+#https://fashiontv-fashiontv-5-gb.lg.wurl.tv/playlist.m3u8
 #https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #https://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/playlist.m3u8
 #https://production-premium-fashiontv-vidio.akamaized.net/fashion/_definst_/ftv_pg13_adaptive_v3.smil/playlist.m3u8
 #https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg13_adaptive.smil/media.m3u8
+
+https://iptvok.my.id/pi/index.m3u8?id=6511
 
 #EXTGRP:LIFESTYLE
 #EXTINF:0 tvg-id="FashionTVLOriginal.fr" tvg-logo="https://i.imgur.com/CGzC3fK.png",FashionTV L'Original
@@ -1499,6 +1472,7 @@ https://fashiontv-fashiontv-5-gb.lg.wurl.tv/playlist.m3u8
 #https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
 #https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg16_adaptive_v3.smil/playlist.m3u8
 
+#https://iptvok.my.id/pi/index.m3u8?id=6507
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/1963
 
 #EXTGRP:LIFESTYLE
@@ -1508,6 +1482,7 @@ http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/1963
 #https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_midnite_secrets_adaptive.smil/media.m3u8
 #https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 
+#https://iptvok.my.id/pi/index.m3u8?id=6504
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/1967
 
 #EXTGRP:LIFESTYLE
@@ -1886,9 +1861,9 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 https://tv.rodja.live/aliman/ngrp:HD_all/playlist.m3u8
 
 #EXTGRP:RELIGIOUS
-#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/1rtXcFR/Alquran-hometv.jpg",AL QURAN AL KAREEM
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/1rtXcFR/Alquran-hometv.jpg",Al Quran Al Kareem TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=67fe3ac3ca111c9bdd6e8480091dc13c:7d05fb1ff7705c1e452ff7e1b841a1b8
 https://nyanv-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 
 #http://arraudhah-sekumpul.com/
@@ -1938,8 +1913,8 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #EXTGRP:RELIGIOUS
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/qJ1fT9f/Ewtn-hometv.jpg",EWTN
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb2393dc078c4b708cce148304db1ea7:78437d7ccfe7a3a220c53180eb5bdeb1
 https://nyanv-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
 
 #https://fatwatv.id/
@@ -2002,8 +1977,8 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856f08326c016f557be28
 #
 #EXTGRP:RELIGIOUS
 #EXTINF:0 tvg-id="Life.id" tvg-logo="https://i.ibb.co/cT9ztWc/Life-hometv.jpg",Life
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cdd9eab3335c9abd97e27d89852d8ee5:1a88565a73164fd886dd0e7fe66059b8
 https://nyanv-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 
 #https://madani.tv/
@@ -2051,8 +2026,8 @@ https://h1.intechmedia.net/intech/ch5.m3u8
 #https://www.mncchannels.com/micro/Muslim-TV
 #EXTGRP:RELIGIOUS
 #EXTINF:0 tvg-id="MuslimTV.id" tvg-logo="https://i.ibb.co/JjbBHND/Muslim-tv-hometv.jpg",Muslim TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eefa1c34afba72f8fe902b061632528f:334cde07f6ebe092c0ae0521591d73cf
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
 #https://nabawi.tv/
@@ -2085,8 +2060,8 @@ https://hls.youtb.workers.dev/channel/UCotIkyDFzztbSm21GNGsK9w.m3u8
 #https://reformed21.tv/
 #EXTGRP:RELIGIOUS
 #EXTINF:0 tvg-id="Reformed21.id" tvg-logo="https://i.ibb.co/6mDhnNw/Reformed-hometv.jpg",Reformed 21
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1acfe74d40e91e0368324b074c256bab:f3211e3f8079a8584ac77afda2b0e119
 https://nyanv-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 
 #https://rodja.tv/
@@ -2115,8 +2090,8 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
 #https://tawaf.tv/
 #EXTGRP:RELIGIOUS
 #EXTINF:0 tvg-id="TawafTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/TAWAF.png",Tawaf TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=552bc18038d025c26ead432fa521f83a:beab0589d5f15d4a56278c7df913b263
 https://nyanv-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 
 #
@@ -2133,8 +2108,8 @@ https://live.mana2.my/TVAH/index.m3u8?organizationId=196288014&suiteItemId=19629
 #EXTINF:0 tvg-id="TV9Nusantara.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/TV9.jpg",TV 9 Nusantara
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce1a653fafa780cd4a8747c08872e3ab:d83bcf72b3f5a3d09674602b06caaa71
 #https://nyanv-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 
 #https://tvmu.tv/
@@ -2144,8 +2119,8 @@ https://tvmu.siar.us/tvmu/live/playlist.m3u8
 #https://o1.siar.us/tvmu/live/chunks.m3u8
 #https://o1.siar.us/tvmu/live/chunks.m3u8?nimblesessionid=273098
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fa7625e3470d5e9429f64150614f9a5:c495ad0e82e2266fd207934327c71ce3
 #https://nyanv-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
 
 #https://mui.or.id/
