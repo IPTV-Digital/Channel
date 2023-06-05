@@ -120,14 +120,20 @@ https://bit.ly/playlist-moji
 
 #EXTGRP:LIVE EVENT
 #EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/RCTI.jpg",RCTI Live
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #http://103.167.167.5:8111/play/a01c/index.m3u8
 #https://anevi-live-channel-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2-avc1_2499968=3.m3u8
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683099&extension=ts&play_token=RmFK3j6FUm
+http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
+#http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683099&extension=ts&play_token=RmFK3j6FUm
 
 #EXTGRP:LIVE EVENT
 #EXTINF:0 tvg-id="INews.id" tvg-logo="https://app1-oxygen.mm.oxygen.id/oxygentv/assets/upload/channel/tvlogo_inews.png",INEWS Live
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #http://iptvid.my.id/hmm/inews.m3u8
 #https://mooncang.my.id/api/rplus/ch.m3u8?id=inews
+http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="LIVE EVENT",
 
@@ -206,15 +212,19 @@ http://210.210.155.35/qwr9ew/s/s41/index.m3u8
 
 #EXTGRP:TV LOKAL
 #EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/RCTI.jpg",RCTI
+#EXTVLCOPT:http-user-agent=android-R+
+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://idcloud.tech/rcti_vid.m3u8
 #https://mooncang.my.id/api/rplus/ch.m3u8?id=rcti
 #https://rcti-azure.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8
+http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -226,8 +236,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #https://www.mnctv.com/
 #EXTGRP:TV LOKAL
 #EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/MNC%20TV.jpg",MNC TV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://mooncang.my.id/api/rplus/ch.m3u8?id=mnctv
 #https://mnctv-azure.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8
+#http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
@@ -244,7 +257,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTGRP:TV LOKAL
 #EXTINF:0 tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/GTV.jpg",GTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://mooncang.my.id/api/rplus/ch.m3u8?&id=gtv
+#http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
@@ -261,14 +277,17 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTGRP:TV LOKAL
 #EXTINF:0 tvg-id="INews.id" tvg-logo="https://app1-oxygen.mm.oxygen.id/oxygentv/assets/upload/channel/tvlogo_inews.png",INEWS
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #http://iptvid.my.id/hmm/inews.m3u8
 #https://mooncang.my.id/api/rplus/ch.m3u8?id=inews
+http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 ######## TRANS MEDIA ########
 
