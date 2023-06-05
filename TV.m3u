@@ -135,6 +135,8 @@ http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 #https://mooncang.my.id/api/rplus/ch.m3u8?id=inews
 http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
+
+
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="LIVE EVENT",
 
 
@@ -581,6 +583,7 @@ https://cdn09jtedge.indihometv.com/dvr/139/rrinet/manifest.mpd
 #==============#
 
 
+
 #EXTGRP:KIDS
 #EXTINF:0 tvg-id="AnimaxAsia.sg" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Animax.png",Animax
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -674,12 +677,13 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg332production/ch371/index.
 
 #EXTGRP:KIDS
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ytimg.com/vi/cRTl-lInUAo/maxresdefault.jpg",DreamWorks
-#http://starshare.live:8080/live/akter995/965783/137523.ts
-#https://beetv.my.id/x/usee-dreamworks-gojokkk.m3u8
+http://starshare.live:8080/live/akter995/965783/137523.ts
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=111252&extension=ts&play_token=TQ6cftyhX8
+https://beetv.my.id/x/usee-dreamworks-gojokkk.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 #https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1157,9 +1161,9 @@ http://210.210.155.37/uq2663/h/h194/index.m3u8
 #EXTGRP:MOVIES
 #EXTINF:0 tvg-id="GEM.sg" tvg-logo="https://i.imgur.com/bZ6k1nA.png",Sony GEM
 #https://cdn09jtedge.indihometv.com/dvr/139/sgem/manifest.mpd
-https://sub.home-tv.my.id/first/sgem.m3u8
+#https://sub.home-tv.my.id/first/sgem.m3u8
 
-#http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -1184,8 +1188,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #EXTGRP:MOVIES
 #EXTINF:0 tvg-id="ParamountNetwork.id" tvg-logo="https://i.ibb.co/zrxvFLV/images-6-modified.png",Paramount Network
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/index.m3u8
-http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3004
+http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/index.m3u8
+#http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3004
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=paramount
