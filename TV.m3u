@@ -62,11 +62,11 @@
 
 #EXTGRP:LIVE EVENT
 #EXTINF:0 tvg-id="Indosiar.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Indosiar.jpg",Bola Live
-#http://tvnid.wapgem.com/indosiar.m3u8|Referer=https://www.score808.com/
-#https://hls3.04lv.com/live/L126257501.m3u8?txSecret=8bd21c5a3d45b97836c06d85f7cc5041&txTime=63CF9E10&_s=stream
-#https://hls3.04lv.com/live/H13356983.m3u8?txSecret=73f23269cef83b6a4ad15aa909f8ad3d&txTime=63F213F0&_s=stream
-#http://www.goldentv.tech:25461/Bokep333/Bokep333/25686
-#https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://live2.cakhia22.live/truc-tiep/
+http://tvnid.wapgem.com/indosiar.m3u8|Referer=https://www.score808.com/
+https://hls3.04lv.com/live/L126257501.m3u8?txSecret=8bd21c5a3d45b97836c06d85f7cc5041&txTime=63CF9E10&_s=stream
+https://hls3.04lv.com/live/H13356983.m3u8?txSecret=73f23269cef83b6a4ad15aa909f8ad3d&txTime=63F213F0&_s=stream
+http://www.goldentv.tech:25461/Bokep333/Bokep333/25686
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://live2.cakhia22.live/truc-tiep/
 
 
 
