@@ -939,7 +939,9 @@ http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3009
 #
 #EXTGRP:MOVIES
 #EXTINF:0 tvg-id="ATV.id" tvg-logo="https://images.useetv.com/box/logo_atv_small.png" group-title="MOVIES",ATV
-https://cdn09jtedge.indihometv.com/dvr/139/atv/manifest.mpd
+#https://cdn09jtedge.indihometv.com/dvr/139/atv/manifest.mpd
+https://cdn09jtedge.indihometv.com/dvr/194/atv/manifest.mpd
+http://103.152.118.53/streams/yusi/hls/atv/master.m3u8
 
 #http://www.axn-asia.com/
 #EXTGRP:MOVIES
@@ -1473,7 +1475,8 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
 #https://lejel.co.id/watch-live
 #EXTGRP:LIFESTYLE
 #EXTINF:0 tvg-id="LejelHomeShopping.id" tvg-logo="https://i.imgur.com/Yxq05Dg.png",Lejel Home Shopping
-https://devds.site/api/youlive.m3u8?v=4rXUjU8Yc1M
+#https://devds.site/api/youlive.m3u8?v=4rXUjU8Yc1M
+https://yt.ariev.workers.dev/ch/UC9q_4Ljmm0C15j25Bqx1ZOw.m3u8
 #http://mooncang.my.id/api/youtube/ytl.php?url=zUahI3Pgbxk
 
 #https://www.mncchannels.com/micro/mnclifestyle-fashion
