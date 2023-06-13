@@ -693,9 +693,14 @@ http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/24
 
 #EXTGRP:KIDS
 #EXTINF:0 tvg-id="miaomi.hk" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/1527562168_artcard-miao-mi.jpg",Miao Mi
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e179c8d2ae0ddf520b905823d417f028:327c62356a811a1c0802cf0c4f5a1d50
 https://nyanv-live-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
+
+
 
 #EXTGRP:KIDS
 #EXTINF:0 tvg-id="MyKidz.id" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_3onx39zj/banner_xxhdpi.jpg",My Kidz
