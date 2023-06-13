@@ -62,11 +62,7 @@
 
 #EXTGRP:LIVE EVENT
 #EXTINF:0 tvg-id="Indosiar.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Indosiar.jpg",Bola Live
-#http://tvnid.wapgem.com/indosiar.m3u8|Referer=https://www.score808.com/
-#https://hls3.04lv.com/live/L126257501.m3u8?txSecret=8bd21c5a3d45b97836c06d85f7cc5041&txTime=63CF9E10&_s=stream
-#https://hls3.04lv.com/live/H13356983.m3u8?txSecret=73f23269cef83b6a4ad15aa909f8ad3d&txTime=63F213F0&_s=stream
-#http://www.goldentv.tech:25461/Bokep333/Bokep333/25686
-#https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://live2.cakhia22.live/truc-tiep/
+#https://live4.cakhia18.com/
 #https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@lusd111/playlist.m3u8|Referer=https://live4.cakhia18.com/truc-tiep/
 #http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/223
 #http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/197
@@ -150,7 +146,6 @@ http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/23
 #EXTGRP:TV LOKAL
 #EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/RCTI.jpg",RCTI
 #EXTVLCOPT:http-user-agent=android-R+
-
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://idcloud.tech/rcti_vid.m3u8
 #https://mooncang.my.id/api/rplus/ch.m3u8?id=rcti
@@ -434,7 +429,7 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #http://www.ieg.id/tv-channel/citra-dangdut/
 #EXTGRP:TV LOKAL
-#EXTINF:0 tvg-id="CitraDangdut.id" tvg-logo="https://i.imgur.com/77KYgbz.png",Citra Dangdut (NO)
+#EXTINF:0 tvg-id="CitraDangdut.id" tvg-logo="https://i.imgur.com/77KYgbz.png",Citra Dangdut
 #https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 #https://mibitivi.xyz/sc/playhls.m3u8?tekon=skyactiv&channel=citradangdut
 #http://103.102.15.12:1111/stream/channelid/2052624909?ticket=B8CE7A4386718673CFBC04238D28056F544DD703&profile=pass
@@ -448,9 +443,7 @@ https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
 
 #https://www.transvision.co.id/
 #EXTGRP:TV LOKAL
-#EXTINF:0 tvg-id="SeruChannel.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Channel%20Seru!.jpg",Seru! Channel (NO)
-#https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
-
+#EXTINF:0 tvg-id="SeruChannel.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Channel%20Seru!.jpg",Seru! Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -644,11 +637,11 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cdc32eb0
 #http://www.ieg.id/tv-channel/hip-hip-horee/
 #EXTGRP:KIDS
 #EXTINF:0 tvg-id="HipHipHoree.id" tvg-logo="https://i.imgur.com/jEFjczI.png",Hip Hip Horee! (NO)
-https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
+#https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #http://www.ieg.id/tv-channel/horee/
 #EXTGRP:KIDS
-#EXTINF:0 tvg-id="Horee.id" tvg-logo="https://i.imgur.com/S4aoHg8.png",Horee! (NO)
+#EXTINF:0 tvg-id="Horee.id" tvg-logo="https://i.imgur.com/S4aoHg8.png",Horee!
 http://edge.linknetott.swiftserve.com/channelgroup4/cg437production/ch375/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -685,11 +678,8 @@ http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/24
 
 #EXTGRP:KIDS
 #EXTINF:0 tvg-id="miaomi.hk" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/1527562168_artcard-miao-mi.jpg",Miao Mi
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=e179c8d2ae0ddf520b905823d417f028:327c62356a811a1c0802cf0c4f5a1d50
-
 https://nyanv-live-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 
 #EXTGRP:KIDS
@@ -892,7 +882,6 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b9
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.combipart1.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
@@ -940,7 +929,6 @@ http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3009
 #EXTGRP:MOVIES
 #EXTINF:0 tvg-id="ATV.id" tvg-logo="https://images.useetv.com/box/logo_atv_small.png" group-title="MOVIES",ATV
 #https://cdn09jtedge.indihometv.com/dvr/139/atv/manifest.mpd
-https://cdn09jtedge.indihometv.com/dvr/194/atv/manifest.mpd
 http://103.152.118.53/streams/yusi/hls/atv/master.m3u8
 
 #http://www.axn-asia.com/
@@ -1020,6 +1008,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #EXTGRP:MOVIES
 #EXTINF:0 tvg-id="FTV.id" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_yb5x8jh7/banner_xxhdpi.jpg",FTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.my.id/license-proxy-widevine/cenc/?specConform=true
 #KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=FTV&pw=ariev7xx
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(5cd2bf10-1ac0-4fa7-9543-3520f01b3378)/manifest.mpd
 
@@ -1148,7 +1137,7 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/index.
 
 #EXTGRP:MOVIES
 #EXTINF:0 tvg-id"rockextreme.sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest?cb=20221212024829",Rock Action
-http://210.210.155.35/dr9445/h/h15/index.m3u8
+#http://210.210.155.35/dr9445/h/h15/index.m3u8
 
 #http://edge.linknetott.swiftserve.com/channelgroup2/cg255production/ch330/index.m3u8
 
@@ -1158,11 +1147,11 @@ http://210.210.155.35/dr9445/h/h15/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=a6d8da647fc02d64463e38e222f268b0:f4d533e9d51a2aa66af7aaf27f54f92a
-#https://etslive-2-vidio-com.akamaized.net/drm/dash/8121_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/drm/dash/8121_stream.mpd
 
 #EXTGRP:MOVIES
 #EXTINF:0 tvg-id"rockentertainment.sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/ROCK_entertainment_UHD.png/revision/latest?cb=20210911032942",Rock Entertainment
-http://210.210.155.35/dr9445/h/h16/index.m3u8
+#http://210.210.155.35/dr9445/h/h16/index.m3u8
 
 #http://edge.linknetott.swiftserve.com/channelgroup2/cg257production/ch335/index.m3u8
 
@@ -1172,7 +1161,7 @@ http://210.210.155.35/dr9445/h/h16/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=14a5992ac11cb08303ec82c34e775025:e97307a38fe832c62d3f486077745c80
-#https://etslive-2-vidio-com.akamaized.net/drm/dash/8120_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/drm/dash/8120_stream.mpd
 
 #EXTGRP:MOVIES
 #EXTINF:0 tvg-id="thrill.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg",Thrill
@@ -1244,28 +1233,10 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg436production/ch378/index.
 #KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=cdrama
 #https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=cdrama
 
-#http://www.ieg.id/tv-channel/citra-drama-plus/
-#EXTGRP:MOVIES
-#EXTINF:0 tvg-id="CitraDramaPlus.id" tvg-logo="https://i.imgur.com/zIpX0v8.png",Citra Drama Plus (NO)
-https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
-
-#EXTGRP:MOVIES
-#EXTINF:0 tvg-id="HaariDrama.id" tvg-logo="https://i.imgur.com/qMZvj2f.png",Haari Drama (NO)
-https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
-
-#EXTGRP:MOVIES
-#EXTINF:0 tvg-id="HaariMovie.id" tvg-logo="https://i.imgur.com/ywAjzqJ.png",Haari Movie (NO)
-https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
-
 #https://www.eyeplus.co.id/
 #EXTGRP:MOVIES
 #EXTINF:0 tvg-id="SinemaIndonesia.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/SINEMA%20INDONESIA.png",Sinema Indonesia (NO)
 https://beetv.my.id/x/oxygen-sinemaindonesia-masihsama.m3u8
-
-#https://www.eyeplus.co.id/
-#EXTGRP:MOVIES
-#EXTINF:0 tvg-id="SinemaIndonesiaX.id" tvg-logo="https://i.imgur.com/jt8M3GL.png",Sinema Indonesia X (NO)
-https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 
 
@@ -1431,10 +1402,10 @@ http://rr3.dens.tv/s/s35/index.m3u8
 #https://fashiontv-fashiontv-5-gb.lg.wurl.tv/playlist.m3u8
 #https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #https://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/playlist.m3u8
-#https://production-premium-fashiontv-vidio.akamaized.net/fashion/_definst_/ftv_pg13_adaptive_v3.smil/playlist.m3u8
+https://production-premium-fashiontv-vidio.akamaized.net/fashion/_definst_/ftv_pg13_adaptive_v3.smil/playlist.m3u8
 #https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg13_adaptive.smil/media.m3u8
 
-https://iptvok.my.id/pi/index.m3u8?id=6511
+#https://iptvok.my.id/pi/index.m3u8?id=6511
 
 #EXTGRP:LIFESTYLE
 #EXTINF:0 tvg-id="FashionTVLOriginal.fr" tvg-logo="https://i.imgur.com/CGzC3fK.png",FashionTV L'Original
@@ -1475,8 +1446,7 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
 #https://lejel.co.id/watch-live
 #EXTGRP:LIFESTYLE
 #EXTINF:0 tvg-id="LejelHomeShopping.id" tvg-logo="https://i.imgur.com/Yxq05Dg.png",Lejel Home Shopping
-#https://devds.site/api/youlive.m3u8?v=4rXUjU8Yc1M
-https://yt.ariev.workers.dev/ch/UC9q_4Ljmm0C15j25Bqx1ZOw.m3u8
+https://devds.site/api/youlive.m3u8?v=4rXUjU8Yc1M
 #http://mooncang.my.id/api/youtube/ytl.php?url=zUahI3Pgbxk
 
 #https://www.mncchannels.com/micro/mnclifestyle-fashion
@@ -2057,8 +2027,8 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 #EXTINF:0 tvg-id="ChannelJowo.id" tvg-logo="https://i.imgur.com/fksxiaS.png",Channel Jowo (NO)
 #http://103.167.167.5:8111/play/a00f/index.m3u8
 #https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
-http://103.102.15.12:1111/stream/channelid/1704468301?ticket=0C0A58B93FA27549D39873799C08CF6376D41AEA&profile=pass
-#http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/2997
+#http://103.102.15.12:1111/stream/channelid/1704468301?ticket=0C0A58B93FA27549D39873799C08CF6376D41AEA&profile=pass
+http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/2997
 
 #
 #EXTGRP:DAERAH
