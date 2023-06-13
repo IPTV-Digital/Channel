@@ -34,6 +34,21 @@
 #http://23.147.64.113/movies/
 #https://fmmovie.ferymaleharmx.workers.dev/
 
+
+#https://devds.site/api/youlive.m3u8?v=$youtube_video_id_asli
+#https://devds.site/api/youlive.m3u8?v=94jNXxH8U8c
+
+#https://ythls.onrender.com/video/$youtube_video_id_asli.m3u8
+#https://ythls.onrender.com/video/94jNXxH8U8c.m3u8
+
+#https://yt2.ariev.workers.dev/watch/$youtube_video_id_asli.m3u8
+#https://yt2.ariev.workers.dev/watch/94jNXxH8U8c.m3u8
+
+#https://commentpicker.com/youtube-channel-id.php
+#https://yt.ariev.workers.dev/ch/$youtube_video_id_custome.m3u8
+#https://yt.ariev.workers.dev/ch/UCoRXPcv8XK5fAplLbk9PTww.m3u8
+
+
 #view-source:https://askarsetiwan.blogspot.com/p/donasi-astv-streaming.html
 
 #EXTM3U
@@ -1446,8 +1461,9 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
 #https://lejel.co.id/watch-live
 #EXTGRP:LIFESTYLE
 #EXTINF:0 tvg-id="LejelHomeShopping.id" tvg-logo="https://i.imgur.com/Yxq05Dg.png",Lejel Home Shopping
-https://devds.site/api/youlive.m3u8?v=4rXUjU8Yc1M
+#https://devds.site/api/youlive.m3u8?v=4rXUjU8Yc1M
 #http://mooncang.my.id/api/youtube/ytl.php?url=zUahI3Pgbxk
+https://yt.ariev.workers.dev/ch/UC9q_4Ljmm0C15j25Bqx1ZOw.m3u8
 
 #https://www.mncchannels.com/micro/mnclifestyle-fashion
 #EXTGRP:LIFESTYLE
