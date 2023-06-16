@@ -971,7 +971,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #https://www.transvision.co.id/
 #EXTGRP:MOVIES
-#EXTINF:0 tvg-id="BioskopIndonesia.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Bioskop%20Indonesia.jpg",Bioskop Indonesia
+#EXTINF:0 tvg-id="BioskopIndonesia.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Bioskop-Indonesia.jpg",Bioskop Indonesia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1439,7 +1439,7 @@ https://fashiontv-fashiontv-5-gb.lg.wurl.tv/playlist.m3u8
 #https://iptvok.my.id/pi/index.m3u8?id=6511
 
 #EXTGRP:LIFESTYLE
-#EXTINF:0 tvg-id="FashionTVLOriginal.fr" tvg-logo="https://i.imgur.com/CGzC3fK.png",FashionTV L'Original
+#EXTINF:0 tvg-id="FashionTVLOriginal.fr" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/FashionTV-L'Original.jpg",FashionTV L'Original
 #http://fashs043.cloudycdn.services/scte/sftv_adapt/sftv_1080p_chunklist.m3u8
 #http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
 #https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
@@ -1449,7 +1449,7 @@ https://fashiontv-fashiontv-5-gb.lg.wurl.tv/playlist.m3u8
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/1963
 
 #EXTGRP:LIFESTYLE
-#EXTINF:0 tvg-id="FashionTVMidnightSecrets.fr" tvg-logo="https://i.imgur.com/lMSp60D.png",FashionTV Midnight Secrets
+#EXTINF:0 tvg-id="FashionTVMidnightSecrets.fr" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Fashion-TV-Midnight-Secrets.jpg",FashionTV Midnight Secrets
 #https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_ftv_midnite_k1y_27049_vidio_id_1533_hls.smil/chunklist.m3u8
 #https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_midnite_secrets_adaptive.smil/media.m3u8
