@@ -1039,8 +1039,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #EXTGRP:MOVIES
 #EXTINF:0 tvg-id="FTV.id" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_yb5x8jh7/banner_xxhdpi.jpg",FTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
 #KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=FTV&pw=ariev7xx
+#KODIPROP:inputstream.adaptive.license_key=https://ftvmaxstream.funds-kawaii.workers.dev/
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(5cd2bf10-1ac0-4fa7-9543-3520f01b3378)/manifest.mpd
 
 #https://www.k-vision.tv/
@@ -1163,7 +1163,7 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/index.
 #https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=paramount
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.my.id/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://maxpramount.funds-kawaii.workers.dev/
 #https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f092c2ba-4baa-4ebb-bd60-1cfb1af07da5)/manifest.mpd
 
 #EXTGRP:MOVIES
