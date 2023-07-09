@@ -80,15 +80,12 @@
 #https://live4.cakhia18.com/
 #https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@lusd111/playlist.m3u8|Referer=https://live4.cakhia18.com/truc-tiep/
 #http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/223
-http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/197
+#http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/197
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/drm?pw=ariev7xx&id=205
-
-
-https://ariev2.vercel.app/api/play.mpd?id=205&pw=ariev7xx
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/drm?pw=update1&id=205
+https://ariev2.vercel.app/api/play.mpd?id=205&pw=update1
 
 
 #===============#
@@ -137,7 +134,11 @@ http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 #http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 #https://cdn09jtedge.indihometv.com/dvr/139/sctv/manifest.mpd
 #http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/198
-http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/198
+#http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/198
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/drm?pw=update1&id=204
+https://ariev2.vercel.app/api/play.mpd?id=204&pw=update1
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
