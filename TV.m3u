@@ -1037,6 +1037,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
+#https://www.vnews.click/
+#EXTGRP:MOVIES
+#EXTINF:0 tvg-id="FicomChannel.id" tvg-logo="https://i.ibb.co/nqX0CBx/f-1.png",Ficom Channel
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
+rtsp://v3.siar.us/ficomchannel/live
+
 #EXTGRP:MOVIES
 #EXTINF:0 tvg-id="FTV.id" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_yb5x8jh7/banner_xxhdpi.jpg",FTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1432,13 +1438,15 @@ http://210.210.155.37/x6bnqe/s/s38/index.m3u8
 #http://www.dens.tv/
 #EXTGRP:LIFESTYLE
 #EXTINF:0 tvg-id="DensLifeStyle.id" tvg-logo="https://www.dens.tv/images/channel-logo/42.jpg",Dens Life & Style
-https://op-group1-swiftservesd-1.dens.tv/s/s65/S1/mnf.m3u8
+https://op-group1-swiftservesd-1.dens.tv/s/s65/index.m3u8
 #http://210.210.155.37/x6bnqe/s/s65/index2.m3u8
 
 #http://www.dens.tv/
 #EXTGRP:LIFESTYLE
 #EXTINF:0 tvg-id="densshowbiz.id" tvg-logo="http://www.dens.tv/images/channel-logo/102.jpg",Dens ShowBiz
-http://rr3.dens.tv/s/s35/index.m3u8
+#http://rr3.dens.tv/s/s35/index.m3u8
+https://op-group1-swiftservesd-1.dens.tv/s/s35/index.m3u8
+#http://210.210.155.37/x6bnqe/s/s35/index.m3u8
 
 #EXTGRP:LIFESTYLE
 #EXTINF:0 tvg-id="FashionTVAsia.fr" tvg-logo="https://i.ibb.co/WtQswcD/Fashiontv-hometv.jpg",FashionTV Asia
@@ -1682,7 +1690,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
 #https://fatwatv.id/
 #EXTGRP:RELIGIOUS
 #EXTINF:0 tvg-id="FatwaTV.id" tvg-logo="https://i.imgur.com/FcJ6VMT.png",Fatwa TV
-https://devds.site/api/youlive.m3u8?v=hn0DC1PZzto
+#https://devds.site/api/youlive.m3u8?v=hn0DC1PZzto
+https://ythls.onrender.com/channel/UCWcErqFw28UlHluawiWLO2g.m3u8
 
 #http://www.beritabethel.com/
 #EXTGRP:RELIGIOUS
@@ -2122,7 +2131,8 @@ https://dutatv.siar.us/dutatv/live/playlist.m3u8
 #http://www.elshinta.tv/
 #EXTGRP:DAERAH
 #EXTINF:0 tvg-id="ElshintaTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/ELSHINTA.png",Elshinta TV
-http://210.210.155.37/qwr9ew/s/s10/index.m3u8
+#http://210.210.155.37/qwr9ew/s/s12/index.m3u8
+https://op-group1-swiftservesd-1.dens.tv/s/s12/index.m3u8
 
 #
 #EXTGRP:DAERAH
@@ -2132,8 +2142,12 @@ http://122.248.43.138:1935/ch27/myStream/playlist.m3u8
 #https://www.garuda.tv/
 #EXTGRP:DAERAH
 #EXTINF:0 tvg-id="GarudaTV.id" tvg-logo="https://i.imgur.com/sXsAcZ3.png",Garuda TV
-https://ms.digdaya.tv/live/digdayatv/live.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup1/cg002production/ch45/02.m3u8
+#https://ms.digdaya.tv/live/digdayatv/live.m3u8
+#https://streamweb.garuda.tv/live/garudatv/live.m3u8
+#https://stream.garuda.tv/live/garudatv/playlist.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup1/cg002production/ch45/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
+#https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v2a1/mono.m3u8
 
 #https://gprtv.id/
 #EXTGRP:DAERAH
@@ -2674,6 +2688,12 @@ http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 #EXTGRP:GAMING
 #EXTINF:-1 tvg-id="" tvg-name="EdukasiTv" tvg-logo="https://i.imgur.com/7Dyc6hK.png",Dunia Games
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/manifest.mpd
+
+#http://www.dens.tv/
+#EXTGRP:GAMING
+#EXTINF:0 tvg-id="DensPlay.id" tvg-logo="https://www.dens.tv/images/channel-logo/107.jpg",Dens Play
+https://op-group1-swiftservesd-1.dens.tv/s/s101/live.m3u8
+#http://210.210.155.37/x6bnqe/s/s101/live.m3u8
 
 #EXTGRP:GAMING
 #EXTINF:-1 tvg-id="5f5bd666c0a7600007af6c20" tvg-chno="819" tvg-logo="https://i.imgur.com/1XgMRPH.png",Call of Duty
