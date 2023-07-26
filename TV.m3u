@@ -1344,9 +1344,11 @@ http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3001
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
+#http://www.dens.tv/
 #EXTGRP:KNOWLEDGE
 #EXTINF:0 tvg-id="denslearningknowledge.id" tvg-logo="http://www.dens.tv/images/channel-logo/1.jpg",Dens Learning & Knowledge
-http://rr3.dens.tv/s/s36/index.m3u8
+#http://rr3.dens.tv/s/s36/index.m3u8
+http://210.210.155.37/x6bnqe/s/s36/index.m3u8
 
 #https://www.transvision.co.id/channel/lingua.html
 #EXTGRP:KNOWLEDGE
@@ -1421,10 +1423,19 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.
 #KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=cdrama
 https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=cdrama
 
+#http://www.dens.tv/
 #EXTGRP:LIFESTYLE
 #EXTINF:0 tvg-id="densfoodchannel.id" tvg-logo="http://www.dens.tv/images/channel-logo/117.jpg",Dens Food Channel
-http://rr3.dens.tv/s/s38/index.m3u8
+#http://rr3.dens.tv/s/s38/index.m3u8
+http://210.210.155.37/x6bnqe/s/s38/index.m3u8
 
+#http://www.dens.tv/
+#EXTGRP:LIFESTYLE
+#EXTINF:0 tvg-id="DensLifeStyle.id" tvg-logo="https://www.dens.tv/images/channel-logo/42.jpg",Dens Life & Style
+https://op-group1-swiftservesd-1.dens.tv/s/s65/S1/mnf.m3u8
+#http://210.210.155.37/x6bnqe/s/s65/index2.m3u8
+
+#http://www.dens.tv/
 #EXTGRP:LIFESTYLE
 #EXTINF:0 tvg-id="densshowbiz.id" tvg-logo="http://www.dens.tv/images/channel-logo/102.jpg",Dens ShowBiz
 http://rr3.dens.tv/s/s35/index.m3u8
@@ -1598,13 +1609,18 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #https://albinaa.tv/
 #EXTGRP:RELIGIOUS
-#EXTINF:0 tvg-id="AlBinaaTV.id" tvg-logo="https://i.imgur.com/MTR4GuF.png",Al Binaa TV (No)
-https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
+#EXTINF:0 tvg-id="AlBinaaTV.id" tvg-logo="https://i.imgur.com/MTR4GuF.png",Al Binaa TV
+https://master.antosatriani.workers.dev/channel/UCdq-DJ5MS7qjd1aXPFg71Yg.m3u8
 
 #https://aliman.id/
 #EXTGRP:RELIGIOUS
 #EXTINF:0 tvg-id="AlImanTV.id" tvg-logo="https://i.imgur.com/Qj1EFf1.png",Al-Iman TV
 https://tv.rodja.live/aliman/ngrp:HD_all/playlist.m3u8
+
+#https://live.alwafatarim.tv/
+#EXTGRP:RELIGIOUS
+#EXTINF:0 tvg-id="AlWafaTarim.id" tvg-logo="https://i.ibb.co/3yfMjmf/logo-3.png",Al Wafa Tarim
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
 #EXTGRP:RELIGIOUS
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/1rtXcFR/Alquran-hometv.jpg",Al Quran Al Kareem TV
@@ -1935,6 +1951,11 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 #EXTINF:0 tvg-id="AstroBlitarTV.id" tvg-logo="https://i.imgur.com/rORKbGw.png",Astro Blitar TV (No)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
+#
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="ATVLIChannel.id" tvg-logo="https://i.ibb.co/4mDdGMs/IMG-20230629-145746.jpg",ATVLI Channel
+https://wowza.convergen.co/atvli/atvli.stream/playlist.m3u8
+
 #https://arek.tv/
 #EXTGRP:DAERAH
 #EXTINF:0 tvg-id="ArekTV.id" tvg-logo="https://i.imgur.com/Bw8fLiD.png",Arek TV
@@ -1948,7 +1969,8 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 #https://btv.co.id/
 #EXTGRP:DAERAH
 #EXTINF:0 tvg-id="BalikapanTV.id" tvg-logo="https://i.ibb.co/q9n0G6v/Btv-hometv.jpg",Balikapan TV
-http://122.248.43.138:1935/ch10/myStream/playlist.m3u8
+#http://122.248.43.138:1935/ch10/myStream/playlist.m3u8
+https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
 
 #https://balitv.tv/
 #EXTGRP:DAERAH
@@ -2011,8 +2033,8 @@ http://103.119.54.246:8080/hls/bbstv.m3u8
 #https://betv.disway.id/
 #EXTGRP:DAERAH
 #EXTINF:0 tvg-id="BETV.id" tvg-logo="https://i.imgur.com/3EX0zax.png",BE TV
-https://h1.intechmedia.net/intech/ch58.m3u8
 #https://h1.intechmedia.net/intech/ch30.m3u8
+https://h1.intechmedia.net/intech/ch58.m3u8
 
 #https://www.bimakini.com/
 #EXTGRP:DAERAH
@@ -2048,7 +2070,8 @@ https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 #EXTGRP:DAERAH
 #EXTINF:0 tvg-id="CahayaTVBanten.id" tvg-logo="https://i.imgur.com/Ph9yYpb.png",Cahaya TV Banten
 #https://alfa.kugo.id/ctv/rtmp.stream/chunklist_w49231578.m3u8
-https://alfa.kugo.id/ctv/rtmp.stream/chunklist.m3u8
+#https://alfa.kugo.id/ctv/rtmp.stream/chunklist.m3u8
+https://wowza.convergen.co/ctv/ctv.stream/playlist.m3u8
 
 #https://celebesmedia.id/
 #EXTGRP:DAERAH
