@@ -2013,8 +2013,9 @@ http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
 #
 #EXTGRP:DAERAH
-#EXTINF:0 tvg-id="BanjarTV.id" tvg-logo="https://i.imgur.com/TA76a10.png",Banjar TV (No)
-https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
+#EXTINF:0 tvg-id="BanjarTV.id" tvg-logo="https://i.imgur.com/TA76a10.png",Banjar TV
+#https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
+https://v2.siar.us/banjartv/live/chunks.m3u8
 
 #http://bantentv.com/
 #EXTGRP:DAERAH
@@ -2024,7 +2025,8 @@ https://5bf7b725107e5.streamlock.net/bantentv/bantentv/chunklist_w1559299828.m3u
 #http://batamtvnews.com/
 #EXTGRP:DAERAH
 #EXTINF:0 tvg-id="BatamTV.id" tvg-logo="https://i.imgur.com/lo7YXnW.png",Batam TV
-http://122.248.43.138:1935/ch5/myStream/playlist.m3u8
+#http://122.248.43.138:1935/ch5/myStream/playlist.m3u8
+https://63b2dc7196c38.streamlock.net/ch5/myStream/playlist.m3u8
 
 #http://batiktv.pekalongankota.go.id/
 #EXTGRP:DAERAH
@@ -2096,7 +2098,7 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #
 #EXTGRP:DAERAH
-#EXTINF:0 tvg-id="ChannelJowo.id" tvg-logo="https://i.imgur.com/fksxiaS.png",Channel Jowo (NO)
+#EXTINF:0 tvg-id="ChannelJowo.id" tvg-logo="https://i.imgur.com/fksxiaS.png",Channel Jowo
 #http://103.167.167.5:8111/play/a00f/index.m3u8
 #https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 #http://103.102.15.12:1111/stream/channelid/1704468301?ticket=0C0A58B93FA27549D39873799C08CF6376D41AEA&profile=pass
@@ -2165,7 +2167,8 @@ https://wowza.convergen.co/gprtv/myLive/playlist.m3u8
 #https://humabetang.com/
 #EXTGRP:DAERAH
 #EXTINF:0 tvg-id="HumaBetangTV.id" tvg-logo="https://i.imgur.com/xBTqOEu.png",Huma Betang TV
-https://v3.siar.us/humabetangtv/live/playlist.m3u8
+#https://v3.siar.us/humabetangtv/live/playlist.m3u8
+https://v3.siar.us/humabetangtv/live/chunks.m3u8
 
 #https://inspira.tv/
 #EXTGRP:DAERAH
@@ -2175,8 +2178,9 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 #https://dobrak.id/
 #EXTGRP:DAERAH
 #EXTINF:0 tvg-id="JambiTV.id" tvg-logo="https://i.ibb.co/LJHtLfc/Jambitv-hometv.jpg",Jambi TV
-http://122.248.43.138:1935/ch23/myStream/playlist.m3u8
+#http://122.248.43.138:1935/ch23/myStream/playlist.m3u8
 #http://122.248.43.138:1935/ch23/myStream/chunklist_w289602562.m3u8
+https://63b2dc7196c38.streamlock.net/ch23/myStream/chunklist_w401614426.m3u8
 
 #https://www.jawapos.com/
 #EXTGRP:DAERAH
@@ -2234,7 +2238,8 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 #
 #EXTGRP:DAERAH
 #EXTINF:0 tvg-id="KawanuaTV.id" tvg-logo="https://i.ibb.co/RQ08C8V/Kawanua-hometv.jpg",Kawanua TV
-http://122.248.43.138:1935/ch18/myStream/playlist.m3u8
+#http://122.248.43.138:1935/ch18/myStream/playlist.m3u8
+https://63b2dc7196c38.streamlock.net/ch18/myStream/playlist.m3u8
 
 #https://www.kresna.tv/
 #EXTGRP:DAERAH
@@ -2317,6 +2322,11 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 #EXTINF:0 tvg-id="MQTV.id" tvg-logo="https://i.imgur.com/d8dQo6E.png",MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="NasionalTV.id" tvg-logo="https://i.imgur.com/84svEUM.png",Nasional TV
+#https://cdn.renotv.my.id/tvd/playy.m3u8?id=nasionaltv
+https://wow.nasionaltv.com/ntvlive/tracks-v1a1/mono.m3u8
+
 #
 #EXTGRP:DAERAH
 #EXTINF:0 tvg-id="NirwanaTV.id" tvg-logo="https://i.imgur.com/I1Fe3gk.png",Nirwana TV (NO)
@@ -2334,7 +2344,8 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTGRP:DAERAH
 #EXTINF:0 tvg-id="PadangTV.id" tvg-logo="https://i.ibb.co/TwXz4tK/Padang-tv-hometv.jpg",Padang TV
 #http://122.248.43.138:1935/ch16/myStream/playlist.m3u8
-https://ythls.onrender.com/channel/UCJS8e5S7Bbf4cctlJenY2Uw.m3u8
+#https://ythls.onrender.com/channel/UCJS8e5S7Bbf4cctlJenY2Uw.m3u8
+https://63b2dc7196c38.streamlock.net/ch16/myStream/playlist.m3u8
 
 #https://paltv.disway.id/
 #EXTGRP:DAERAH
@@ -2359,8 +2370,9 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #http://pktvkaltim.com/
 #EXTGRP:DAERAH
-#EXTINF:0 tvg-id="PKTV.id" tvg-logo="https://i.imgur.com/mldv8Sf.png",PKTV (NO)
-https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
+#EXTINF:0 tvg-id="PKTV.id" tvg-logo="https://i.imgur.com/mldv8Sf.png",PKTV
+#https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
+https://ams.juraganstreaming.com/LiveApp/streams/pktv.m3u8
 
 #https://www.pontv.id/
 #EXTGRP:DAERAH
@@ -2477,7 +2489,8 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 #
 #EXTGRP:DAERAH
 #EXTINF:0 tvg-id="SMTV.id" tvg-logo="https://i.imgur.com/Jlz0Vhq.png",SMTV
-http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
+#http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
+https://63b2dc7196c38.streamlock.net/ch25/myStream/chunklist_w835358752.m3u8
 
 #https://www.sriwijayatv.com/
 #EXTGRP:DAERAH
