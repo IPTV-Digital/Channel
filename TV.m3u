@@ -519,8 +519,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.
 #https://www.rri.co.id/
 #EXTGRP:TV LOKAL
 #EXTINF:0 tvg-id="RRINet.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/RRI%20NET.png",RRI Net
-https://cdn09jtedge.indihometv.com/dvr/139/rrinet/manifest.mpd
+#https://cdn09jtedge.indihometv.com/dvr/139/rrinet/manifest.mpd
 #https://beetv.my.id/x/oxygen-rri-net-gojokkk.m3u8
+https://rrinet.rri.co.id/hls/live.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=rrinet
@@ -1499,7 +1500,8 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
 #EXTINF:0 tvg-id="LejelHomeShopping.id" tvg-logo="https://i.imgur.com/Yxq05Dg.png",Lejel Home Shopping
 #https://devds.site/api/youlive.m3u8?v=4rXUjU8Yc1M
 #http://mooncang.my.id/api/youtube/ytl.php?url=zUahI3Pgbxk
-https://yt.ariev.workers.dev/ch/UC9q_4Ljmm0C15j25Bqx1ZOw.m3u8
+#https://yt.ariev.workers.dev/ch/UC9q_4Ljmm0C15j25Bqx1ZOw.m3u8
+https://ythls.onrender.com/channel/UC9q_4Ljmm0C15j25Bqx1ZOw.m3u8
 
 #https://www.mncchannels.com/micro/mnclifestyle-fashion
 #EXTGRP:LIFESTYLE
@@ -1556,6 +1558,11 @@ http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3000
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #https://newanv-live-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+
+#https://www.kemkes.go.id/
+#EXTGRP:LIFESTYLE
+#EXTINF:0 tvg-id="TVKesehatan.id" tvg-logo="https://i.imgur.com/IGIX3o8.jpeg",
+https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 
 #
 #EXTGRP:LIFESTYLE
@@ -2244,6 +2251,11 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 #EXTINF:0 tvg-id="LombokTV.id" tvg-logo="https://i.imgur.com/PKKYcVO.png",Lombok TV (NO)
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
+#https://lingkartv.com/
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="LingkarTV.id" tvg-logo="https://lingkartv.com/assets/img/logo-square.png",Lingkar TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
+
 https://madu.tv/live-streaming/
 #EXTGRP:DAERAH
 #EXTINF:0 tvg-id="MaduTV.id" tvg-logo="https://i.imgur.com/cKpgbgW.png",Madu TV
@@ -2321,7 +2333,8 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #https://padangtv.id/
 #EXTGRP:DAERAH
 #EXTINF:0 tvg-id="PadangTV.id" tvg-logo="https://i.ibb.co/TwXz4tK/Padang-tv-hometv.jpg",Padang TV
-http://122.248.43.138:1935/ch16/myStream/playlist.m3u8
+#http://122.248.43.138:1935/ch16/myStream/playlist.m3u8
+https://ythls.onrender.com/channel/UCJS8e5S7Bbf4cctlJenY2Uw.m3u8
 
 #https://paltv.disway.id/
 #EXTGRP:DAERAH
