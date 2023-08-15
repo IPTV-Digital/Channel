@@ -1032,8 +1032,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 #EXTINF:0 tvg-id="" tvg-logo="https://images.indihometv.com/logo_flik_ver2.png",Flik
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" } 
-https://iptv.awanteve.xyz/api/stream/restream/use/usee.mpd?id=133&ch=flik
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest_wuseetv_qRFZS.mpd?encp=&amp;uid=&amp;expp=
+https://iptv.awanteve.xyz/api/stream/restream/use/usee.mpd?id=133&ch=flik
 
 #https://mncvision.id/channel/detail/150/fmn/
 #EXTGRP:MOVIES
