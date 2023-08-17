@@ -104,7 +104,7 @@ https://ariev2.vercel.app/api/play.mpd?id=205&pw=update1
 #http://210.210.155.35/qwr9ew/s/s04/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 #https://k.ksa.my.id/ksa.m3u8?a=33cbc98636ea6b2b4a28&b=a457cd239f7e72b12c6d&c=fe251b8cbf412cf05603
-http://mpwtv.my.id/vidioye/205-indosiar.m3u8
+#http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 #https://geocities.ws/ariev7xx/indosiar.m3u8
 #https://idcloud.tech/indosiar_vid.m3u8
 
@@ -116,7 +116,7 @@ http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-#https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.m3u8
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.m3u8
 
 #https://www.sctv.co.id/
 #EXTGRP:TV LOKAL
@@ -125,7 +125,7 @@ http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 #http://210.210.155.35/qwr9ew/s/s03/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 #https://k.ksa.my.id/ksa.m3u8?a=c503fc6c5f0efeac6080&b=16c98dda3ce86e1907df&c=aa3a68bfd25acb92fcc7
-#http://mpwtv.my.id/vidioye/204-sctv.m3u8
+http://mpwtv.my.id/vidioye/204-sctv.m3u8
 #http://nonton.wap.sh/id/009.m3u8
 #https://idcloud.tech/sctv_vid.m3u8
 #https://geocities.ws/ariev7xx/sctv.m3u8
@@ -155,8 +155,8 @@ https://ariev2.vercel.app/api/play.mpd?id=204&pw=update1
 #https://idcloud.tech/moji_vid.m3u8
 #https://geocities.ws/ariev7xx/moji.m3u8
 
-#http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/23
+http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/index.m3u8
+#http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/23
 
 #https://www.ochanneltv.com/
 #EXTGRP:TV LOKAL
