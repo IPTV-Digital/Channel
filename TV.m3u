@@ -545,8 +545,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Aniplus.jpg",Aniplus
 #http://rr1.dens.tv/h/h02/index.m3u8
 #http://210.210.155.35/dr9445/h/h02/index.m3u8
-#http://210.210.155.37/dr9445/h/h02/index.m3u8
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/1962
+http://210.210.155.37/dr9445/h/h02/index.m3u8
+#http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/1962
 
 #EXTGRP:KIDS
 #EXTINF:0 tvg-id="Besmart.id" tvg-logo="https://i.ytimg.com/vi/Hvh-1pXX9JY/mqdefault.jpg",BeSmart
@@ -635,7 +635,7 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg332production/ch371/index.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 #https://nyanv-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
-https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=dreamworks
@@ -644,6 +644,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cdn.thomasandi.my.id/use4/drm.php?id=dreamworks
 #https://cdn.thomasandi.my.id/use4/mulai.mpd?id=dreamworks
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/dreamworks_dash/manifest_wuseetv_qRFZS.mpd
 
 #https://www.transvision.co.id/
 #EXTGRP:KIDS
@@ -676,7 +680,8 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg437production/ch375/index.
 #EXTINF:0 tvg-id="IndiKids.id" tvg-logo="https://i.imgur.com/gnhn867.png",IndiKids
 #https://cdn09jtedge.indihometv.com/dvr/139/indikids/manifest.mpd
 #https://beetv.my.id/x/usee-indikids-gojokkk.m3u8
-http://103.152.118.53:80/streams/yusi/hls/indikids/master.m3u8
+#http://103.152.118.53:80/streams/yusi/hls/indikids/master.m3u8
+https://12537-stream-ip-tv.xyz/play/yusi/hls/indikids/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=indikids&pw=update1
@@ -1032,8 +1037,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 #EXTINF:0 tvg-id="" tvg-logo="https://images.indihometv.com/logo_flik_ver2.png",Flik
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest_wuseetv_qRFZS.mpd?encp=&amp;uid=&amp;expp=
-https://iptv.awanteve.xyz/api/stream/restream/use/usee.mpd?id=133&ch=flik
+https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest_wuseetv_qRFZS.mpd
+#https://iptv.awanteve.xyz/api/stream/restream/use/usee.mpd?id=133&ch=flik
 
 #https://mncvision.id/channel/detail/150/fmn/
 #EXTGRP:MOVIES
