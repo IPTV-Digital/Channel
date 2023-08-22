@@ -1823,7 +1823,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 #https://nabawi.tv/
 #EXTGRP:RELIGIOUS
 #EXTINF:0 tvg-id="NabawiTV.id" tvg-logo="https://i.imgur.com/O8WONFB.png",Nabawi TV
-https://alfa.kugo.id/nabawitv/nabawitv/playlist.m3u8
+#https://alfa.kugo.id/nabawitv/nabawitv/playlist.m3u8
+https://ythls.onrender.com/channel/UCgEN4r_cJCI-rAGx3uYjB_A.m3u8
 
 #http://www.niaga.tv/
 #EXTGRP:RELIGIOUS
