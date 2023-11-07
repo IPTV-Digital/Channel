@@ -885,7 +885,7 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 
 
 
-######## HBO GROUP ########
+######## HBO GROUP Indo ########
 
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
 
@@ -973,6 +973,39 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0c
 #KODIPROP:inputstream.adaptive.license_key=b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
 #https://nyanv-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
+######## HBO GROUP Singapore ########
+
+#EXTGRP:MOVIES
+#KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=103.47.210.34
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
+#EXTINF:-1 tvg-ID="wow" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_black.png", HBO S
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://iptv.awanteve.xyz/api/stream/restream/singa/spore.mpd?id=HBO
+
+#EXTGRP:MOVIES
+#KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=103.47.210.34
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c
+#EXTINF:-1 tvg-ID="wow" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png", HBO FAMILY S
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://iptv.awanteve.xyz/api/stream/restream/singa/spore.mpd?id=HBOFAM
+
+#EXTGRP:MOVIES
+#KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=103.47.210.34
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
+#EXTINF:-1 tvg-ID="wow" group-title="Singapore" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png", HBO SIGNATURE S
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://iptv.awanteve.xyz/api/stream/restream/singa/spore.mpd?id=HBOSIGN
+
+#EXTGRP:MOVIES
+#KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=103.47.210.34
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=473fabdc05ac4d9b94fd34f33f73394f:1072b1e61206c3859607984f872e549c
+#EXTINF:-1 tvg-ID="wow" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png", HBO HITS S
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://iptv.awanteve.xyz/api/stream/restream/singa/spore.mpd?id=HBOHITS
 
 
 ######## ### ########
