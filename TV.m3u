@@ -725,6 +725,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mp
 #http://www.ieg.id/tv-channel/mentari-tv/
 #EXTGRP:KIDS
 #EXTINF:0 tvg-id="MentariTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/MENTARI.png",Mentari TV
+EXTVLCOPT:http-user-agent=Mozilla/5.0
 #https://mibitivi.xyz/sc/playhls.m3u8?tekon=skyactiv&channel=mentaritv
 #http://tvnid.x10.mx/1/master-3.m3u8
 #http://thefirefox12537.github.io/pl_12537iptv/channels/oksigen/mentaritv.m3u8
@@ -1706,6 +1707,7 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 #https://www.vidio.com/live/8241-rans-channel
 #EXTGRP:LIFESTYLE
 #EXTINF:0 tvg-id="RANSEntertainment.id" tvg-logo="https://i.imgur.com/YV8nB40.png",RANS Entertainment (NO)
+EXTVLCOPT:http-user-agent=Mozilla/5.0
 #https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=8241&type=hls
 
