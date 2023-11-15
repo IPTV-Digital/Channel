@@ -100,6 +100,7 @@ https://ariev2.vercel.app/api/play.mpd?id=205&pw=update1
 #
 #EXTGRP:TV LOKAL
 #EXTINF:0 tvg-id="Indosiar.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Indosiar.jpg",INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #http://rr2.dens.tv/s/s04/index.m3u8
 #http://210.210.155.35/qwr9ew/s/s04/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s04/index.m3u8
@@ -107,7 +108,8 @@ https://ariev2.vercel.app/api/play.mpd?id=205&pw=update1
 #http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 #https://geocities.ws/ariev7xx/indosiar.m3u8
 #https://idcloud.tech/indosiar_vid.m3u8
-http://donglao.duckdns.org/vn360sport/vidio_block.php?id=205
+#http://donglao.duckdns.org/vn360sport/vidio_block.php?id=205
+http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 
 #http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 #https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd
@@ -122,15 +124,17 @@ http://donglao.duckdns.org/vn360sport/vidio_block.php?id=205
 #https://www.sctv.co.id/
 #EXTGRP:TV LOKAL
 #EXTINF:0 tvg-id="SCTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/SCTV.jpg",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #http://rr2.dens.tv/s/s03/index.m3u8
 #http://210.210.155.35/qwr9ew/s/s03/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 #https://k.ksa.my.id/ksa.m3u8?a=c503fc6c5f0efeac6080&b=16c98dda3ce86e1907df&c=aa3a68bfd25acb92fcc7
-http://mpwtv.my.id/vidioye/204-sctv.m3u8
+#http://mpwtv.my.id/vidioye/204-sctv.m3u8
 #http://nonton.wap.sh/id/009.m3u8
 #https://idcloud.tech/sctv_vid.m3u8
 #https://geocities.ws/ariev7xx/sctv.m3u8
-http://donglao.duckdns.org/vn360sport/vidio_block.php?id=204
+#http://donglao.duckdns.org/vn360sport/vidio_block.php?id=204
+http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
 #http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 #https://cdn09jtedge.indihometv.com/dvr/139/sctv/manifest.mpd
@@ -298,15 +302,16 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTGRP:TV LOKAL
 #EXTINF:0 tvg-id="NET.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/NET%20TV.jpg",NET.
 #http://rr2.dens.tv/s/s08/02.m3u8
-http://210.210.155.35/qwr9ew/s/s08/index.m3u8
+#http://210.210.155.35/qwr9ew/s/s08/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 #http://45.126.83.51/qwr9ew/s/s08/index.m3u8
 #http://iptvid.my.id/hmm/net.m3u8
 #https://hls.youtb.workers.dev/channel/UC1-ATnDVEwKT6-0aEeJ2ibA.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=6b7bbcf1d511a56e6b3ceda392e4fa33:d1766244d7c1c44efd4c67aafae3ee7b
-#https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -319,16 +324,18 @@ http://210.210.155.35/qwr9ew/s/s08/index.m3u8
 
 #EXTGRP:TV LOKAL
 #EXTINF:0 tvg-id="ANTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/ANTV.jpg",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #http://rr2.dens.tv/s/s07/index.m3u8
-http://210.210.155.35/qwr9ew/s/s07/index.m3u8
+#http://210.210.155.35/qwr9ew/s/s07/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s07/index.m3u8
 #http://iptvid.my.id/hmm/antv.m3u8
 
 #http://edge.linknetott.swiftserve.com/channelgroup3/cg314production/ch7/02.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
-#https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -341,16 +348,17 @@ http://210.210.155.35/qwr9ew/s/s07/index.m3u8
 #EXTGRP:TV LOKAL
 #EXTINF:0 tvg-id="tvOne.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/tvOne.jpg",TVONE
 #http://rr2.dens.tv/s/s105/index.m3u8
-http://210.210.155.35/qwr9ew/s/s105/index.m3u8
+#http://210.210.155.35/qwr9ew/s/s105/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s105/index.m3u8
 #http://iptvid.my.id/hmm/tvone.m3u8
 
 #http://edge.linknetott.swiftserve.com/channelgroup3/cg327production/ch12/index.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
 #https://nxanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
-#https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -374,11 +382,12 @@ https://beetv.my.id/x/oxygen-vtv-gojokkk.m3u8
 #http://210.210.155.37/dr9445/h/h10/index.m3u8
 #https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 
-http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/221
+#http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/221
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30384ee5424eab4afdff34d7a59e0ef9:5f3d2f2c194266ae9a28210f8976cbe0
-#https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 ######## MEDIA GROUP ########
 
@@ -675,7 +684,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak_dash/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
+#https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
 
 #http://www.ieg.id/tv-channel/hip-hip-horee/
 #EXTGRP:KIDS
