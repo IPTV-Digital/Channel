@@ -1669,6 +1669,158 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="MOVIES",
 
+
+
+#===============#
+# Channel Sport #
+#===============#
+
+
+
+#https://www.beinsports.com/id/
+#EXTGRP:SPORTS
+#EXTINF:-1 tvg-id="beINSports1Indonesia.id" tvg-logo="https://thumbor.prod.vidiocdn.com/xYkwkblcCfCBaC25h-XpsOKuUHI=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg",beIN Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c4987a78120e3166889a9115d88aa9a:3246e4509fe89449f820d347c081544d
+#https://production-premium-vidio-bein1.akamaized.net/out/v1/56854ffa2e2541e7bdb3e428ac486319/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
+
+#https://www.beinsports.com/id/
+#EXTGRP:SPORTS
+#EXTINF:-1 tvg-id="beINSports3Indonesia.id" tvg-logo="https://thumbor.prod.vidiocdn.com/325h1CgqikfL2T35OYA0SOBY3Co=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-e1add8.jpg",beIN Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c32f23c00507f80f5e8180351a2ead9b:553386e28e399cdff74266d0d3b778b1
+#https://production-premium-vidio-bein3.akamaized.net/out/v1/3f1c8625c65f448f97b055eed9d6fa31/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
+
+#EXTGRP:SPORTS
+#https://i.imgur.com/3openq8.png
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/TVRI%20SPORT.png",TVRI Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+
+#EXTGRP:SPORTS
+#EXTINF:0 tvg-id="SPOTV.Id" tvg-logo="https://i.ibb.co/60xH5KT/Spotv-1-hometv.jpg",SPOTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#https://cdn08jtedge.indihometv.com/dassdvr/194/spotv/manifest.mpd
+
+#EXTGRP:SPORTS
+#EXTINF:0 tvg-id="SPOTV2.Id" tvg-logo="https://i.ibb.co/85XFV75/Spotv-2-hometv.jpg",SPOTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#https://www.mncchannels.com/micro/MNC-Sport
+#EXTGRP:SPORTS
+#EXTINF:0 tvg-id="MNCSports.Id" tvg-logo="https://static.mncnow.id/images/channel/84189654/9280_r32.jpg",MNC Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#https://www.mncchannels.com/micro/MNC-Sport
+#EXTGRP:SPORTS
+#EXTINF:0 tvg-id="MNCSports2.Id" tvg-logo="https://static.mncnow.id/images/channel/72cb1403/24c1_r32.jpg",MNC Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#https://www.mncchannels.com/micro/MNC-Sport
+#EXTGRP:SPORTS
+#EXTINF:0 tvg-id="MNCSports3.Id" tvg-logo="https://static.mncnow.id/images/channel/2e3fb585/eef1_r32.jpg",MNC Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
+https://anevi-live-channel-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTGRP:SPORTS
+#EXTINF:0 group-title="SPORTS" tvg-id="SPORTSTARS 4" tvg-logo="https://tv.qreatifku.my.id/images/s4.png",MNC Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
+https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+#EXTGRP:SPORTS
+#EXTINF:0 tvg-id="FightSports.Id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443",Fight Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2159ffe3be22ed4916a6abe4d58d265:3e4efcec08d5d5c18a403b7048a43638
+https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+
+#https://www.mncchannels.com/micro/Soccer-Channel
+#EXTGRP:SPORTS
+#EXTINF:0 tvg-id="SoccerChannel.Id" tvg-logo="https://static.mncnow.id/images/channel/9abc87ac/038d_r32.jpeg",Soccer Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
+https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
+#EXTGRP:SPORTS
+#EXTINF:-1 tvg-id="WWENetwork.us" tvg-logo="https://i.postimg.cc/KjvNxt5B/20230131-105427.png",WWE Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0cbc4d3b4fbd9af512acb2488bb42910:30528c4ef882954e5707cd1001d66121
+https://live.ferymaleha.workers.dev/linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
+
+#EXTGRP:SPORTS
+#EXTINF:-1 tvg-id="WWENetwork.us" tvg-logo="https://i.postimg.cc/KjvNxt5B/20230131-105427.png",WWE Network 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
+#EXTGRP:SPORTS
+#EXTINF:-1 tvg-id="UseeSports" tvg-logo="https://i.imgur.com/DeA35re.png",UseeSports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/useesport/manifest.mpd
+
+#EXTGRP:SPORTS
+#EXTINF:-1 tvg-id="UseeSports2" tvg-logo="https://i.imgur.com/QanFnCo.png",UseeSports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
+
+
+
 #===================#
 # Channel Knowledge #
 #===================#
@@ -1812,10 +1964,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChanne
 
 https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
 
-#
-#EXTGRP:KNOWLEDGE
-#EXTINF:0 tvg-id="SkyVisionLearningChannel.id" tvg-logo="https://i.imgur.com/LEih5UL.png",Sky Vision Learning Channel (NO)
-https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
+
 
 
 
@@ -2065,13 +2214,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch35)/index.m3u8
 
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 
-#
-#EXTGRP:LIFESTYLE
-#EXTINF:0 tvg-id="CitraCulinaryTravel.id" tvg-logo="https://i.imgur.com/EuZmCOh.png",Citra Culinary & Travel (NO)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-
-https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
-
 #http://www.ieg.id/tv-channel/citra-entertainment/
 #EXTGRP:LIFESTYLE
 #EXTINF:0 tvg-id="CitraEntertainment.id" tvg-logo="https://i.imgur.com/Q1N6ka8.png",Citra Entertainment
@@ -2081,20 +2223,6 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 #http://thefirefox12537.github.io/streams/citraent.m3u8
 #http://edge.linknetott.swiftserve.com/channelgroup4/cg439production/ch379/index.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch379)/index.m3u8
-
-#
-#EXTGRP:LIFESTYLE
-#EXTINF:0 tvg-id="InahealthTV.id" tvg-logo="https://i.imgur.com/UH8y2CD.png",Inahealth TV (NO)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-
-https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
-
-#
-#EXTGRP:LIFESTYLE
-#EXTINF:0 tvg-id="OShop.id" tvg-logo="https://i.imgur.com/MROLMOl.png",O Shop  (NO)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-
-https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #https://www.vidio.com/live/8241-rans-channel
 #EXTGRP:LIFESTYLE
@@ -2132,12 +2260,6 @@ https://alfa.kugo.id/playout/ainos.stream/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://www.vidio.com/videos/7384759/common_tokenized_playlist.m3u8
 
-#https://www.albahjah.or.id/
-#EXTGRP:RELIGIOUS
-#EXTINF:0 tvg-id="AlBahjahTV.id" tvg-logo="https://i.imgur.com/52dlDZk.png",Al-Bahjah TV (No)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
-
 #https://albinaa.tv/
 #EXTGRP:RELIGIOUS
 #EXTINF:0 tvg-id="AlBinaaTV.id" tvg-logo="https://i.imgur.com/MTR4GuF.png",Al Binaa TV
@@ -2166,12 +2288,6 @@ https://ammedia.siar.us/ammedia/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=67fe3ac3ca111c9bdd6e8480091dc13c:7d05fb1ff7705c1e452ff7e1b841a1b8
 https://nyanv-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 
-#http://arraudhah-sekumpul.com/
-#EXTGRP:RELIGIOUS
-#EXTINF:0 tvg-id="ArRaudhahTV.id" tvg-logo="https://i.imgur.com/BhiIZ5R.jpg",Ar-Raudhah TV (No)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
-
 #http://www.ashiil.tv/
 #EXTGRP:RELIGIOUS
 #EXTINF:0 tvg-id="AshiilTV.id" tvg-logo="https://i.imgur.com/bTktkcr.png",Ashiil TV
@@ -2190,21 +2306,9 @@ https://stream-03.sg1.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xkS56avBVP8yCQ_OMh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://h1.intechmedia.net/intech/ch22.m3u8
 
-#http://indonesia.cgntv.net/
-#EXTGRP:RELIGIOUS
-#EXTINF:0 tvg-id="CGNTVIndonesia.id" tvg-logo="https://i.imgur.com/b1Y878f.png",CGNTV Indonesia (No)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
-
 #http://www.ieg.id/tv-channel/citra-muslim/
 #EXTGRP:RELIGIOUS
 #EXTINF:0 tvg-id="CitraMuslim.id" tvg-logo="https://i.imgur.com/L0kjuZs.png",Citra Muslim (No)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
-
-#https://dalwaberita.com/
-#EXTGRP:RELIGIOUS
-#EXTINF:0 tvg-id="DalwaTV.id" tvg-logo="https://i.imgur.com/gOfvQux.png",Dalwa TV (No)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
@@ -2213,12 +2317,6 @@ https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 #EXTINF:0 tvg-id="DhammaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png",Dhamma TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
-
-#https://elkisi.com/
-#EXTGRP:RELIGIOUS
-#EXTINF:0 tvg-id="ElkisiTV.id" tvg-logo="https://i.imgur.com/olrmgiX.png",Elkisi TV (No)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #EXTGRP:RELIGIOUS
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/qJ1fT9f/Ewtn-hometv.jpg",EWTN
@@ -2234,24 +2332,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #https://devds.site/api/youlive.m3u8?v=hn0DC1PZzto
 https://ythls.onrender.com/channel/UCWcErqFw28UlHluawiWLO2g.m3u8
-
-#http://www.beritabethel.com/
-#EXTGRP:RELIGIOUS
-#EXTINF:0 tvg-id="GBITV.id" tvg-logo="https://i.imgur.com/95z8Z6R.png",GBI TV (NO)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
-
-#https://gms.church/
-#EXTGRP:RELIGIOUS
-#EXTINF:0 tvg-id="GMS.id" tvg-logo="https://i.imgur.com/hIroLuT.png",GMS (NO)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
-
-#https://www.hcbn.id/
-#EXTGRP:RELIGIOUS
-#EXTINF:0 tvg-id="HCBNIndonesia.id" tvg-logo="https://i.imgur.com/7LQxaLK.png",HCBN Indonesia (NO)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #EXTGRP:RELIGIOUS
 #EXTINF:0 tvg-id="HijrahTV.id" tvg-logo="https://i.imgur.com/bVN4zj2.png",Hijrah TV
@@ -2336,12 +2416,6 @@ https://devds.site/api/youlive.m3u8?v=ttLTufW_b4E
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8
 
-#https://mhotv.id/
-#EXTGRP:RELIGIOUS
-#EXTINF:0 tvg-id="MHOTV.id" tvg-logo="https://i.imgur.com/WWbarBM.png",MHO TV (NO)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
-
 #http://mtatv.net/v2/
 #EXTGRP:RELIGIOUS
 #EXTINF:0 tvg-id="MTATV.id" tvg-logo="https://i.imgur.com/3kGs7k0.png",MTA TV
@@ -2375,12 +2449,6 @@ https://ythls.onrender.com/channel/UCgEN4r_cJCI-rAGx3uYjB_A.m3u8
 #EXTINF:0 tvg-id="NiagaTV.id" tvg-logo="https://i.imgur.com/XNgj2q1.png",Niaga TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://h1.intechmedia.net/intech/ch10.m3u8
-
-#http://nuchannel.tv/
-#EXTGRP:RELIGIOUS
-#EXTINF:0 tvg-id="NuChannel.id" tvg-logo="https://i.imgur.com/KTgygxi.png",Nu Channel (NO)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #https://radiokitatv.com/
 #EXTGRP:RELIGIOUS
@@ -2440,12 +2508,6 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=552bc18038d025c26ead432fa521f83a:beab0589d5f15d4a56278c7df913b263
 https://nyanv-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
-
-#
-#EXTGRP:RELIGIOUS
-#EXTINF:0 tvg-id="TuanGuruTV.id" tvg-logo="https://i.imgur.com/mutbCy6.png",Tuan Guru TV (NO)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
 
 #EXTGRP:RELIGIOUS
 #EXTINF:0 tvg-id="tvalhijrah.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Logo_of_the_TV_Alhijrah.svg/640px-Logo_of_the_TV_Alhijrah.svg.png",TV Al-Hijrah
