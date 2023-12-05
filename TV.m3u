@@ -18,8 +18,10 @@
 #EXTINF:0 tvg-id="Indosiar.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Indosiar.jpg",Bola Live
 #https://live4.cakhia18.com/
 #https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@lusd111/playlist.m3u8|Referer=https://live4.cakhia18.com/truc-tiep/
-#http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/223
-#http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/197
+#Indosiar
+#http://103.166.27.2:8112/play/a016/index.m3u8
+#SCTV
+#http://103.166.27.2:8112/play/a015/index.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -94,6 +96,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8
 #http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/index.m3u8
 
 #https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=206&type=hls
+
+#http://103.166.27.2:8112/play/a017/index.m3u8
 
 #https://www.ochanneltv.com/
 #EXTGRP:TV LOKAL
@@ -382,7 +386,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 #EXTINF:0 tvg-id="" tvg-logo="http://klik.tvri.go.id/images/TVRI_Logo.png",TVRI Nasional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
+#http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 
 #http://edge.linknetott.swiftserve.com/channelgroup2/cg221production/ch399/index.m3u8
 
@@ -717,7 +722,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mp
 #EXTINF:0 tvg-id="MentariTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/MENTARI.png",Mentari TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 
-https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=8237&type=hls
+http://103.166.27.2:8112/play/a018/index.m3u8
 
 #EXTGRP:KIDS
 #EXTINF:0 tvg-id="miaomi.hk" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/1527562168_artcard-miao-mi.jpg",Miao Mi
@@ -787,6 +792,12 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2dd864fc95998efd52979e5f732e029:4f705ca934ba3ef5513fea618d4f938d
 https://nxanv-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
+
+#EXTGRP:NEWS
+#EXTINF:0 tvg-id="" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503403_tvchannels_v1.jpg",Asia Tonight
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
+https://op-group1-swiftservehd-1.dens.tv/h/h29/index.m3u8?app_type=web&userid=lite&chname=CNA
 
 #EXTGRP:NEWS
 #EXTINF:0 tvg-id="antara.id" tvg-logo="https://images.useetv.com/box/logo_antara_small1.png",Antara TV
@@ -971,6 +982,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCNews/sa_dash_vmx/MNCNews.mpd
 #EXTINF:0 tvg-ID="arirang.id" tvg-logo="", NHK World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 
+#https://op-group1-swiftservehd-1.dens.tv/h/h23/index.m3u8
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62ce01c83653c3f20af6bcafc6979fe6:f1325e71f440c06f7e93d7551cb4014a
@@ -1087,7 +1100,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=103.47.210.34
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://astrompd.funds-kawaii.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
+
 
 #EXTGRP:MOVIES
 #EXTINF:0 tvg-id="HBOAsia.sg" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/HBO.jpg",HBO
@@ -1115,7 +1128,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=103.47.210.34
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
-https://astrompd.funds-kawaii.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
+
 
 #EXTGRP:MOVIES
 #EXTINF:0 tvg-id="HBOFamilyAsia.sg" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/HBO%20Family.png",HBO FAMILY
@@ -1200,26 +1213,6 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
 
-
-#EXTINF:-1 tvg-id="411" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="HBO GROUP",HBO (Astro)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304
-https://astrompd.funds-kawaii.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
-
-#EXTINF:-1 tvg-id="414" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png" group-title="HBO GROUP",HBO FAMILY (Astro)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5053
-https://astrompd.funds-kawaii.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
-
-#EXTINF:-1 tvg-id="415" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png" group-title="HBO GROUP",HBO HITS (Astro)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5055
-https://astrompd.funds-kawaii.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
-
-#EXTINF:-1 tvg-id="412" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title="HBO GROUP",CINEMAX (Astro)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/603
-https://astrompd.funds-kawaii.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
 
 
 ######## ### ########
@@ -1808,7 +1801,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
 #https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
-http://anevia114.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 #EXTGRP:SPORTS
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-logo="https://i.postimg.cc/KjvNxt5B/20230131-105427.png",WWE Network
@@ -1852,9 +1846,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
 #EXTINF:0 tvg-id="AnimalPlanetIndonesia.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjFC9HqbMxvNN9vSd91zpfuQ0b736u9z2tyw&usqp=dCAU",Animal Planet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 
-#http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/index.m3u8
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch31)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -1903,6 +1895,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/crimeinvestigation/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 
 #http://edge.linknetott.swiftserve.com/channelgroup1/cg010production/ch30/index.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoveryasia.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/501
@@ -1913,6 +1906,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/crimeinvestigation/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 
 #http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/index.m3u8
+#https://github.com/openwindows037/sri-tv/blob/main/discovery.m3u8
+https://github.com/openwindows037/sri-tv/raw/main/discovery.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
