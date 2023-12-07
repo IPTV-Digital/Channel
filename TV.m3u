@@ -19,9 +19,9 @@
 #https://live4.cakhia18.com/
 #https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@lusd111/playlist.m3u8|Referer=https://live4.cakhia18.com/truc-tiep/
 #Indosiar
-#http://103.166.27.2:8112/play/a016/index.m3u8
+http://103.166.27.2:8112/play/a016/index.m3u8
 #SCTV
-#http://103.166.27.2:8112/play/a015/index.m3u8
+http://103.166.27.2:8112/play/a015/index.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -49,6 +49,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 
 #http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 
+#Usee
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=696e646f736961723030303030303030:b19780cbdb0b42d86d3415327590b679
 #https://cdn08jtedge.indihometv.com/dassdvr/133/indosiar/manifest.mpd
@@ -299,7 +300,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h224/index.m3u8
 
 #http://thefirefox12537.github.io/pl_12537iptv/channels/oksigen/vtv.m3u8
 #https://bkad.me/mix/o2.m3u8?ch=vtv
-https://beetv.my.id/x/oxygen-vtv-gojokkk.m3u8
+#https://beetv.my.id/x/oxygen-vtv-gojokkk.m3u8
+https://iptv.febianmart.com/play.m3u8?id=vtv
 
 ######## RAJAWALI CORP ########
 
@@ -375,6 +377,7 @@ https://op-group1-swiftservesd-1.dens.tv/s/s182/S4/mnf.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 
 #https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
+
 #http://edge.linknetott.swiftserve.com/channelgroup5/cg530production/ch392/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -400,7 +403,8 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)
 #EXTINF:0 tvg-id="" tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/JAKARTA.png",TVRI Jakarta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
+#http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
 
 
 ####### ### #######
@@ -690,6 +694,9 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cdc32eb0
 
 #http://edge.linknetott.swiftserve.com/channelgroup4/cg437production/ch375/index.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch375%29/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch375%29/Stream(02)/index.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
@@ -2139,7 +2146,8 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
 #https://devds.site/api/youlive.m3u8?v=4rXUjU8Yc1M
 #http://mooncang.my.id/api/youtube/ytl.php?url=zUahI3Pgbxk
 #https://yt.ariev.workers.dev/ch/UC9q_4Ljmm0C15j25Bqx1ZOw.m3u8
-https://ythls.onrender.com/channel/UC9q_4Ljmm0C15j25Bqx1ZOw.m3u8
+#https://ythls.onrender.com/channel/UC9q_4Ljmm0C15j25Bqx1ZOw.m3u8
+https://ythls.armelin.one/channel/UC9q_4Ljmm0C15j25Bqx1ZOw.m3u8
 
 #https://www.mncchannels.com/micro/mnclifestyle-fashion
 #EXTGRP:LIFESTYLE
