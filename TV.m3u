@@ -1234,6 +1234,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a
 #https://cdn09jtedge.indihometv.com/dvr/139/atv/manifest.mpd
 #http://103.152.118.53/streams/yusi/hls/atv/master.m3u8
 
+#KODIPROP:inputstream.adaptive.manifest_type=hls 
 http://bit.ly/AtvMovie
 https://bit.ly/AtvMovie
 https://ariev.vercel.app/api/play.m3u?id=8&pw=asamsulfat
