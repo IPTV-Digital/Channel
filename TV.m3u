@@ -1229,6 +1229,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a
 #EXTGRP:MOVIES
 #EXTINF:0 tvg-id="ATV.id" tvg-logo="https://images.useetv.com/box/logo_atv_small.png" group-title="MOVIES",ATV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 
 #https://cdn09jtedge.indihometv.com/dvr/139/atv/manifest.mpd
 #http://103.152.118.53/streams/yusi/hls/atv/master.m3u8
