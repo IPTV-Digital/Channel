@@ -177,6 +177,13 @@ http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
 ######## TRANS MEDIA ########
 
+#EXTINF:-1 group-title="TV LOKAL" tvg-id="TRANS TV" tvg-logo="https://i-meatballs.bunkr.ru/transtv-TwKxugAt.png?download=true",Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8?checkedby:iptvcat.org
+
+#EXTINF:-1 group-title="TV LOKAL" tvg-id="TRANS TV" tvg-logo="https://i-meatballs.bunkr.ru/trans7-rMwhaQOK.png?download=true",Trans7
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8?checkedby:iptvcat.org
+
+
 #https://www.transtv.co.id/
 #EXTGRP:TV LOKAL
 #EXTINF:0 tvg-id="TransTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/TransTV.jpg",Trans TV
