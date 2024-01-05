@@ -1378,7 +1378,7 @@ https://v3.siar.us/ficomchannel/live/playlist.m3u8
 
 #EXTGRP:MOVIES
 #EXTINF:0 tvg-id="FTV.id" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_yb5x8jh7/banner_xxhdpi.jpg",FTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=MaxStreamPlayer/3.14 (Linux;Android 12) ExoPlayerLib/2.9.6
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":""}
