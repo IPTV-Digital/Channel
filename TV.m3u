@@ -1384,7 +1384,6 @@ https://v3.siar.us/ficomchannel/live/playlist.m3u8
 #EXTHTTP:{"dt-custom-data":""}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=FTV&pw=asamsulfat
 #KODIPROP:inputstream.adaptive.license_key=https://tflix.my.id/maxs/ftv
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(5cd2bf10-1ac0-4fa7-9543-3520f01b3378)/manifest.mpd
 
