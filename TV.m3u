@@ -1664,7 +1664,12 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/tvnmovies/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=asamsulfat
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
+#https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=UseeTVAndroid
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
+https://cdn08jtedge.indihometv.com/dassdvr/133/warner/manifest.mpd
 
 #EXTGRP:MOVIES
 #EXTINF:0 tvg-id="ZeeBioskop.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Zee%20Bioskop.png",Zee Bioskop
