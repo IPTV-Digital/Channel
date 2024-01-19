@@ -1444,15 +1444,22 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc
 #KODIPROP:inputstream.adaptive.license_key=eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
 #https://nyanv-live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
+#EXTGRP:MOVIES
+#EXTINF:0 tvg-id="HBOAsia.sg" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/HBO.jpg",HBO MY1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=103.47.210.34
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
+https://malaysia.mystream.workers.dev/linearjitp02-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
 
+#EXTGRP:MOVIES
+#EXTINF:0 tvg-id="HBOAsia.sg" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/HBO.jpg",HBO MY2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8/hCxUzJbLvQvLlqTLioEw","kid":"oJiJbSsRxfOQapk8O6XGEA"}],"type":"temporary"}
-https://astro.agussuparno46.workers.dev/dash-wv/linear/2304/default_primary.mpd
+https://malaysia.mystream.workers.dev/linearjitp02-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
 
 #EXTGRP:MOVIES
 #EXTINF:0 tvg-id="HBOFamilyAsia.sg" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/HBO%20Family.png",HBO FAMILY
