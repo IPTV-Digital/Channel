@@ -29,17 +29,6 @@ http://103.166.27.2:8112/play/a015/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/drm?pw=update1&id=205
 #https://ariev2.vercel.app/api/play.mpd?id=205&pw=update1
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"E8xTWtSnMgEUeGPKw4bN0w","kid":"79sqjTkVHMOfS1HXYs+cEA"}],"type":"temporary"}
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png", group-title="1Movies",HBO MY 1
-#EXTHTTP:{"Referer": "https://astrogo.astro.com.my", "User-Agent": "Mozilla/5.0"}
-https://astrompd.funds-kawaii.workers.dev/https://linearjitp02-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"E8xTWtSnMgEUeGPKw4bN0w","kid":"79sqjTkVHMOfS1HXYs+cEA"}],"type":"temporary"}
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png", group-title="1Movies",HBO MY 2
-#EXTHTTP:{"Referer": "https://astrogo.astro.com.my", "User-Agent": "Mozilla/5.0"}
-https://malaysia.mystream.workers.dev/linearjitp02-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
 
 #===============#
 # Channel Lokal #
@@ -386,8 +375,9 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c685758bcfff01776bc7624
 #EXTINF:0 tvg-id="NET.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/NET%20TV.jpg",NET. (Max)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(3ea35639-9807-470c-a701-50033b12abfb)/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=8a37645a92b03dcaab0e4e6b21a440ef:6ee84789d2b341c875eddae90e9fda04
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(51f16000-8c78-4e72-8052-7dec807e81c2)/manifest.mpd
+#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(3ea35639-9807-470c-a701-50033b12abfb)/manifest.mpd
 
 #EXTGRP:TV LOKAL
 #EXTINF:0 tvg-id="NET.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/NET%20TV.jpg",NET. (Usee)
@@ -475,6 +465,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6df9359238f/manifest.m3u8
+
+#EXTGRP:TV LOKAL
+#EXTINF:0 tvg-id="tvOne.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/tvOne.jpg",TVONE (Max)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bfc3d890aab43f68a4aada9250de38a4:96438be57265d6967ac23d41a4ee1faf
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0f118d05-28b3-49ed-8de8-ccb58f6460e1)/manifest.mpd
 
 #EXTGRP:TV LOKAL
 #EXTINF:0 tvg-id="tvOne.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/tvOne.jpg",TVONE (Video)
@@ -569,8 +566,10 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40
 #EXTINF:0 tvg-id="MetroTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/MetroTV.jpg",Metro TV (Max MPD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=ba84efcd8080343ab8bd21e1ddfdc894:507e35292c4944e917eb27336014010b
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b370a6c0-70c1-4736-b276-341a2d533848)/manifest.mpd
+
+#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
 #https://cdn01-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
 
 #EXTGRP:TV LOKAL
@@ -1205,13 +1204,19 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
 
 #
 #EXTGRP:NEWS
-#EXTINF:0 tvg-ID="" tvg-logo="", CNA
+#EXTINF:0 tvg-ID="" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_xi5ysa4r/landscape_carousel_xxhdpi.jpg", CNA (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1ae750e09889a610744516182c8e95a:2f7aa7b21102d05a986a4212c4afa06f
 https://nyanv-live-cdn.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
+
+#EXTGRP:NEWS
+#EXTINF:0 tvg-ID="" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_xi5ysa4r/landscape_carousel_xxhdpi.jpg", CNA (Max)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6fdfd8490ecf3ae29956af0c60c3150d:cce6d3395b78e0aa8d251c66126e1868
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ae8a860d-505d-4193-867a-0387caf60b1b)/manifest.mpd
 
 #https://www.cnbcindonesia.com/
 #EXTGRP:NEWS
@@ -1237,13 +1242,26 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 #
 #EXTGRP:NEWS
-#EXTINF:0 tvg-ID="dw.id" tvg-logo="https://static.mncnow.id/images/channel/b2360466/e550_r32.jpg", DW English
+#EXTINF:0 tvg-ID="dw.id" tvg-logo="https://static.mncnow.id/images/channel/b2360466/e550_r32.jpg", DW English (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4472db9a36186f11703d04a4adbbf279:f00791bacba0575927de6cf15cfcd9d9
 https://nyanv-live-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
+
+#EXTGRP:NEWS
+#EXTINF:0 tvg-ID="dw.id" tvg-logo="https://static.mncnow.id/images/channel/b2360466/e550_r32.jpg", DW English (Max)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc90475769ec3f4995364e67977a77a6:50ccd1e13a50d014dbfc8be29a06740d
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d4cacf92-85b9-4c7a-a2cd-2424024b25dc)/manifest.mpd
+
+#EXTGRP:NEWS
+#EXTINF:0 tvg-ID="" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_nt2t5yrg/landscape.png",Euro News (Max)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ea44b71507933cf86f9dd874acb57ad:8815b7fca109cadf2b5c8c99aefa365f
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(90ea43ad-2b29-45f1-94e2-d20299040ca1)/manifest.mpd
 
 #
 #EXTGRP:NEWS
@@ -1294,6 +1312,13 @@ https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 #https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w1327515895_b1128000_sleng.m3u8
+
+#EXTGRP:NEWS
+#EXTINF:0 tvg-id="MetroGlobeNetwork.id" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_0xquedjd/banner_xxhdpi.jpg",Metro Globe Network (Max)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=9b1f2c1379fc33008ddf32858dbd65c0:3ac0651efa18d8777af5ddb00eb8d7dc
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4d3676f1-70b5-4254-9d07-156c50e645e7)/manifest.mpd
 
 #https://www.mncchannels.com/micro/mncnews
 #EXTGRP:NEWS
@@ -1707,20 +1732,17 @@ https://v3.siar.us/ficomchannel/live/playlist.m3u8
 #rtsp://v3.siar.us/ficomchannel/live
 
 #EXTGRP:MOVIES
-#EXTINF:0 tvg-id="FTV.id" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_yb5x8jh7/banner_xxhdpi.jpg",FTV
+#EXTINF:0 tvg-id="FTV.id" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_yb5x8jh7/banner_xxhdpi.jpg",FTV 1(Max)
 #EXTVLCOPT:http-user-agent=MaxStreamPlayer/3.14 (Linux;Android 12) ExoPlayerLib/2.9.6
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data":""}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tflix.my.id/maxs/ftv
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(5cd2bf10-1ac0-4fa7-9543-3520f01b3378)/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tflix.my.id/maxs/ftv
-#EXTINF:-1 tvg-id="cinemax.id" tvg-logo="https://i.postimg.cc/FK43NK2r/ftv.png" group-title="MOVIES",FTV 
-#EXTVLCOPT:http-user-agent=MaxStreamPlayer/3.14 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTGRP:MOVIES
+#EXTINF:0 tvg-id="FTV.id" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_yb5x8jh7/banner_xxhdpi.jpg",FTV 2(Max)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39b19c3ea72f39acb12e08ecdc4859dd:0e89f98197ce19de40c747650c7fe68c
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(5cd2bf10-1ac0-4fa7-9543-3520f01b3378)/manifest.mpd
 
 #https://www.k-vision.tv/
@@ -3067,10 +3089,20 @@ https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
 
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="BaliTV.id" tvg-logo="https://i.ibb.co/tBDHG8M/Bali-tv-hometv.jpg",Bali TV (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6bb2f182bc8c5905c2636153ac36249:152b81c5cd1306bb83993290193063cb
-#https://nxanv-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
+https://nxanv-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
+
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="BaliTV.id" tvg-logo="https://i.ibb.co/tBDHG8M/Bali-tv-hometv.jpg",Bali TV (Max)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=55b9574285ad3e66a58fca5726117bca:f19275e2fcff1de40fc9aeea82982e1d
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(581d02c7-b7e9-4a02-9627-77354c7e1792)/manifest.mpd
 
 #https://www.baliutd.com/tv/
 #EXTGRP:DAERAH
@@ -3346,10 +3378,20 @@ http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
 
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="JTV.id" tvg-logo="https://i.ibb.co/Y2mWkZH/Jtv-hometv.jpg",JTV (+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#https://nxanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
+https://nxanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
+
+#EXTGRP:DAERAH
+#EXTINF:0 tvg-id="JTV.id" tvg-logo="https://i.ibb.co/Y2mWkZH/Jtv-hometv.jpg",JTV (Max)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=3445a1dcc5e3364bad68043662f6a4a6:afc6ccdb3fb8eb55f5b03fbf4fbdbba7
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(390d2da5-6a3f-489a-8b63-d8585dccb4b0)/manifest.mpd
 
 #http://www.ieg.id/tv-channel/karisma/
 #EXTGRP:DAERAH
