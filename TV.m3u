@@ -527,10 +527,11 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(a75d0b62-972c-47
 #EXTINF:0 tvg-id="RajawaliTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/rtv.jpg",Rajawali TV (RTV) (Max MPD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4a5864ca39953ad7878ad7fe1216cf84:793c44467f1d13dfbafed3181b8ae963
+
+#KODIPROP:inputstream.adaptive.license_key=0dc1e828693e30d88d0e26677e572992:339ff6f612893358ea95bf9b0f6ad70b
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a75d0b62-972c-4700-9c8e-59367ef275cb)/manifest.mpd
 #https://cdn01-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(a75d0b62-972c-4700-9c8e-59367ef275cb)/manifest.mpd
-
+#KODIPROP:inputstream.adaptive.license_key=4a5864ca39953ad7878ad7fe1216cf84:793c44467f1d13dfbafed3181b8ae963
 #https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
 
 #EXTGRP:TV LOKAL
@@ -612,7 +613,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/manifest.mpd
+#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/manifest.mpd
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
 #https://cdn01-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/manifest.mpd
 
 #EXTGRP:TV LOKAL
@@ -838,6 +840,27 @@ https://rrinet.rri.co.id/hls/live.m3u8
 #KODIPROP:inputstream.adaptive.license_key=
 https://cdn09jtedge.indihometv.com/dvr/139/rrinet/manifest.mpd
 
+#EXTGRP:TV LOKAL
+#EXTINF:0 tvg-id="" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_zzk5g5cb/landscape_carousel_xxhdpi.jpg",MT@TV (Max)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2042b14c71bf371b8dd79df80935424f:ef89928b06ab36361e8e38d9d2cee7e8
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
+
+#EXTGRP:TV LOKAL
+#EXTINF:0 tvg-id="" tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",Maxstream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
+
+#EXTGRP:TV LOKAL
+#EXTINF:0 tvg-logo="https://images.indihometv.com/assets/ALLPLAY-HD-OTT-88.png",Allplay Ent.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
+
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="TV LOKAL",
 
@@ -1036,6 +1059,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/indikids/license-proxy-widevine/cenc/?specConform=true
 #https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/manifest.mpd
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/manifest.mpd
+
+#EXTINF:0 tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png" group-title="Kids",Fun Planet
+#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/manifest.mpd
 
 #https://www.mncchannels.com/micro/Kids-TV
 #EXTGRP:KIDS
@@ -1305,23 +1331,39 @@ https://nyanv-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
 #https://www.kompas.tv/
 #EXTGRP:NEWS
-#EXTINF:0 tvg-id="KompasTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Kompas%20TV.jpg",Kompas TV
+#EXTINF:0 tvg-id="KompasTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Kompas%20TV.jpg",Kompas TV (Dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-
-#Dens
 #http://rr2.dens.tv/s/s104/index.m3u8
 #http://210.210.155.35/qwr9ew/s/s104/index.m3u8
 #http://210.210.155.37/qwr9ew/s/s104/index.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 
+#EXTGRP:NEWS
+#EXTINF:0 tvg-id="KompasTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Kompas%20TV.jpg",Kompas TV (Max HLS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(58a2dc45-6d76-4c6e-b5fa-8ec140c30553)/index.m3u8
 
+#EXTGRP:NEWS
+#EXTINF:0 tvg-id="KompasTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Kompas%20TV.jpg",Kompas TV (Max MPD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=975518c24ddb328f8d87a5fcbe91bb5a:207ec26be0a83928e9c11653b51c4cbe
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(58a2dc45-6d76-4c6e-b5fa-8ec140c30553)/manifest.mpd
+
+#EXTGRP:NEWS
+#EXTINF:0 tvg-id="KompasTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Kompas%20TV.jpg",Kompas TV (FM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8
 
+#EXTGRP:NEWS
+#EXTINF:0 tvg-id="KompasTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Kompas%20TV.jpg",Kompas TV (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=493fd10e609dd02ae97964f438e7e530:695cf9896182c52f1c3a25820e7778f5
-#https://nxanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+https://nxanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #https://www.metroglobe.id/live
 #EXTGRP:NEWS
@@ -1351,22 +1393,29 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCNews/sa_dash_vmx/MNCNews.mpd
 
 #
 #EXTGRP:NEWS
-#EXTINF:0 tvg-ID="arirang.id" tvg-logo="", NHK World
+#EXTINF:0 tvg-ID="arirang.id" tvg-logo="", NHK World (Dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://op-group1-swiftservehd-1.dens.tv/h/h23/index.m3u8
 
-#Dens
-#https://op-group1-swiftservehd-1.dens.tv/h/h23/index.m3u8
-
+#EXTGRP:NEWS
+#EXTINF:0 tvg-ID="arirang.id" tvg-logo="", NHK World (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62ce01c83653c3f20af6bcafc6979fe6:f1325e71f440c06f7e93d7551cb4014a
 https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 
+#EXTGRP:NEWS
+#EXTINF:0 tvg-ID="arirang.id" tvg-logo="", NHK World (Max)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=975518c24ddb328f8d87a5fcbe91bb5a:207ec26be0a83928e9c11653b51c4cbe
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f21c468-f2c0-444d-aee1-ed7339f40402)/manifest.mpd
+
 #
 #EXTGRP:NEWS
 #EXTINF:0 tvg-ID="arirang.id" tvg-logo="",NHK World Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a56d6a274eb073cdf94754bd0ffe3335:10ad173ac7249bc42c8390c090ca09e3
@@ -1376,9 +1425,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPr
 #EXTGRP:NEWS
 #EXTINF:0 tvg-id="SEAToday.id" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_81uwc59i/banner_xxhdpi.jpg",SEA Today
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
-
+#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
 #http://edge.linknetott.swiftserve.com/channelgroup5/cg546production/ch416/index.m3u8
 
 #
@@ -2175,7 +2225,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
 #EXTGRP:SPORTS
-#EXTINF:0 tvg-id="SPOTV.Id" tvg-logo="https://i.ibb.co/60xH5KT/Spotv-1-hometv.jpg",SPOTV
+#EXTINF:0 tvg-id="SPOTV.Id" tvg-logo="https://i.ibb.co/60xH5KT/Spotv-1-hometv.jpg",SPOTV (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -2186,7 +2236,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #https://cdn08jtedge.indihometv.com/dassdvr/194/spotv/manifest.mpd
 
 #EXTGRP:SPORTS
-#EXTINF:0 tvg-id="SPOTV2.Id" tvg-logo="https://i.ibb.co/85XFV75/Spotv-2-hometv.jpg",SPOTV 2
+#EXTINF:0 tvg-id="SPOTV2.Id" tvg-logo="https://i.ibb.co/85XFV75/Spotv-2-hometv.jpg",SPOTV 2 (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -2196,7 +2246,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #https://www.mncchannels.com/micro/MNC-Sport
 #EXTGRP:SPORTS
-#EXTINF:0 tvg-id="MNCSports.Id" tvg-logo="https://static.mncnow.id/images/channel/84189654/9280_r32.jpg",MNC Sports
+#EXTINF:0 tvg-id="MNCSports.Id" tvg-logo="https://static.mncnow.id/images/channel/84189654/9280_r32.jpg",MNC Sports (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -2206,7 +2256,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.
 
 #https://www.mncchannels.com/micro/MNC-Sport
 #EXTGRP:SPORTS
-#EXTINF:0 tvg-id="MNCSports2.Id" tvg-logo="https://static.mncnow.id/images/channel/72cb1403/24c1_r32.jpg",MNC Sports 2
+#EXTINF:0 tvg-id="MNCSports2.Id" tvg-logo="https://static.mncnow.id/images/channel/72cb1403/24c1_r32.jpg",MNC Sports 2 (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -2216,7 +2266,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-H
 
 #https://www.mncchannels.com/micro/MNC-Sport
 #EXTGRP:SPORTS
-#EXTINF:0 tvg-id="MNCSports3.Id" tvg-logo="https://static.mncnow.id/images/channel/2e3fb585/eef1_r32.jpg",MNC Sports 3
+#EXTINF:0 tvg-id="MNCSports3.Id" tvg-logo="https://static.mncnow.id/images/channel/2e3fb585/eef1_r32.jpg",MNC Sports 3 (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -2226,7 +2276,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-H
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 #EXTGRP:SPORTS
-#EXTINF:0 group-title="SPORTS" tvg-id="SPORTSTARS 4" tvg-logo="https://tv.qreatifku.my.id/images/s4.png",MNC Sports 4
+#EXTINF:0 group-title="SPORTS" tvg-id="SPORTSTARS 4" tvg-logo="https://tv.qreatifku.my.id/images/s4.png",MNC Sports 4 (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -2235,7 +2285,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-H
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #EXTGRP:SPORTS
-#EXTINF:0 tvg-id="FightSports.Id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443",Fight Sports
+#EXTINF:0 tvg-id="FightSports.Id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443",Fight Sports (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -2245,14 +2295,14 @@ https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mp
 
 #https://www.mncchannels.com/micro/Soccer-Channel
 #EXTGRP:SPORTS
-#EXTINF:0 tvg-id="SoccerChannel.Id" tvg-logo="https://static.mncnow.id/images/channel/9abc87ac/038d_r32.jpeg",Soccer Channel
+#EXTINF:0 tvg-id="SoccerChannel.Id" tvg-logo="https://static.mncnow.id/images/channel/9abc87ac/038d_r32.jpeg",Soccer Channel (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
 #https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
-https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 #EXTGRP:SPORTS
@@ -2270,21 +2320,56 @@ https://live.ferymaleha.workers.dev/linearjitp-playback.astro.com.my/dash-wv/lin
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 #EXTGRP:SPORTS
-#EXTINF:-1 tvg-id="UseeSports" tvg-logo="https://i.imgur.com/DeA35re.png",UseeSports 1
+#EXTINF:-1 tvg-id="UseeSports" tvg-logo="https://i.imgur.com/DeA35re.png",Usee Sports 1 (Usee)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/useesport/manifest.mpd
 
 #EXTGRP:SPORTS
-#EXTINF:-1 tvg-id="UseeSports2" tvg-logo="https://i.imgur.com/QanFnCo.png",UseeSports 2
+#EXTINF:-1 tvg-id="UseeSports" tvg-logo="https://i.imgur.com/DeA35re.png",Usee Sports 1 (Max)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d724a7d5-0773-43a6-bf5b-06da1883d520)/manifest.mpd
 
+#EXTGRP:SPORTS
+#EXTINF:-1 tvg-id="UseeSports2" tvg-logo="https://i.imgur.com/QanFnCo.png",Usee Sports 2 (Usee)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
 
+#EXTGRP:SPORTS
+#EXTINF:-1 tvg-id="UseeSports2" tvg-logo="https://i.imgur.com/QanFnCo.png",Usee Sports 2 (Max)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/manifest.mpd
+
+#EXTGRP:SPORTS
+#EXTINF:-1 tvg-id="ChampionsTV5.id" tvg-name="Champions TV 5" tvg-logo="https://thumbor.prod.vidiocdn.com/rDybdMMOC-NZ1bzkWvpSRYBxeG8=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg", Champions TV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=558b54e3d4978eedbfbf2ad215334c84:4cc048dd3b696021198659d6c1e5bc1e
+https://etslive-2-vidio-com.akamaized.net/drm/dash/9182_stream.mpd
+
+#EXTGRP:SPORTS
+#EXTINF:-1 tvg-id="ChampionsTV6.id" tvg-name="Champions TV 6" tvg-logo="https://thumbor.prod.vidiocdn.com/C4KPuTc3ag2XzBR_ZqMECdK0Xpg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg", Champions TV 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e9cb6b6b9e0255418d3b255ab669a8b:a90a1b5c23899b0762a5a6230a8813bd
+https://etslive-2-vidio-com.akamaized.net/drm/dash/9183_stream.mpd
+
+#EXTGRP:SPORTS
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg", remier League TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cdb6f38ce29ecfe657c7cade307587da:d38d7243bd224a9c2b1ea716f19c9950
+https://etslive-2-vidio-com.akamaized.net/drm/dash/9353_stream.mpd
 
 
 #===================#
@@ -2954,9 +3039,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 
 #https://rodja.tv/
 #EXTGRP:RELIGIOUS
-#EXTINF:0 tvg-id="RodjaTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/RODJA.png",Rodja TV
+#EXTINF:0 tvg-id="RodjaTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/RODJA.png",Rodja TV (Max)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b94ed70a76fd3342829615cffd163637:ed90d2b8e6fdc76d7b4aa4d87f3e5df8
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8c0bee7a-4778-4ff2-a07c-f519c1423184)/manifest.mpd
+#https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8
 #https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/manifest.mpd
 #https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
 
