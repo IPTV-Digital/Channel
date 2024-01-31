@@ -29,6 +29,12 @@ http://103.166.27.2:8112/play/a015/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/drm?pw=update1&id=205
 #https://ariev2.vercel.app/api/play.mpd?id=205&pw=update1
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+#https://etslive-2-vidio-com.akamaized.net/drm/dash/16961_stream.mpd
+
 
 #===============#
 # Channel Lokal #
@@ -474,6 +480,13 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6df935
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0f118d05-28b3-49ed-8de8-ccb58f6460e1)/manifest.mpd
 
 #EXTGRP:TV LOKAL
+#EXTINF:0 tvg-id="tvOne.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/tvOne.jpg",TVONE (Usee)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
+https://cdn08jtedge.indihometv.com/dassdvr/130/tvone/manifest.mpd
+
+#EXTGRP:TV LOKAL
 #EXTINF:0 tvg-id="tvOne.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/tvOne.jpg",TVONE (Video)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -510,7 +523,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=30384ee5424eab4afdff34d7a59e0ef9:5f3d2f2c194266ae9a28210f8976cbe0
 https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
-EXTGRP:TV LOKAL
+#EXTGRP:TV LOKAL
 #EXTINF:0 tvg-id="RajawaliTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/rtv.jpg",Rajawali TV (RTV) (Cubmu)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -527,7 +540,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(a75d0b62-972c-47
 #EXTINF:0 tvg-id="RajawaliTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/rtv.jpg",Rajawali TV (RTV) (Max MPD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=0dc1e828693e30d88d0e26677e572992:339ff6f612893358ea95bf9b0f6ad70b
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a75d0b62-972c-4700-9c8e-59367ef275cb)/manifest.mpd
 #https://cdn01-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(a75d0b62-972c-4700-9c8e-59367ef275cb)/manifest.mpd
@@ -750,7 +762,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index
 #EXTINF:0 tvg-id="CitraDangdut.id" tvg-logo="https://i.imgur.com/77KYgbz.png",Citra Dangdut (Usee)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=636974726164616e6764757430303030:65232737d3a5e4e14dbfd3d96805d30b
 https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
 
 #
@@ -848,11 +860,18 @@ https://cdn09jtedge.indihometv.com/dvr/139/rrinet/manifest.mpd
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
 
 #EXTGRP:TV LOKAL
-#EXTINF:0 tvg-id="" tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",Maxstream
+#EXTINF:0 tvg-id="" tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",Maxstream (Max MPD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
+
+#EXTGRP:TV LOKAL
+#EXTINF:0 tvg-id="" tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",Maxstream (Usee)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 #EXTGRP:TV LOKAL
 #EXTINF:0 tvg-logo="https://images.indihometv.com/assets/ALLPLAY-HD-OTT-88.png",Allplay Ent.
@@ -1982,23 +2001,32 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.
 #https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f092c2ba-4baa-4ebb-bd60-1cfb1af07da5)/manifest.mpd
 
 #EXTGRP:MOVIES
-#EXTINF:0 tvg-id="GEM.sg" tvg-logo="https://i.imgur.com/bZ6k1nA.png",Sony GEM
+#EXTINF:0 tvg-id="GEM.sg" tvg-logo="https://i.imgur.com/bZ6k1nA.png",Sony GEM (Usee)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
+https://cdn08jtedge.indihometv.com/dassdvr/133/sgem/manifest.mpd
 #https://cdn09jtedge.indihometv.com/dvr/139/sgem/manifest.mpd
 
-http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/index.m3u8
+#EXTGRP:MOVIES
+#EXTINF:0 tvg-id="GEM.sg" tvg-logo="https://i.imgur.com/bZ6k1nA.png",Sony GEM (FM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8
+#http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/index.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTGRP:MOVIES
+#EXTINF:0 tvg-id="GEM.sg" tvg-logo="https://i.imgur.com/bZ6k1nA.png",Sony GEM (Cubmu)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
-#https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018455fce9454360/manifest.mpd
+https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018455fce9454360/manifest.mpd
 
+#EXTGRP:MOVIES
+#EXTINF:0 tvg-id="GEM.sg" tvg-logo="https://i.imgur.com/bZ6k1nA.png",Sony GEM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9
-#https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
+https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 
 #EXTGRP:MOVIES
 #EXTINF:0 tvg-id="onetvasia.sg" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/ONE.png",Sony ONE
@@ -2013,26 +2041,34 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/index
 https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #EXTGRP:MOVIES
-#EXTINF:0 tvg-id"rockextreme.sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest?cb=20221212024829",Rock Action
+#EXTINF:0 tvg-id"rockextreme.sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest?cb=20221212024829",Rock Action (Dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#http://210.210.155.35/dr9445/h/h15/index.m3u8
 
-#Dens
-http://210.210.155.35/dr9445/h/h15/index.m3u8
-
+#EXTGRP:MOVIES
+#EXTINF:0 tvg-id"rockextreme.sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest?cb=20221212024829",Rock Action (FM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch330%29/index.m3u8
 #http://edge.linknetott.swiftserve.com/channelgroup2/cg255production/ch330/index.m3u8
 
+#EXTGRP:MOVIES
+#EXTINF:0 tvg-id"rockextreme.sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest?cb=20221212024829",Rock Action (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#https://nyanv-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=626c7565616e7465787472656d653030:8cc660cfe6b6e8508d55f777f1b13285
 
+#EXTGRP:MOVIES
+#EXTINF:0 tvg-id"rockextreme.sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest?cb=20221212024829",Rock Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=a6d8da647fc02d64463e38e222f268b0:f4d533e9d51a2aa66af7aaf27f54f92a
-#https://etslive-2-vidio-com.akamaized.net/drm/dash/8121_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/drm/dash/8121_stream.mpd
 
 #EXTGRP:MOVIES
 #EXTINF:0 tvg-id"rockentertainment.sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/ROCK_entertainment_UHD.png/revision/latest?cb=20210911032942",Rock Entertainment
@@ -2283,6 +2319,21 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-H
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+#EXTGRP:SPORTS
+#EXTINF:0 group-title="SPORTS" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/SQycWiqqMK6FDAldu-upv21M56A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6717/nba-tv-646502.jpg",NBA TV (Vidio)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3202fdcca01dc12b3d562574f8378b8d:d50f7c9ced01c121b831dc2b6074f911
+https://etslive-2-vidio-com.akamaized.net/drm/dash/6717_stream.mpd
+
+#EXTGRP:SPORTS
+#EXTINF:0 group-title="SPORTS" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/SQycWiqqMK6FDAldu-upv21M56A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6717/nba-tv-646502.jpg",NBA TV (Usee)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 
 #EXTGRP:SPORTS
 #EXTINF:0 tvg-id="FightSports.Id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443",Fight Sports (V+)
