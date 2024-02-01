@@ -2430,15 +2430,25 @@ https://etslive-2-vidio-com.akamaized.net/drm/dash/9353_stream.mpd
 
 
 #EXTGRP:KNOWLEDGE
-#EXTINF:0 tvg-id="AnimalPlanetIndonesia.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjFC9HqbMxvNN9vSd91zpfuQ0b736u9z2tyw&usqp=dCAU",Animal Planet
+#EXTINF:0 tvg-id="AnimalPlanetIndonesia.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjFC9HqbMxvNN9vSd91zpfuQ0b736u9z2tyw&usqp=dCAU",Animal Planet (FM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
+#http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/index.m3u8
 
-http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/index.m3u8
-
+#EXTGRP:KNOWLEDGE
+#EXTINF:0 tvg-id="AnimalPlanetIndonesia.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjFC9HqbMxvNN9vSd91zpfuQ0b736u9z2tyw&usqp=dCAU",Animal Planet (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=ccc52e94c493492773612a04fa3a1ae1:adf87643eef60a4df18d69044a970d66
 #https://nyanv-live-cdn.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
+
+#EXTGRP:KNOWLEDGE
+#EXTINF:0 tvg-id="AnimalPlanetIndonesia.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjFC9HqbMxvNN9vSd91zpfuQ0b736u9z2tyw&usqp=dCAU",Animal Planet (Usee)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=64756e69616c61696e30303030303030:d742218958e10ca989be6a63f2db9b6d
+https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 
 #EXTGRP:KNOWLEDGE
 #EXTINF:0 tvg-id="BBCEarthAsia.uk" tvg-logo="https://cms.bbcasia.com/sites/default/files/2021-05/Earth.jpg",BBC Earth
@@ -2476,6 +2486,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeIn
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/crimeinvestigation/manifest.mpd
+
+#EXTGRP:KNOWLEDGE
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyrz2wJOqPQToudptRma5A9sf0Rk5ydUeqTVwMDaehvtsL7LQfrImwX0MBVTz8vXMaG98&usqp=CAU", CURIOSITY (Usee)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 
 #EXTGRP:KNOWLEDGE
 #EXTINF:0 tvg-id="DiscoveryAsia.sg" tvg-logo="https://i.postimg.cc/2yhWQ5zR/20221026-003145.png",Discovery Asia
@@ -2526,6 +2543,31 @@ https://nyanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 #http://rr3.dens.tv/s/s36/index.m3u8
 #http://210.210.155.37/x6bnqe/s/s36/index.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
+
+#EXTGRP:KNOWLEDGE
+#EXTINF:0 tvg-logo="https://i.postimg.cc/tJrD3skw/ln.png", Love Nature (FM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch368%29/index.m3u8
+
+#EXTGRP:KNOWLEDGE
+#EXTINF:0 tvg-logo="https://i.postimg.cc/tJrD3skw/ln.png", Love Nature (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+
+#EXTGRP:KNOWLEDGE
+#EXTINF:0 tvg-logo="https://i.postimg.cc/tJrD3skw/ln.png", Love Nature (Usee)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd
+
+#EXTGRP:KNOWLEDGE
+#EXTINF:0 tvg-id="love-nature-4k" tvg-logo="https://i.imgur.com/oDacp1F.png", Love Nature 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #https://www.transvision.co.id/channel/lingua.html
 #EXTGRP:KNOWLEDGE
@@ -2837,10 +2879,24 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index
 
 #https://www.vidio.com/live/8241-rans-channel
 #EXTGRP:LIFESTYLE
-#EXTINF:0 tvg-id="RANSEntertainment.id" tvg-logo="https://i.imgur.com/YV8nB40.png",RANS Entertainment (NO)
+#EXTINF:0 tvg-id="RANSEntertainment.id" tvg-logo="https://i.imgur.com/YV8nB40.png",RANS Entertainment (Vidio)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=8241&type=hls
 #https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
+
+#EXTGRP:LIFESTYLE
+#EXTINF:0 tvg-logo="https://images.indihometv.com/logo_shenzen_small.png", Shenzen TV (Usee)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://cdn08jtedge.indihometv.com/dassdvr/130/shenzen/manifest.mpd
+
+#EXTGRP:LIFESTYLE
+#EXTINF:0 tvg-id="ZhejiangSatelliteTVInternational.cn" tvg-logo="https://i.imgur.com/XOL1Hph.png", Zhejiang TV International (Usee)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://cdn08jtedge.indihometv.com/dassdvr/130/zhejiang/manifest.mpd
 
 
 
