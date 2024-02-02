@@ -60,8 +60,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch8%29/index.m3u8
 
-#http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
-
 #EXTGRP:TV LOKAL
 #EXTINF:0 tvg-id="Indosiar.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Indosiar.jpg",INDOSIAR (Usee)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -105,8 +103,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch395%29/index.m3u8
 
-#http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
-
 #EXTGRP:TV LOKAL
 #EXTINF:0 tvg-id="SCTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/SCTV.jpg",SCTV (Usee)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -149,8 +145,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8
 #EXTINF:0 tvg-id="MOJIOCHANNEL.Id" tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg",Moji (FM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch26%29/index.m3u8
-
-#http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/index.m3u8
 
 #EXTGRP:TV LOKAL
 #EXTINF:0 tvg-id="MOJIOCHANNEL.Id" tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg",Moji (Usee)
@@ -287,8 +281,6 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8
 
-#http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/index.m3u8
-
 #EXTGRP:TV LOKAL
 #EXTINF:0 tvg-id="TransTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/TransTV.jpg",Trans TV (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -325,8 +317,6 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:0 tvg-id="Trans7.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Trans7.jpg",Trans 7 (FM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index.m3u8
-
-#http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/index.m3u8
 
 #EXTGRP:TV LOKAL
 #EXTINF:0 tvg-id="Trans7.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Trans7.jpg",Trans 7 (V+)
@@ -415,8 +405,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch7%29/index.m3u8
 
-#http://edge.linknetott.swiftserve.com/channelgroup3/cg314production/ch7/index.m3u8
-
 #EXTGRP:TV LOKAL
 #EXTINF:0 tvg-id="ANTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/ANTV.jpg",ANTV (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -453,8 +441,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h224/index.m3u8
 #EXTINF:0 tvg-id="tvOne.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/tvOne.jpg",TVONE (FM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch12%29/index.m3u8
-
-#http://edge.linknetott.swiftserve.com/channelgroup3/cg327production/ch12/index.m3u8
 
 #EXTGRP:TV LOKAL
 #EXTINF:0 tvg-id="tvOne.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/tvOne.jpg",TVONE (V+)
@@ -543,6 +529,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(a75d0b62-972c-47
 #KODIPROP:inputstream.adaptive.license_key=0dc1e828693e30d88d0e26677e572992:339ff6f612893358ea95bf9b0f6ad70b
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a75d0b62-972c-4700-9c8e-59367ef275cb)/manifest.mpd
 #https://cdn01-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(a75d0b62-972c-4700-9c8e-59367ef275cb)/manifest.mpd
+
 #KODIPROP:inputstream.adaptive.license_key=4a5864ca39953ad7878ad7fe1216cf84:793c44467f1d13dfbafed3181b8ae963
 #https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
 
@@ -590,8 +577,6 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b370a6c0-70c1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/index.m3u8
 
-#http://edge.linknetott.swiftserve.com/channelgroup5/cg536production/ch394/index.m3u8
-
 #EXTGRP:TV LOKAL
 #EXTINF:0 tvg-id="MetroTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/MetroTV.jpg",Metro TV (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -625,8 +610,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/manifest.mpd
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
+#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/manifest.mpd
 #https://cdn01-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/manifest.mpd
 
 #EXTGRP:TV LOKAL
@@ -647,8 +632,6 @@ https://op-group1-swiftservesd-1.dens.tv/s/s182/S4/mnf.m3u8
 #EXTINF:0 tvg-id="DAAITV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/DAAI.jpg",DAAI TV (FM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch128%29/index.m3u8
-
-#http://edge.linknetott.swiftserve.com/channelgroup4/cg418production/ch128/index.m3u8
 
 #EXTGRP:TV LOKAL
 #EXTINF:0 tvg-id="DAAITV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/DAAI.jpg",DAAI TV (V+)
@@ -684,8 +667,6 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7a73ed02-e0de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch392%29/index.m3u8
 
-#http://edge.linknetott.swiftserve.com/channelgroup5/cg530production/ch392/index.m3u8
-
 #EXTGRP:TV LOKAL
 #EXTINF:0 tvg-id="JakTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Jak%20tv.jpg",Jak TV (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -711,8 +692,6 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)
 #EXTINF:0 tvg-id="" tvg-logo="http://klik.tvri.go.id/images/TVRI_Logo.png",TVRI Nasional (FM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch399%29/index.m3u8
-
-#http://edge.linknetott.swiftserve.com/channelgroup2/cg221production/ch399/index.m3u8
 
 #EXTGRP:TV LOKAL
 #EXTINF:0 tvg-id="" tvg-logo="http://klik.tvri.go.id/images/TVRI_Logo.png",TVRI Nasional (V+)
@@ -756,12 +735,10 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(81b456ab-b398
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index.m3u8
 
-#http://edge.linknetott.swiftserve.com/channelgroup4/cg438production/ch377/index.m3u8
-
 #EXTGRP:TV LOKAL
 #EXTINF:0 tvg-id="CitraDangdut.id" tvg-logo="https://i.imgur.com/77KYgbz.png",Citra Dangdut (Usee)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=636974726164616e6764757430303030:65232737d3a5e4e14dbfd3d96805d30b
 https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
 
@@ -778,6 +755,13 @@ https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729c921bc43c00/manifest.mpd
+
+#EXTGRP:TV LOKAL
+#EXTINF:0 tvg-id="SeruChannel.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Channel%20Seru!.jpg",Seru! Channel (Usee)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=
+https://cdn08jtedge.indihometv.com/dassdvr/134/seru/manifest.mpd
 
 #https://www.indihometv.com/
 #EXTGRP:TV LOKAL
@@ -2567,7 +2551,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd
 #EXTGRP:KNOWLEDGE
 #EXTINF:0 tvg-id="love-nature-4k" tvg-logo="https://i.imgur.com/oDacp1F.png", Love Nature 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #https://www.transvision.co.id/channel/lingua.html
 #EXTGRP:KNOWLEDGE
@@ -2663,12 +2648,17 @@ http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3002
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR&bizkeylivestarttime=0
 
 #EXTGRP:LIFESTYLE
-#EXTINF:0 tvg-id="citradrama.id" tvg-logo="https://i.imgur.com/lXhXwx7.png",Citra Drama
+#EXTINF:0 tvg-id="citradrama.id" tvg-logo="https://i.imgur.com/lXhXwx7.png",Citra Drama (FM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=cdrama
-https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=cdrama
+#EXTGRP:LIFESTYLE
+#EXTINF:0 tvg-id="citradrama.id" tvg-logo="https://i.imgur.com/lXhXwx7.png",Citra Drama (Usee)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
+https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama_dash/manifest.mpd
+
 
 #http://www.dens.tv/
 #EXTGRP:LIFESTYLE
@@ -2845,37 +2835,38 @@ https://newanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfota
 https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 #EXTGRP:LIFESTYLE
-#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/w2jusUK.jpg",TLC
+#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/w2jusUK.jpg",TLC(V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#https://newanv-live-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+https://newanv-live-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
+#EXTGRP:LIFESTYLE
+#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/w2jusUK.jpg",TLC (Usee)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
 https://cdn08jtedge.indihometv.com/dassdvr/130/tlc/manifest.mpd
 
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch35)/index.m3u8
+#EXTGRP:LIFESTYLE
+#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/w2jusUK.jpg",TLC (FM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch35)/index.m3u8
 
 #https://www.kemkes.go.id/
 #EXTGRP:LIFESTYLE
 #EXTINF:0 tvg-id="TVKesehatan.id" tvg-logo="https://i.imgur.com/IGIX3o8.jpeg",TV Kesehatan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 
 #http://www.ieg.id/tv-channel/citra-entertainment/
 #EXTGRP:LIFESTYLE
 #EXTINF:0 tvg-id="CitraEntertainment.id" tvg-logo="https://i.imgur.com/Q1N6ka8.png",Citra Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-
-#https://dl.dropbox.com/s/brn65fbh3gjip9a/info.m3u8
-#http://thefirefox12537.github.io/streams/citraent.m3u8
-#http://edge.linknetott.swiftserve.com/channelgroup4/cg439production/ch379/index.m3u8
-#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch379)/index.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch379)/index.m3u8
 
 #https://www.vidio.com/live/8241-rans-channel
 #EXTGRP:LIFESTYLE
